@@ -11,6 +11,6 @@ Blockchain is a technology that can be understood as a continuously growing list
 
 In combination these two techs do excellent job. Pictures and photos of talents will be stored using PIDS and their hash-sums encoded into blockchain with a timestamp, so that anyone can be sure that the files are related to certain person and certain event!
 
-These technologies are crucially important for our project, but since we are interested in IT a lot there will be much more interesting stuff to underline our main principles of transparency, security, and efficiency. 
+These technologies are crucially important for our project, but since we are interested in IT a lot there will be much more interesting stuff to underline our main principles of transparency, security, and efficiency.
 
 ![MDL Explained](https://gateway.ipfs.io/ipfs/QmVqUgtsLLuUmLfEJSpejr36LFmSpnGsBLVKVj28tCkege/MDL%20Explained.jpg)
