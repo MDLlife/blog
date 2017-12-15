@@ -24,6 +24,7 @@ In order to keep our financial flows positive we are considering the following m
 **Innovative Streams**
 
   1. Reputation-based partnership programs with brands
+  
 Talents are special. They are more than average because of their skills, appearance, and personality. People look at them more often. So why don’t they get a discount on some products or services and became a live advertisement? The higher the talent reputation, the higher the discount! Credibility of talent reputation is powered by blockchain technology and transactions are supported with MDL Token. This is advertisment sharing.
 ![MDL Partnership](https://gateway.ipfs.io/ipfs/QmXYFsWZ6xD8x1JoHW4XTisgURXJbtTd2XrM2n2UNPkWHb/partnership.jpg)
   2. Prosumer ecosystem marketplace
