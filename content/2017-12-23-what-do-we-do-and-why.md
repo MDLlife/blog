@@ -5,8 +5,10 @@ date = "2017-12-23"
 
 ***What we are doing and why?***
 
-In the ongoing blockchain mania there are so many projects that seem to be less genuine or even fake. ICO became an easy tool for startups to raise funds and so scammers are up for a long buck as well. Is MDL Talent Hub a real thing with solid vision and development plan or it is just riding a wave of cryptohype? We believe we stand on the solid ground and here is why. 
-First of all, why do we need blockchain technology to create just a recruitment application? 
+In the ongoing blockchain mania there are so many projects that seem to be less genuine or even fake. ICO became an easy tool for startups to raise funds and so scammers are up for a long buck as well. Is MDL Talent Hub a real thing with determined vision and development plan or it is just riding a wave of cryptohype? We believe we stand on the solid ground and here is why. 
+
+**First of all, why do we need blockchain technology to create just a recruitment application?** 
+
 We believe that current means of booking talents are outdated logically and technologically. With help of blockchain technology (as well as other instruments and approaches) we are going to create reputational module, so that any market activity can be consolidated and traced. More than that, using MDL Token we are going to create ecosystem economy, which will allow us not only attract more participants, but also spread sources of income. Thus commission on transactions will be decreased and hence we will outrange our possible competitors. 
 
 ***Why do we exactly work with performers sourcing market?***
