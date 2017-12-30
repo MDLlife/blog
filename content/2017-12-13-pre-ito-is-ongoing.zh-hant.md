@@ -10,7 +10,7 @@ http://wavesgo.com/tokens/HtM2zY7gDnGbmNmEtF44K8TGCgajDj4rBX29bH87kwXP
 
 在2018年1月，我們計劃結束預備ITO中的MDL代幣的發售。
 
-如果想要參與預備ITO，參加者應先前往 waveswallet.io 安裝Waves錢包。
+如果想要參與預備ITO，參加者應先前往 [wav﻿eswall﻿et.io](https://wav﻿eswalle﻿t.io) 安裝Waves錢包。
 
 在2018年1月預備ITO中，我們將以0,01美元的平均價格發行總額的50%，數量為50,000,000個代幣。20%的金額將被用作於平台協助開發者的獎池，30%的金額將留在團隊為后續開發作為鋪墊。
 
