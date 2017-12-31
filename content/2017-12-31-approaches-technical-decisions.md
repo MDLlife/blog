@@ -24,4 +24,5 @@ Through a gateway. MDL mainnet will be based on Sky's codebase, therefore inheri
 Well, you still should be cautious and never invest more than it's crucial for you to lose in the case of global emergency. Nobody in MDL project is insured against an earthquake or sudden tsunami. The thing will be workable according to our roadmap in any case.
 
 Happy 2018, Ladies and Gentlemen!
-MDL, Roman Tronenko, CTO
+
+Roman Tronenko, MDL.life's CTO
