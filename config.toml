@@ -18,6 +18,8 @@ DefaultContentLanguageInSubdir = "false"
     weight = 2
   [Languages.kr]
     weight = 2
+  [Languages.ja]
+    weight = 2
   [Languages.ar]
     weight = 2
 
