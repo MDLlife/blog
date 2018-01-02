@@ -19,6 +19,10 @@ MDL is [currently] not a dapp or a mere bunch of smart contracts. We see blockch
 
 Through a gateway. MDL mainnet will be based on Sky's codebase, therefore inheriting its precious qualities. Skycoin's OTC have proven to its team and the community that it works well, code of which everybody can observe and analyze at github.com/skycoin/teller. We're simply adding support for WAVES node, work on which has already started.
 
+***Why you shouldn’t worry?***
+
+We are not the first project doing gateway to the Sky-code-based blockchain and previous cases were smooth. The transition from Pre-MDL [MDL.life token on Waves] to MDL [mainnet] will have full informational support and our team will help to solve any confusion. The period of transition will be open long enough for everyone to make the exchange. We do care that everyone is happy while cooperating with MDL.
+
 ***Why we are happy?***
 
 Well, you still should be cautious and never invest more than it's crucial for you to lose in the case of global emergency. Nobody in MDL project is insured against an earthquake or sudden tsunami. The thing will be workable according to our roadmap in any case.
