@@ -22,6 +22,8 @@ DefaultContentLanguageInSubdir = "false"
     weight = 2
   [Languages.ar]
     weight = 2
+  [Languages.de]
+    weight = 2
 
 [Params]
   logo = "https://ipfs.io/ipfs/QmdfEPfbk5wbWJPYcLRNk9n847J1Zva7gDXR7LsyyhyrGS"
