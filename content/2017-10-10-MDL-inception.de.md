@@ -1,5 +1,7 @@
-++title = "MDL Einführung  (Video)"++
-++date = "2017-10-08"++
++++
+title = "MDL Einführung  (Video)"
+date = "2017-10-08"
++++
 
 ![MDL Video](https://ipfs.io/ipfs/QmeqKazV19qNmysr6yfuxmVujN2wq6fzJqZUZhqSSCRo46")
 
@@ -17,7 +19,7 @@ Ein paar wenige Worte zu uns:
 
 **Dimitri Timochin.** Studiert an der Staatlichen St. Petersburger Universität in Russland und lebend seit mehr als zehn Jahren in Shanghai. Das Fachgebiet umfasst, ist aber nicht beschränkt auf, die Bekleidungsherstellung, den Medienverlag, Import/Export und Vertrieb von Nahrungsmitteln und Nichtnahrungsmitteln, biomedizinische Technologien und regenerative Medizin. Dmitry leitet eine Gruppe von Unternehmen in China, Vietnam, Hongkong, Taiwan und Russland, die ihn in die Lage versetzen, mit jeder Art von steuerlichen und rechtlichen Problemen in Asien umzugehen, sowie genug Erfahrung in der Skalierung von Strategien mitbringen.
 
-**Dimitry Doronin.** Europäisch ausgebildet, entwickelt er seine professionelle Karriere in China seit etwa 5 Jahren aktiv. Während seiner Promotion in Teammanagement und Teamkreativität ist er als Produktionskoordinator und Casting Manager aktiv an der TV-Produktion beteiligt. Als Teilzeitmodell hat er darüber hinaus einen hervorragenden Überblick, um die gesamte Talentbranche in China und weltweit zu bewerten. Er ist Initiator und COO der F You Art Community und weiterer kleinerer Medienprojekte. 
+**Dimitry Doronin.** Europäisch ausgebildet, entwickelt er seine professionelle Karriere in China seit etwa 5 Jahren aktiv. Während seiner Promotion in Teammanagement und Teamkreativität ist er als Produktionskoordinator und Casting Manager aktiv an der TV-Produktion beteiligt. Als Teilzeitmodell hat er darüber hinaus einen hervorragenden Überblick, um die gesamte Talentbranche in China und weltweit zu bewerten. Er ist Initiator und COO der F You Art Community und weiterer kleinerer Medienprojekte.
 
 Für jeden von uns ist dieses Projekt ein wichtiger Schritt vorwärts in unserer Karriere und wir sind alle begeistert und bereit für das Langsfrist-Segeln, für die Stürme und die Ruhe, die auf unserem Weg zustoßen.
 

@@ -1,5 +1,7 @@
-++title = "MDL-Team bei Slush"++
-++date = "2017-10-13"++
++++
+title = "MDL-Team bei Slush"
+date = "2017-10-13"
++++
 
 ![Slush Shanghai](https://ipfs.io/ipfs/QmcN4PPiFfizycvjp5xteL2RPjresxXCau51USXifKLcdP)
 Der erste öffentliche Auftritt von MDL fand am 12. Oktober 2017 auf der Slush Conference statt. Wir haben unsere Vision und Ideen mehreren erfahrenen VC-Investoren und High-Tech-Unternehmern vorgestellt und nicht nur positives Feedback und Ermutigung erhalten, sondern auch wertvolle Ratschläge.
