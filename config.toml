@@ -24,7 +24,7 @@ DefaultContentLanguageInSubdir = "false"
     weight = 2
   [Languages.de]
     weight = 2
-  [Languages.in]
+  [Languages.id]
     weight = 2
 
 [Params]
