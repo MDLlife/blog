@@ -25,7 +25,7 @@ Every individual from the whitelist will be able to purchase MDL token up to $20
 BCH, SKY, and Waves. Payments should be received up-front.
 
 The Pre-ITO will last for three weeks and will be done manually. The soft cap of the pre-crowdsale
-is $500,000 and hard cap is $600,000.
+is $300,000 and hard cap is $500,000.
 
 For the ITO we will issue new MDL Token on Skyledger in the amount of 1.000.000.000. The
 Pre-ITO MDL Token will be exchanged to the new ITO Token in the proportion (1:1).
@@ -34,6 +34,6 @@ During the ITO in early March we are planning to distribute 40% of the total amo
 MDL Tokens) in order to raise $20m, thus average price of the token will be about $0,05, which is
 5x from the Pre-ITO sale.
 
-Soft cap for ITO will be $10m and hard cap is $25m. Individual purchase cap TBD. The rest 60%
+Soft cap for ITO will be $10m and hard cap is $20m. Individual purchase cap TBD. The rest 60%
 of the pool will be left for mining, ecosystem economy, and bounty programs. The shares of the
 pool TBD.
