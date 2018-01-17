@@ -11,18 +11,18 @@ Kegiatan operasional di segmen bakat pada industri hiburan selama beberapa tahun
 
 >**Menyembunyikan.**
 
->>  1. Pemilik talenta mungkin khawatir pembayaran terlalu rendah dapat menurunkan rasa harga pasar mereka.
->>  2. Pemilik talenta mungkin khawatir pembayaran tinggi mereka bisa membuat orang lain iri.
+>>  1. Talenta mungkin khawatir pembayaran terlalu rendah dapat menurunkan rasa harga pasar mereka.
+>>  2. Talentamungkin khawatir pembayaran tinggi mereka bisa membuat orang lain iri.
 
 >**Menunjukkan.**
 
->>  1. Pemilik talenta mungkin ingin menyatakan kepada semua orang bahwa mereka bekerja untuk harga ini dan tidak lebih rendah.
+>>  1. Talentamungkin ingin menyatakan kepada semua orang bahwa mereka bekerja untuk harga ini dan tidak lebih rendah.
 
 ***Bahan promo.*** Materi promo adalah alat utama untuk mereka mendapatkan pekerjaan dan diakui. Namun, terkadang mereka tidak ingin membuat materi umum. Ada beberapa alasan untuk itu:
 
->  1. Pemilik talenta atau pemesan lain bisa menyalahgunakan materi.
->  2.	Pemilik talenta mungkin malu untuk menunjukkan materi ke masyarakat luas.
->  3.	Pemilik talenta khawatir talenta yang lain bisa meniru materi promo unggulan mereka, sehingga mengurangi keunggulan kompetitif mereka.
+>  1.	Talenta atau pemesan lain bisa menyalahgunakan materi.
+>  2.	Talentamungkin malu untuk menunjukkan materi ke masyarakat luas.
+>  3.	Talentakhawatir talenta lain bisa meniru materi promo unggulan mereka, sehingga mengurangi keunggulan kompetitif mereka.
 
 ***Materi acara.*** Ketika bakat memposting gambar atau video kerja mereka, mereka mengungkapkan kepada semua orang bahwa mereka sibuk dan tertuntut, mereka mengingatkan pembaca buku dan talentalainnya bahwa mereka masih aktif dan dapat diajakuntuk melakukan pekerjaan lain. Namun, hal itu juga terjadi bahwa talenta tidak membuat media untuk memposting di jaringan sosial mereka atau terlalu malas untuk itu. Tapi terkadang mereka ingin menyembunyikannya, kenapa?
 

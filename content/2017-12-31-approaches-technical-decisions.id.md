@@ -3,9 +3,7 @@ title = "Pendekatan dan Keputusan Teknis"
 date = "2017-12-31"
 +++
 
-IDalam perkembangan blockchain global terkini, nampaknya kebanyakan orang benar-benar lupa bahwa di balik setiap proyek ada orang-orang yang bekerja secara nyata [atau tidak]. Jadi, situs web bergaya dengan video menarik yang menjanjikan, yang menampilkan alamat Bitcoin atau Ethereum, membuat orang lebih tertarik untuk berinvestasi, daripada komunitas pekerja keras, dengan pemimpin terhormat. Orang hanya mengirim uang secara membabi buta ke kontrak pintar, tanpa meneliti siapa yang mengerjakan konsep, kode, pemasaran, dll. 
-KYC yang benar atau uji kelayakan harus dilakukan di kedua pihak, jika tidak, pemberontakan dan keberuntungan terjadi. 
-MDL mengambil pendekatan yang sedikit berbeda, setidaknya pada saat PRE-ITO. Alih-alih melakukan KYC formal, kami ingin mengetahui investor kami sendiri dan kami pikir penting untuk membiarkan mereka lebih memahami kami juga. Selama PRE-ITO pada bulan Januari, kami siap menjawab pertanyaan dan bersikap responsif semaksimal mungkin secara fisik.
+Dalam perkembangan blockchain global terkini, nampaknya kebanyakan orang benar-benar lupa bahwa di balik setiap proyek ada orang-orang yang bekerja secara nyata [atau tidak]. Jadi, situs web bergaya dengan video menarik yang menjanjikan, yang menampilkan alamat Bitcoin atau Ethereum, membuat orang lebih tertarik untuk berinvestasi, daripada komunitas pekerja keras, dengan pemimpin terhormat. Orang hanya mengirim uang secara membabi buta ke kontrak pintar, tanpa meneliti siapa yang mengerjakan konsep, kode, pemasaran, dll. KYC yang benar atau uji kelayakan harus dilakukan di kedua pihak, jika tidak, pemberontakan dan keberuntungan terjadi. MDL mengambil pendekatan yang sedikit berbeda, setidaknya pada saat PRE-ITO. Alih-alih melakukan KYC formal, kami ingin mengetahui investor kami sendiri dan kami pikir penting untuk membiarkan mereka lebih memahami kami juga. Selama PRE-ITO pada bulan Januari, kami siap menjawab pertanyaan dan bersikap responsif semaksimal mungkin secara fisik.
 
 ***Mengapa kami memilih platform WAVES untuk PRE-ITO?***
 
@@ -23,7 +21,7 @@ Melalui pintu gerbang. MDL mainnet akan didasarkan pada basis kode Sky, sehingga
 
 Kami bukan proyek pertama yang melakukan gateway Sky-code berbasis blockchain dan kasus sebelumnya [sukses](https://otc.skycoin.net). Transisi dari Pre-MDL [MDL.life token pada Waves] ke MDL [mainnet, cabang kode skycoin - jangan disalah artiakan dengan cabang Bitcoin] akan mendapat dukungan informasi penuh dan tim kami akan membantu mengatasi kebingungan apapun. Periode transisi akan terbuka cukup lama bagi setiap orang untuk melakukan pertukaran. Kami peduli bahwa semua orang senang saat bekerja sama dengan MDL.
 
-***Mengapa kami senang?***
+***Mengapa kamisenang?***
 
 Nah, Anda tetap harus berhati-hati dan tidak pernah menginvestasikan lebih, hal ini genting bagi Anda untuk kalah dalam kasus darurat global. Tidak ada satupun proyek MDL yang diasuransikan terhadap gempa bumi atau tsunami mendadak. Hal itu akan bisa dilakukan sesuai dengan peta jalan kami.
 
