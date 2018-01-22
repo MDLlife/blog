@@ -14,10 +14,8 @@ Das Verständnis von Geschäftsprozessen auf dem Talentmarkt sowie die Fähigkei
 
 1.	Als Insider der Branche sind wir in der Lage, einfache Instrumente sowohl für Bucher als auch für Talente zu entwickeln. Dazu gehören ein einfach zu bedienendes Buchungssystem, attraktive Talentprofile, Zeitmanagement-Tools, Talentkataloge für Endkunden und vieles mehr.
 2.	Durch Bereitstellung nützlicher Tools für Talente und Bucher werden wir den bestehenden Markt auf einer Plattform zusammenführen, so dass die Suche nach Talenten und Jobs viel einfacher wird.
-3.	Mit Hilfe der Blockchain-Technologie werden wir für jeden Teilnehmer ein solides Ratingsystem etablieren und damit dem Markt Transparenz und Glaubwürdigkeit bringen. 
+3.	Mit Hilfe der Blockchain-Technologie werden wir für jeden Teilnehmer ein solides Ratingsystem etablieren und damit dem Markt Transparenz und Glaubwürdigkeit bringen.
 
 Wenn wir die Plattform entwickeln, werden wir einen iterativen Ansatz anwenden, damit sich unsere Tools entsprechend den Marktbedingungen und -bedürfnissen ständig weiterentwickeln. Der Grundstein dafür ist unsere Philosophie - mehr Effizienz und Transparenz für die Gesellschaft bieten.
 
 ![Problems solved](https://gateway.ipfs.io/ipfs/Qmes4y4RJ2LQot6i3sYoc2QDyhxs4RqHEMHVQBEfjs8V5q/Market%20problems%20solved.jpg)
-
-© Copyright / Urheberrechtlich geschützt

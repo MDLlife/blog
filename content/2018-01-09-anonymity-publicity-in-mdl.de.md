@@ -1,7 +1,7 @@
-++++
++++
 title = "Anonymität und Öffentlichkeitsarbeit im MDL Talent Hub"
 date = "2018-01-09"
-++++
++++
 
 Eine unserer Missionen ist es, Transparenz auf dem Markt für Talentquellen zu schaffen. Wir müssen uns jedoch auch mit den allgemein akzeptierten Prozessen und Einstellungen in diesem Bereich beschäftigen. Der Einsatz von Blockchain und Persistent Immutable Data Storage (PIDS) - [IPFS](https://ipfs.io) , [CXO](https://www.skycoin.net) - Technologien, die dafür bekannt sind, Daten offen, nachvollziehbar und unveränderbar zu machen, werfen eine große Frage auf - welche Art von Informationen werden einem Publikum zugänglich sein?
 
