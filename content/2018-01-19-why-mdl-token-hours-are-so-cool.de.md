@@ -1,7 +1,7 @@
-++++
-+title = "Warum sind MDL Token Hours so cool?"
-+date = "2017-01-19"
-++++
++++
+title = "Warum sind MDL Token Hours so cool?"
+date = "2017-01-19"
++++
 
 Die MDL Talent Hub-Plattform wird mit MDL Token Hours (MDL TH) betrieben. MDL TH werden verwendet, um das MDL-Token-Wertwachstum zu unterstützen und die Plattform vor hoher Volatilität zu schützen. Es folgen 8 Aussagen, die das MDL TH-Konzept näher beschreiben.
 
@@ -19,6 +19,6 @@ Die MDL Talent Hub-Plattform wird mit MDL Token Hours (MDL TH) betrieben. MDL TH
 
 7.	Funktionen, die mit MDL Token Hours gekauft wurden, enthalten sowohl zeitlich begrenzte als auch permanente Funktionen.
 
-8.	MDL-Token-Stunden werden auch bei jeder Transaktion von MDL-Token verbraucht. 
+8.	MDL-Token-Stunden werden auch bei jeder Transaktion von MDL-Token verbraucht.
 
 Die Liste der Funktionen, die durch MDL TH erworben werden können, sowie Volatilitätsprobleme, werden später behandelt. Dranbleiben!
