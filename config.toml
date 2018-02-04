@@ -1,33 +1,8 @@
-baseurl = "http://mdl.life/"
-title = ""
+baseURL = "http://mdl.wtf/"
 languageCode = "en-us"
-theme = "hugo-zen"
-
-
-DefaultContentLanguage = "en"
-DefaultContentLanguageInSubdir = "false"
-
-[Languages]
-  [Languages.en]
-    weight = 1
-  [Languages.zh]
-    weight = 2
-  [Languages.zh-hant]
-    weight = 3
-  [Languages.ru]
-    weight = 2
-  [Languages.kr]
-    weight = 2
-  [Languages.ja]
-    weight = 2
-  [Languages.ar]
-    weight = 2
-  [Languages.de]
-    weight = 2
-  [Languages.es]
-    weight = 2
-  [Languages.id]
-    weight = 2
+title = "MDL - Talent Hub Blog"
 
 [Params]
-  logo = "https://ipfs.io/ipfs/QmdfEPfbk5wbWJPYcLRNk9n847J1Zva7gDXR7LsyyhyrGS"
+  keywords = "MDL,blockchain,talents,models,technology,app,IPFS"
+  description = "Blog of MDL Talent Hub. We create blockchain powered platform for talent sourcing industry."
+  telegram = "https://t.me/MDL_Talent_Hub"

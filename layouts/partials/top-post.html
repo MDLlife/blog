@@ -1,0 +1,14 @@
+{{ if .Params.show_in_top }}
+<div class="mdl-picture__post top">
+  <a href="{{ .Permalink }}">
+    {{if .Params.image}}
+    <div class="mdl-picture__post-image-wrapper">
+      <img src="{{.Params.image | absURL}}" alt="{{.Title}}" class="mdl-picture__post-image">
+    </div>
+    {{end}}
+    <h2 class="mdl-picture__post-title">{{.Title}}</h2>
+    <p class="mdl-picture__post-date">{{ .Date.Format "January 2, 2006"}}</p>
+  </a>
+</div>
+{{end}}
+          
