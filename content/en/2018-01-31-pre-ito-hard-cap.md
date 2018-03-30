@@ -3,7 +3,7 @@ title: Pre-ITO Hard Cap Is Reached!
 date: 2018-01-31
 short_description: Dear friends! We especially appreciate trust in MDL Talent Hub project of our early investors and supporters.
 image: images/top-blog-img.png
-next_article: /en/2018-01-31-pre-ito-hard-cap
+next_article: /en/2018-02-16-development-update-1
 prev_article: /en/2018-01-19-why-mdl-token-hours-are-so-cool
 show_in_top: show
 lan: en
