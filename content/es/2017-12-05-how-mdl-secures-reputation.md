@@ -5,7 +5,6 @@ short_description: Para facilitar la credibilidad de la reputación
 image: images/top-blog-img.png
 next_article: /es/2017-12-06-mdl-my-daily-life
 prev_article: /es/2017-12-03-mdl-at-sf2017-Seoul
-show_in_top: show
 lan: es
 ---
 

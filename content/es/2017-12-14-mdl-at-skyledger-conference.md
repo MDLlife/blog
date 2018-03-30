@@ -5,7 +5,6 @@ short_description: Dado que MDL Talent Hub está considerando utilizar la tecnol
 image: images/top-blog-img.png
 next_article: /es/2017-12-21-mdl-mine-distributed-ledger
 prev_article: /es/2017-12-13-pre-ito-is-ongoing
-show_in_top: show
 lan: es
 ---
 

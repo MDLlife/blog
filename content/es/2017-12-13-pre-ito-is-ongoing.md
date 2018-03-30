@@ -5,7 +5,6 @@ short_description: Para prepararnos para la ITO, necesitamos un capital de 500.0
 image: images/tp_one.png
 next_article: /es/2017-12-14-mdl-at-skyledger-conference
 prev_article: /es/2017-12-08-user-instruments-part1
-show_in_top: show
 lan: es
 ---
 

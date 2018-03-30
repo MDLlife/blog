@@ -5,7 +5,6 @@ short_description: La mayoría de los países asiáticos, incluidos China e Indo
 image: images/top-blog-img.png
 next_article: /es/2017-10-10-MDL-inception
 prev_article: /es/2017-10-08-the-thing-is
-show_in_top: show
 lan: es
 ---
 

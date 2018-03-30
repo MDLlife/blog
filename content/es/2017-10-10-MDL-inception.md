@@ -5,7 +5,6 @@ short_description: ¡Pero basta con esas patéticas tonterías!
 image: images/tp_one.png
 next_article: /es/2017-10-13-MDL-team-Slush-Shanghai
 prev_article: /es/2017-10-08-the-thing-is
-show_in_top: show
 lan: es
 ---
 

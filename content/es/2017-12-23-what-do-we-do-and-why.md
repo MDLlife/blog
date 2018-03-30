@@ -5,7 +5,6 @@ short_description: En la obsesión actual por la cadena de bloques hay tantos pr
 image: images/tp_one.png
 next_article: /es/2017-12-31-approaches-technical-decisions
 prev_article: /es/2017-12-21-mdl-mine-distributed-ledger
-show_in_top: show
 lan: es
 ---
 

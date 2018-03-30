@@ -5,7 +5,6 @@ short_description: Para mantener nuestros flujos financieros positivos, estamos 
 image: images/top-blog-img.png
 next_article: /es/2017-11-25--webpage-is-launched-korea
 prev_article: /es/2017-10-30-what-we-gonna-do
-show_in_top: show
 lan: es
 ---
 

@@ -5,7 +5,6 @@ short_description: MDL Talent Hub utilizará tecnologías PIDS (IPFS, CXO, etc.)
 image: images/top-blog-img.png
 next_article: /es/2017-12-23-what-do-we-do-and-why
 prev_article: /es/2017-12-14-mdl-at-skyledger-conference
-show_in_top: show
 lan: es
 ---
 

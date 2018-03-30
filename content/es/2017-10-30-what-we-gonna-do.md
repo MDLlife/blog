@@ -5,7 +5,6 @@ short_description: Comprender los procesos comerciales en el mercado del talento
 image: images/tp_one.png
 next_article: /es/2017-11-14-where-do-the-money-come-from
 prev_article: /es/2017-10-13-MDL-team-Slush-Shanghai
-show_in_top: show
 lan: es
 ---
 

@@ -5,7 +5,6 @@ short_description: Para nuestros primeros inversores, es crucial saber por qué 
 image: images/top-blog-img.png
 next_article: /es/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /es/2018-01-09-anonymity-publicity-in-mdl
-show_in_top: show
 lan: es
 ---
 

@@ -6,7 +6,6 @@ image: images/top-blog-img.png
 next_article: /de/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /de/2018-01-14-why-mdl-value-increase
 lan: de
-show_in_top: show
 ---
 
 Die MDL Talent Hub-Plattform wird mit MDL Token Hours (MDL TH) betrieben. MDL TH werden verwendet, um das MDL-Token-Wertwachstum zu unterstützen und die Plattform vor hoher Volatilität zu schützen. Es folgen 8 Aussagen, die das MDL TH-Konzept näher beschreiben.

@@ -5,7 +5,6 @@ short_description: A principios de diciembre, el equipo de MDL se unirá al Star
 image: images/top-blog-img.png
 next_article: /es/2017-12-03-mdl-at-sf2017-Seoul
 prev_article: /es/2017-11-14-where-do-the-money-come-from
-show_in_top: show
 lan: es
 ---
 

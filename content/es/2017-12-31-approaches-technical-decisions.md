@@ -4,8 +4,7 @@ date: 2017-12-31
 short_description: Dado el estado actual del desarrollo global de la cadena de bloques 
 image: images/top-blog-img.png
 next_article: /es/2018-01-09-anonymity-publicity-in-mdl
-prev_article: /es/
-show_in_top: show
+prev_article: /es/2017-12-23-what-do-we-do-and-why
 lan: es
 ---
 

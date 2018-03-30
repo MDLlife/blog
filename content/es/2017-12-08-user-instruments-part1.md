@@ -5,7 +5,6 @@ short_description: Creemos que una persona talentosa puede ser talentosa de much
 image: images/top-blog-img.png
 next_article: /es/2017-12-13-pre-ito-is-ongoing
 prev_article: /es/2017-12-06-mdl-my-daily-life
-show_in_top: show
 lan: es
 ---
 

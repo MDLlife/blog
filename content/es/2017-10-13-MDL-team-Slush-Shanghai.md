@@ -5,7 +5,6 @@ short_description: La primera aparición pública de MDL
 image: images/top-blog-img.png
 next_article: /es/2017-10-30-what-we-gonna-do
 prev_article: /es/2017-10-10-MDL-inception
-show_in_top: show
 lan: es
 ---
 

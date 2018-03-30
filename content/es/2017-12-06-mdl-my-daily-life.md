@@ -5,7 +5,6 @@ short_description: Durante las últimas décadas, la economía mundial ha experi
 image: images/top-blog-img.png
 next_article: /es/2017-12-08-user-instruments-part1
 prev_article: /es/2017-11-25--webpage-is-launched-korea
-show_in_top: show
 lan: es
 ---
 
