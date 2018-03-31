@@ -1,0 +1,9 @@
+<div class="mdl-picture__post top-post">
+	{{ if .Params.image}}
+	<div class="mdl-picture__post-image-wrapper">
+		<img src="{{.Params.image | absURL}}" alt="{{ .Title }}" class="mdl-picture__post-image">
+	</div>
+	{{ end}}
+	<h1 class="mdl-picture__post-title">{{ .Title }}</h1>
+	<p class="mdl-picture__post-date">{{ .Date.Format "January 2, 2006"}}</p>
+</div>

@@ -1,0 +1,37 @@
+<div class="demo-layout mdl-layout mdl-js-layout">
+      <main class="demo-main mdl-layout__content mdl-blog-single">
+        <div class="demo-container mdl-grid">
+          <div class="mdl-cell mdl-cell--12-col">
+              <div class="mdl-picture__posts-wrapper">
+                <div class="mdl-picture__posts top-posts">
+                  {{ partial "top-post-single.html" . }}
+                </div>
+              </div>
+
+              <div class="mdl-single-posts__wrapper">
+                <div class="mdl-single-posts">
+                  {{ .Content }}
+                  <div class="clearfix">
+                    <div class="next_wrapper">
+                      <a href="{{.Params.next_article}}" class="mdl-random_post">Next article</a>
+                    </div>
+                  </div>
+
+                  <div class="mdl-picture__posts top-post ">
+                    
+                    {{range first 3 (where .Site.Pages "Type" "=" .Params.lan)}} 
+                      {{ partial "bot-post-single.html" . }}
+                    {{end}}
+                  </div>
+
+                  <div class="prv_wrapper">
+                    <a href="{{.Params.prev_article}}" class="view-all-posts">Previous article</a>
+                  </div>
+                </div>
+              </div>
+
+
+          </div>
+        </div>
+      </main>
+    </div>
