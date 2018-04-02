@@ -2,7 +2,7 @@
 title: Откуда приходят деньги?
 date: 2017-11-14
 short_description: Для достижения положительного платежного баланса проект будет получать доходы несколькими способами.
-image: images/tp_one.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /ru/2017-11-25-webpage-is-launched-korea
 prev_article: /ru/2017-10-30-what-we-gonna-do
 lan: ru

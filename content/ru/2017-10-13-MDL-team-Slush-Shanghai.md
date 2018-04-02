@@ -2,7 +2,7 @@
 title: Команда MDL на Slush
 date: 2017-10-13
 short_description: Первое публичное появление MDL произошло 12 октября 2017 на конференции Slush.
-image: images/tp_one.png
+image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /ru/2017-10-30-what-we-gonna-do
 prev_article: /ru/2017-10-10-mdl-inception
 lan: ru

@@ -2,7 +2,7 @@
 title: MDL - My Daily Life
 date: 2017-12-06
 short_description: За последние несколько десятилетий мировая экономика пережила массовый переход от сельского хозяйства и промышленного производства
-image: images/tp_one.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /ru/2017-12-08-user-instruments-part1
 prev_article: /ru/2017-12-05-how-mdl-secures-reputation
 lan: ru

@@ -2,7 +2,7 @@
 title: Development Update #1
 date: 2018-02-16
 short_description: The MDL Platform has been in the state of active development for quite some time now.
-image: images/top-blog-img.png
+image: images/80/2018-02-16-development-update-1.jpg
 next_article: /en/2018-02-16-development-update-1
 prev_article: /en/2018-01-31-pre-ito-hard-cap
 show_in_top: show

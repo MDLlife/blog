@@ -2,7 +2,7 @@
 title: 我的每一天 - My Daily Life（MDL艺人社）
 date: 2017-12-06
 short_description: 几十年来，我们世界的经济经历了从农业生产到服务业再到创新经济的巨大转变，正如加拿大马丁繁荣研究所的主管Richard Florida所指出的那样。
-image: images/tp_one.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /zh/2017-12-08-user-instruments-part1
 prev_article: /zh/2017-12-05-how-mdl-secures-reputation
 lan: zh

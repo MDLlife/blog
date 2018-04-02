@@ -2,7 +2,7 @@
 title: 사용자 도구 - 1부
 date: 2017-12-08
 short_description: 재능이 있는 사람은 여러 방면에 재능이 있다고 생각됩니다.
-image: images/tp_one.png
+image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /kr/2017-12-13-pre-ito-is-ongoing
 prev_article: /kr/2017-12-06-mdl-my-daily-life
 lan: kr

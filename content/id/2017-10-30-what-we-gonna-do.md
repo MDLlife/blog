@@ -2,7 +2,7 @@
 title: What we gonna do?
 date: 2017-10-30
 short_description: Itu hampir tidak berlaku untuk pasar bakat yang terus berkembang yang memerlukan pemantauan dan analisis tanpa henti
-image: images/tp_one.png
+image: images/80/2017-10-30-what-we-gonna-do.jpg
 next_article: /id/2017-11-14-where-do-the-money-come-from
 prev_article: /id/2017-10-13-mdl-team-slush-shanghai
 lan: id

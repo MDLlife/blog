@@ -2,8 +2,8 @@
 title: The thing is
 date: 2017-10-08
 short_description: It is said that some events have less probability to happen and some more.
-image: images/tp_one.png
-next_article: /en/2017-10-10-MDL-inception
+image: images/80/2017-10-08-the-thing-is.jpg
+next_article: /en/32017-10-10-MDL-inception
 prev_article: /en/2017-10-08-the-thing-is
 lan: en
 ---

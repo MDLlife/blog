@@ -2,7 +2,7 @@
 title: このプロジェクトについて、
 date: 2017-10-08
 short_description: 中国やインドネシアを含む、アジアの国々の多くで、この数年の間、輸出主導型経済から消費主導型、広告業界主導の経済への移り変わりは数百倍もの成長を見せている。
-image: images/tp_one.png
+image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /ja/2017-10-10-mdl-inception
 prev_article: /ja/2017-10-08-the-thing-is
 lan: en

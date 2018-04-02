@@ -2,7 +2,7 @@
 title: MDL en la Skyledger Conference
 date: 2017-12-14
 short_description: Dado que MDL Talent Hub está considerando utilizar la tecnología CXO
-image: images/top-blog-img.png
+image: images/80/2017-12-14-mdl-at-skyledger-conference.jpeg
 next_article: /es/2017-12-21-mdl-mine-distributed-ledger
 prev_article: /es/2017-12-13-pre-ito-is-ongoing
 lan: es

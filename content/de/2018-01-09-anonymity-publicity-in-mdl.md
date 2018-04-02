@@ -2,7 +2,7 @@
 title: Anonymität und Öffentlichkeitsarbeit im MDL Talent Hub
 date: 2018-01-09
 short_description: Eine unserer Missionen ist es, Transparenz auf dem Markt für Talentquellen zu schaffen.
-image: images/tp_one.png
+image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /de/2018-01-14-why-mdl-value-increase
 prev_article: /de/2017-12-31-approaches-technical-decisions
 lan: de

@@ -2,7 +2,7 @@
 title: La Pre-ITO está en marcha
 date: 2017-12-13
 short_description: Para prepararnos para la ITO, necesitamos un capital de 500.000 $. 
-image: images/tp_one.png
+image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /es/2017-12-14-mdl-at-skyledger-conference
 prev_article: /es/2017-12-08-user-instruments-part1
 lan: es

@@ -2,7 +2,7 @@
 title: Ansätze und technische Entscheidungen
 date: 2017-12-31
 short_description: Im aktuellen Stadium der globalen Blockchain-Entwicklung scheint es, als ob die meisten Leute absolut vergessen haben
-image: images/tp_one.png
+image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /de/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /de/2017-12-23-what-do-we-do-and-why
 lan: de

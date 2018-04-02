@@ -2,7 +2,7 @@
 title: 這個就是。)
 date: 2017-10-08
 short_description: 中國、印度尼西亞，大多數的亞洲國家在幾年前就已經熱情轉型，將其經濟從出口驅動轉向消費驅動。
-image: images/tp_one.png
+image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /zh-hant/2017-10-10-mdl-inception
 prev_article: /zh-hant/2017-10-08-the-thing-is
 lan: zh-hant

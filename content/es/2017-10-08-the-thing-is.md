@@ -2,7 +2,7 @@
 title: Lo principal
 date: 2017-10-08
 short_description: La mayoría de los países asiáticos, incluidos China e Indonesia, ya en los últimos años han transformado con entusiasmo sus economías
-image: images/top-blog-img.png
+image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /es/2017-10-10-MDL-inception
 prev_article: /es/2017-10-08-the-thing-is
 lan: es

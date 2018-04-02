@@ -2,7 +2,7 @@
 title: Why the value of MDL Token will increase over time
 date: 2018-01-14
 short_description: For our early investors it is crucial to know why MDL tokens will increase in value over time. 
-image: images/tp_one.png
+image: images/80/2018-01-14-why-mdl-value-increase.jpg
 next_article: /en/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /en/2018-01-09-anonymity-publicity-in-mdl
 lan: en

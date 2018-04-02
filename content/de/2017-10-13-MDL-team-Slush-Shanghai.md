@@ -2,7 +2,7 @@
 title: MDL-Team bei Slush
 date: 2017-10-13
 short_description: Der erste öffentliche Auftritt von MDL fand am 12. Oktober 2017 auf der Slush Conference statt.
-image: images/tp_one.png
+image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /de/2017-10-30-what-we-gonna-do
 prev_article: /de/2017-10-10-mdl-inception
 lan: de

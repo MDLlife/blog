@@ -2,7 +2,7 @@
 title: Почему будет расти стоимость токенов MDL
 date: 2018-01-14
 short_description: Нашим ранним инвесторам крайне важно знать ответ на простой вопрос "Почему токены MDL будут расти в цене?".
-image: images/tp_one.png
+image: images/80/2018-01-14-why-mdl-value-increase.jpg
 next_article: /ru/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /ru/2018-01-09-anonymity-publicity-in-mdl
 lan: ru

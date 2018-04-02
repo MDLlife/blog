@@ -2,7 +2,7 @@
 title: Чем так замечательны токены MDL Token Hours?
 date: 2018-01-19
 short_description: Платформа MDL Talent Hub будет использовать для работы особые токены - MDL Token Hours
-image: images/tp_one.png
+image: images/80/2018-01-19-why-mdl-token-hours-are-so-cool.jpg
 next_article: /ru/2018-01-25-the-last-week-of-pre-ito
 prev_article: /ru/2018-01-14-why-mdl-value-increase
 lan: ru

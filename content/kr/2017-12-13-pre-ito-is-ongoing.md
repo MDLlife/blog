@@ -2,7 +2,7 @@
 title: Pre-ITO 진행 중
 date: 2017-12-13
 short_description: MDL팀은 ITO 준비를 위해 약 50만 달러가 필요합니다.
-image: images/tp_one.png
+image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /kr/2017-12-14-mdl-at-skyledger-conference
 prev_article: /kr/2017-12-08-user-instruments-part1
 lan: kr

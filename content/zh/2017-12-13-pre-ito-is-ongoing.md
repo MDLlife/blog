@@ -2,7 +2,7 @@
 title: 预备ITO正在进行中
 date: 2017-12-13
 short_description: 我们需要大约500,000美元来为我们的ITO进行准备。这一数额将允许ITO活动在2018年3月进行开展
-image: images/tp_one.png
+image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /zh/2017-12-14-mdl-at-skyledger-conference
 prev_article: /zh/2017-12-08-user-instruments-part1
 lan: zh

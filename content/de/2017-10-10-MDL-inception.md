@@ -2,7 +2,7 @@
 title: MDL Einführung  (Video)
 date: 2017-10-10
 short_description: Es wird gesagt, dass einige Ereignisse weniger wahrscheinlich sind und noch einiges mehr.
-image: images/tp_one.png
+image: images/top-blog-img.png
 next_article: /de/2017-10-13-mdl-team-slush-shanghai
 prev_article: /de/2017-10-08-the-thing-is
 lan: de

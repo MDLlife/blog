@@ -2,7 +2,7 @@
 title: Старт пре-ITO
 date: 2017-12-13
 short_description: Чтобы подготовиться к ITO, нам понадобится ок. $ 500 000.
-image: images/tp_one.png
+image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /ru/2017-12-21-mdl-mine-distributed-ledger
 prev_article: /ru/2017-12-08-user-instruments-part1
 lan: ru

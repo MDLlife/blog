@@ -2,7 +2,7 @@
 title: 预售达到了最高限额!
 date: 2018-01-31
 short_description: 亲爱的朋友们！我们感谢大家可以把信任交托于我们的 MDL 艺人社。我们特别感激 MDL 艺人社的早期投资者对于我们的信任和支持。
-image: images/top-blog-img.png
+image: images/80/2018-01-31-pre-ito-hard-cap.png
 next_article: /zh/2018-01-31-pre-ito-hard-cap
 prev_article: /zh/2018-01-25-the-last-week-of-pre-ito
 lan: zh

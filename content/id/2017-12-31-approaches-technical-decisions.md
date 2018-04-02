@@ -2,7 +2,7 @@
 title: Pendekatan dan Keputusan Teknis
 date: 2017-12-31
 short_description: Dalam perkembangan blockchain global terkini, nampaknya kebanyakan orang benar-benar lupa bahwa di balik setiap proyek ada orang-orang yang bekerja secara nyata [atau tidak].
-image: images/tp_one.png
+image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /id/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /id/2017-12-21-mdl-mine-distributed-ledger
 lan: id

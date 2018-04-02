@@ -2,7 +2,7 @@
 title: 这个就是。
 date: 2017-10-08
 short_description: 中国、印度尼西亚，大多数的亚洲国家在几年前就已经热情转型，将其经济从出口驱动转向消费驱动。
-image: images/tp_one.png
+image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /zh/2017-10-10-mdl-inception
 prev_article: /zh/2017-10-08-the-thing-is
 lan: zh

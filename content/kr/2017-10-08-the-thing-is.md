@@ -2,7 +2,7 @@
 title: 그러니까 문제는..
 date: 2017-10-08
 short_description: 어떤 사건들은 일어날 확률이 적고 또 어떤 사건들은 더 많이 발생한다고 합니다. 10 월 8 일에 있었던 사건은 꽤 좋은 기회였던 것처럼 보입니다.
-image: images/tp_one.png
+image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /kr/2017-10-10-mdl-inception
 prev_article: /kr/2017-10-08-the-thing-is
 lan: kr

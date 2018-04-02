@@ -2,7 +2,7 @@
 title: Why MDL Token Hours Are So Cool?
 date: 2018-01-19
 short_description: MDL Talent Hub platform will be powered with MDL Token Hours (MDL TH). MDL TH will be used to support MDL Token value growth as well as to protect the platform from high MDL Token volatility.
-image: images/tp_one.png
+image: images/80/2018-01-19-why-mdl-token-hours-are-so-cool.jpg
 next_article: /en/2018-01-31-pre-ito-hard-cap
 prev_article: /en/2018-01-14-why-mdl-value-increase
 lan: en

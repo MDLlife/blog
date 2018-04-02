@@ -2,7 +2,7 @@
 title: 我們在做什麼呢？
 date: 2017-10-30
 short_description: 如果我有一個小時來解決一個問題，我會花55分鐘思考這個問題，5分鐘考慮解決方案。-阿爾伯特·愛因斯坦
-image: images/tp_one.png
+image: images/80/2017-10-30-what-we-gonna-do.jpg
 next_article: /zh-hant/2017-11-14-where-do-the-money-come-from
 prev_article: /zh-hant/2017-10-13-mdl-team-slush-shanghai
 lan: zh-hant

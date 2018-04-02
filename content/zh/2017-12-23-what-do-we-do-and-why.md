@@ -2,7 +2,7 @@
 title: 这些我们正在做的事儿，是什么？为什么？
 date: 2017-12-23
 short_description: 当下正在火爆风行的区块链热潮带来了超级多的项目，但是似乎并不是每个项目都是真实的，或有些项目并没有出于一种有用途的好初衷。
-image: images/tp_one.png
+image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /zh/2017-12-31-approaches-technical-decisions
 prev_article: /zh/2017-12-21-mdl-mine-distributed-ledger
 lan: zh

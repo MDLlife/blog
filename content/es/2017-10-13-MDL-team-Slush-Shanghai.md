@@ -2,7 +2,7 @@
 title: El equipo de MDL en Slush
 date: 2017-10-13
 short_description: La primera aparición pública de MDL
-image: images/top-blog-img.png
+image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /es/2017-10-30-what-we-gonna-do
 prev_article: /es/2017-10-10-MDL-inception
 lan: es

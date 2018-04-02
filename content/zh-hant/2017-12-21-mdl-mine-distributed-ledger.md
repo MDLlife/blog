@@ -2,7 +2,7 @@
 title: MDL - Mine Distributed Ledger(我的分布式賬本）
 date: 2017-12-21
 short_description: MDL藝人社採用PIDS技術（IPFS，CXO等），這將使信息採用分布式的方式儲存在用戶和挖礦者的設備中
-image: images/tp_one.png
+image: images/80/2017-12-21-mdl-mine-distributed-ledger.jpg
 next_article: /zh-hant/2017-12-23-what-do-we-do-and-why
 prev_article: /zh-hant/2017-12-14-mdl-at-skyledger-conference
 lan: zh-hant

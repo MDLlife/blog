@@ -2,7 +2,7 @@
 title: Pre-ITO Sedang Berjalan
 date: 2017-12-13
 short_description: Untuk mempersiapkan ITO, kami membutuhkan dana $500.000.
-image: images/tp_one.png
+image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /id/2017-12-14-mdl-at-skyledger-conference
 prev_article: /id/2017-12-08-user-instruments-part1
 lan: id

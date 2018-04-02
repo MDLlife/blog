@@ -2,7 +2,7 @@
 title: Was machen wir und warum?
 date: 2017-12-23
 short_description: In der anhaltenden Blockchain-Manie gibt es so viele Projekte
-image: images/tp_one.png
+image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /de/2017-12-31-approaches-technical-decisions
 prev_article: /de/2017-12-21-mdl-mine-distributed-ledger
 lan: de

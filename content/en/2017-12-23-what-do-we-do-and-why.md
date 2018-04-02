@@ -2,7 +2,7 @@
 title: What Do We Do and Why
 date: 2017-12-23
 short_description: In the ongoing blockchain mania there are so many projects that seem to be less than genuine or even fake
-image: images/tp_one.png
+image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /en/2017-12-31-approaches-technical-decisions
 prev_article: /en/2017-12-21-mdl-mine-distributed-ledger
 lan: en

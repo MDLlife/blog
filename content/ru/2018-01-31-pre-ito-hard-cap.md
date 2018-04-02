@@ -2,7 +2,7 @@
 title: Средства  на пре-ITO собраны в полном объеме!
 date: 2018-01-31
 short_description: Дорогие друзья! Мы очень ценим доверие к проекту MDL Talent Hub наших ранних инвесторов и сторонников
-image: images/top-blog-img.png
+image: images/80/2018-01-31-pre-ito-hard-cap.png
 next_article: /ru/2018-01-31-pre-ito-hard-cap
 prev_article: /ru/2018-01-25-The-last-week-of-pre-ITO
 lan: ru

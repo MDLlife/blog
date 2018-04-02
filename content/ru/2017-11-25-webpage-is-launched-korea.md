@@ -2,7 +2,7 @@
 title: Сайт запущен, а MDL отправляется в Корею на SF2017
 date: 2017-11-25
 short_description: В начале декабря команда MDL присоединится к Startup Festival 2017 в Сеуле
-image: images/tp_one.png
+image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /ru/2017-12-05-how-mdl-secures-reputation
 prev_article: /ru/2017-11-14-where-do-the-money-come-from
 lan: ru

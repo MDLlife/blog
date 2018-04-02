@@ -2,7 +2,7 @@
 title: Доколе?
 date: 2017-10-08
 short_description: Большинство стран Азии, включая Китай и Индонезию, уже несколько лет с энтузиазмом трансформирует свою экономику с экспорта на внутреннее потребление.
-image: images/tp_one.png
+image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /ru/2017-10-10-mdl-inception
 prev_article: /ru/2017-03-12-sf2017-seoul
 lan: ru

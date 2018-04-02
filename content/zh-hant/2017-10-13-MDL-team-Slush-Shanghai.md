@@ -2,7 +2,7 @@
 title: MDL團隊在Slush
 date: 2017-10-13
 short_description: 在2017年10月12日的Slush會議上，MDL團隊首次公開露面。
-image: images/tp_one.png
+image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /zh-hant/2017-10-30-what-we-gonna-do
 prev_article: /zh-hant/2017-10-10-mdl-inception
 lan: zh-hant

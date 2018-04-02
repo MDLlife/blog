@@ -2,7 +2,7 @@
 title: Pre-ITO Is Ongoing
 date: 2017-12-13
 short_description: In order to prepare for ITO, we require ca. $500.000.
-image: images/top-blog-img.png
+image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /ar/2017-12-13-pre-ito-is-ongoing
 prev_article: /ar/2017-12-13-pre-ito-is-ongoing
 lan: en
