@@ -1,7 +1,16 @@
-+++
-title = "How is the platfrom protected from Token volatility"
-date = "2018-02-23"
-+++
+---
+title: How is the platfrom protected from Token volatility
+date: 2018-02-23
+short_description: Crypto currencies are known for their high fluctuating rates – daily trading range of 30% is not an unusual.
+image: images/80/2018-02-23-how-platform-is-protected-token-volatility.jpg
+next_article: /en/2018-02-23-how-platform-is-protected-token-volatility
+prev_article: /en/2018-02-16-development-update-1
+show_in_top: show
+lan: en
+---
+
+
+
 
 Crypto currencies are known for their high fluctuating rates – daily trading range of 30% is not an unusual thing with these financial instruments, not to mention dumps and pumps that happen time to time. How can we deliver valuable tool to the talent sourcing market with MDL Token? The main contradiction lies in the conflict of actual platform users and crypto community – the first ones want to have stable economic ecosystem and the second ones want to speculate. The compromise should be found.
 

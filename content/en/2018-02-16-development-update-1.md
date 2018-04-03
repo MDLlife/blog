@@ -5,7 +5,6 @@ short_description: The MDL Platform has been in the state of active development 
 image: images/80/2018-02-16-development-update-1.jpg
 next_article: /en/2018-02-16-development-update-1
 prev_article: /en/2018-01-31-pre-ito-hard-cap
-show_in_top: show
 lan: en
 ---
 
