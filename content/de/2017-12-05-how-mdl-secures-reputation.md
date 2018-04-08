@@ -2,7 +2,7 @@
 title: Wie MDL die Reputation (Ruf) sichert 
 date: 2017-12-05
 short_description: Um die Glaubwürdigkeit der Reputation zu erleichtern, wird MDL Talent Hub zwei moderne Technologien einsetzen - Blockchain
-image: images/tp_one.png
+image: images/80/2017-12-05-how-mdl-secures-reputation.jpg
 next_article: /de/2017-12-06-mdl-my-daily-life
 prev_article: /de/2017-12-03-mdl-at-sf2017-seoul
 lan: de

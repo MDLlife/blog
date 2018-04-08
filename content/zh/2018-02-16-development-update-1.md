@@ -2,7 +2,7 @@
 title: 开发更新#1
 date: 2018-02-16
 short_description: MDL平台在这段时间里一直在持续积极发展的状态，现已是时间可以于社区分享一些更新要文。
-image: images/top-blog-img.png
+image: images/80/2018-02-16-development-update-1.jpg
 next_article: /zh/2018-02-16-development-update-1
 prev_article: /zh/2018-01-31-pre-ito-hard-cap
 lan: zh

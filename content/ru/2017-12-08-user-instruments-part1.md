@@ -2,7 +2,7 @@
 title: Инструменты пользователя, часть 1
 date: 2017-12-08
 short_description: Мы считаем, что талантливый человек может быть талантлив во многих отношениях, поэтому в каждом профиле будет несколько портфолио
-image: images/tp_one.png
+image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /ru/2017-12-13-pre-ito-is-ongoing
 prev_article: /ru/2017-12-06-mdl-my-daily-life
 lan: ru

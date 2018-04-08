@@ -2,7 +2,7 @@
 title: Bagaimana MDL Mengamankan Reputasi
 date: 2017-12-05
 short_description: Untuk memudahkan kredibilitas reputasi, MDL Talent Hub akan menggunakan dua teknologi modern - blockchain dan PIDS.
-image: images/tp_one.png
+image: images/80/2017-12-05-how-mdl-secures-reputation.jpg
 next_article: /id/2017-12-06-mdl-my-daily-life
 prev_article: /id/2017-12-03-mdl-at-sf2017-seoul
 lan: id

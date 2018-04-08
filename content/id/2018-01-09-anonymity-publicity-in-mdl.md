@@ -2,7 +2,7 @@
 title: Anonimitas dan publisitas pada MDL Talent Hub
 date: 2018-01-09
 short_description: Salah satu misi kami adalah membawa transparansi ke pasar penemuan bakat
-image: images/top-blog-img.png
+image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /id/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /id/2017-12-31-approaches-technical-decisions
 lan: id

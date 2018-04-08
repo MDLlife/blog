@@ -2,7 +2,7 @@
 title: 方法技术的决策
 date: 2017-12-31
 short_description: 在当下全球区块链发展的状况中，大多数人似乎完全忘记了每个项目背后都有一些真正的在为此努力工作的人（或许有可能没有）。
-image: images/tp_one.png
+image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /zh/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /zh/2017-12-23-what-do-we-do-and-why
 lan: zh

@@ -68,7 +68,8 @@ function showSelectedLang(){
         return;
     }
     for(var i =0; i < $('.select-options li').length; i++){
-        if(path.indexOf($('.select-options li:eq('+i+')').attr('class')) > 0 ){
+        // console.log("/"+$('.select-options li:eq('+i+')').attr('class')+"/",path, path.indexOf("/"+$('.select-options li:eq('+i+')').attr('class')+"/") );
+        if(path.indexOf("/"+$('.select-options li:eq('+i+')').attr('class')+"/") !== -1 ){
             $('.select-styled:eq(0)').html($('.select-options li:eq('+i+') a').html());
         }
     }

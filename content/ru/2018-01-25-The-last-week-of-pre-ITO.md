@@ -2,7 +2,7 @@
 title: Минимальный порог пре-ITO успешно преодолен!
 date: 2018-01-25
 short_description: Последняя неделя пре-ITO проекта MDL Talant Hub началась с приятной новости
-image: images/top-blog-img.png
+image: images/80/2018-01-25-The-last-week-of-pre-ITO.jpg
 next_article: /ru/2018-01-25-The-last-week-of-pre-ITO
 prev_article: /ru/2018-01-19-why-mdl-token-hours-are-so-cool
 lan: ru

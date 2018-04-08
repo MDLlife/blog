@@ -2,7 +2,7 @@
 title: Permasalahannya adalah
 date: 2017-10-08
 short_description: Karena mayoritas negara Asia, termasuk China dan Indonesia, sudah beberapa tahun dengan antusias
-image: images/tp_one.png
+image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /id/2017-10-10-mdl-inception
 prev_article: /id/2017-10-08-the-thing-is
 lan: id

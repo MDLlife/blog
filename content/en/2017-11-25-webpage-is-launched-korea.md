@@ -2,7 +2,7 @@
 title: Webpage is launched and MDL goes to Korea for SF2017.
 date: 2017-11-25
 short_description: In the very beginning of December, the MDL Team will join Startup Festival 2017 in Seoul
-image: images/tp_one.png
+image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /en/2017-12-03-mdl-at-sf2017-Seoul
 prev_article: /en/2017-11-14-where-do-the-money-come-from
 lan: en

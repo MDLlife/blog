@@ -2,7 +2,7 @@
 title: How MDL secures reputation
 date: 2017-12-05
 short_description: For the last several decades the world's economy has been experiencing a massive shift from agriculture and production
-image: images/tp_one.png
+image: images/80/2017-12-05-how-mdl-secures-reputation.jpg
 next_article: /en/2017-12-06-mdl-my-daily-life
 prev_article: /en/2017-12-03-mdl-at-sf2017-Seoul
 lan: en

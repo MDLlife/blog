@@ -2,7 +2,7 @@
 title: Benutzerinstrumente - Teil 1 
 date: 2017-12-08
 short_description: Um das ITO vorzubereiten, benötigen wir ca. $ 500.000.
-image: images/tp_one.png
+image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /de/2017-12-14-mdl-at-skyledger-conference
 prev_article: /de/2017-12-06-mdl-my-daily-life
 lan: de

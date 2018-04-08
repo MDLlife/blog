@@ -2,7 +2,7 @@
 title: User Instruments - Part 1
 date: 2017-12-08
 short_description: In order to prepare for ITO, we require capital in the amount of $500.000
-image: images/tp_one.png
+image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /en/2017-12-13-pre-ito-is-ongoing
 prev_article: /en/2017-12-06-mdl-my-daily-life
 lan: en

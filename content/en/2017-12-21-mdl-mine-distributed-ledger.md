@@ -2,7 +2,7 @@
 title: MDL - Mine Distributed Ledger
 date: 2017-12-21
 short_description: MDL Talent Hub will utilize PIDS technologies (IPFS, CXO, etc), which will allow information to be stored in a distributed manner
-image: images/tp_one.png
+image: images/80/2017-12-21-mdl-mine-distributed-ledger.jpg
 next_article: /en/2017-12-23-what-do-we-do-and-why
 prev_article: /en/2017-12-14-mdl-at-skyledger-conference
 lan: en

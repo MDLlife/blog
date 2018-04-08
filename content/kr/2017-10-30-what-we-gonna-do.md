@@ -2,7 +2,7 @@
 title: 우리가 할 일은?
 date: 2017-10-30
 short_description: 이러한 아인슈타인의 말은 끊임없이 진화하는 탤런트 시장에서는 거의 적용되지 않습니다.
-image: images/tp_one.png
+image: images/80/2017-10-30-what-we-gonna-do.jpg
 next_article: /kr/2017-11-14-where-do-the-money-come-from
 prev_article: /kr/2017-10-13-mdl-team-slush-shanghai
 lan: kr

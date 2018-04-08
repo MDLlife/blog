@@ -2,7 +2,7 @@
 title: MDL如何擔保信譽
 date: 2017-11-25
 short_description: 在12月初，MDL團隊將在韓國首爾參加2017創業節。SF2017是韓國政府為促進國家創新生態系統而首次組織的。
-image: images/tp_one.png
+image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /zh-hant/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /zh-hant/2017-11-14-where-do-the-money-come-from
 lan: zh-hant

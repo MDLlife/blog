@@ -2,7 +2,7 @@
 title: 钱从哪里来?
 date: 2017-11-14
 short_description: 为了保证我们的资金流向正面，我们正在考虑以下创收方式。
-image: images/tp_one.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /zh/2017-11-25-webpage-is-launched-korea
 prev_article: /zh/2017-10-30-what-we-gonna-do
 lan: zh

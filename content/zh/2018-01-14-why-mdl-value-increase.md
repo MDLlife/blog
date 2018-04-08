@@ -2,7 +2,7 @@
 title: 为什么MDL代币的价值会随着时间增长呢？
 date: 2018-01-14
 short_description: 了解为什么MDL代币会随着时间的推移而增值对于我们的早期投资者来说，是很关键的。
-image: images/tp_one.png
+image: images/80/2018-01-14-why-mdl-value-increase.jpg
 next_article: /zh/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /zh/2018-01-09-anonymity-publicity-in-mdl
 lan: zh

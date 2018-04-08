@@ -2,7 +2,7 @@
 title: MDL 인셉션 (비디오)
 date: 2017-10-10
 short_description: 어떤 사건들은 일어날 확률이 적고 또 어떤 사건들은 더 많이 발생한다고 합니다. 10 월 8 일에 있었던 사건은 꽤 좋은 기회였던 것처럼 보입니다.
-image: images/tp_one.png
+image: images/top-blog-img.png
 next_article: /kr/2017-10-13-mdl-team-slush-shanghai
 prev_article: /kr/2017-10-08-the-thing-is
 lan: kr

@@ -2,7 +2,7 @@
 title: 艺人社的加密性和公开性
 date: 2018-01-09
 short_description: 我们的任务之一是为娱乐业市场带来透明度，但是，我们也需要应对这一任务在此领域造成的影响
-image: images/tp_one.png
+image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /zh/2018-01-14-why-mdl-value-increase
 prev_article: /zh/2017-12-31-approaches-technical-decisions
 lan: zh

@@ -2,7 +2,7 @@
 title: Анонимность и публичность в MDL Talent Hub
 date: 2018-01-09
 short_description: Мы считаем, что необходимо сделать рынок талантов прозрачным
-image: images/tp_one.png
+image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /ru/2018-01-14-why-mdl-value-increase
 prev_article: /ru/2017-12-31-approaches-technical-decisions
 lan: ru

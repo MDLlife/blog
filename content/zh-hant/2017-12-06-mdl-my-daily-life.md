@@ -2,7 +2,7 @@
 title: 我的每一天 - My Daily Life（MDL藝人社）
 date: 2017-12-06
 short_description: 幾十年來，我們世界的經濟經歷了從農業生產到服務業再到創新經濟的巨大轉變，正如加拿大馬丁繁榮研究所的主管Richard Florida所指出的那樣。
-image: images/tp_one.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /zh-hant/2017-12-08-user-instruments-part1
 prev_article: /zh-hant/2017-12-05-how-mdl-secures-reputation
 lan: zh-hant

@@ -2,7 +2,7 @@
 title: Pre-ITO Is Ongoing
 date: 2017-12-13
 short_description: In order to prepare for ITO, we require capital in the amount of $500.000
-image: images/tp_one.png
+image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /en/2017-12-14-mdl-at-skyledger-conference
 prev_article: /en/2017-12-08-user-instruments-part1
 lan: en

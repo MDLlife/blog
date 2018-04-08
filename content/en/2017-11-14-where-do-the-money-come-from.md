@@ -2,7 +2,7 @@
 title: Where will the money come from?
 date: 2017-11-14
 short_description: In order to keep our financial flows positive we are considering the following methods of revenue creation
-image: images/tp_one.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /en/2017-11-25-webpage-is-launched-korea
 prev_article: /en/2017-10-30-what-we-gonna-do
 lan: en

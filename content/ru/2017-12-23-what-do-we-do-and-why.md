@@ -2,7 +2,7 @@
 title: Что мы делаем и почему
 date: 2017-12-23
 short_description: На волне блокчейн-мании возникло так много проектов, что сразу и не понять, где жемчужина, а где афера.
-image: images/tp_one.png
+image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /ru/2017-12-31-approaches-technical-decisions
 prev_article: /ru/2017-12-21-mdl-mine-distributed-ledger
 lan: ru

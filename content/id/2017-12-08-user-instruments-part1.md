@@ -2,7 +2,7 @@
 title: Instrumen Pengguna - Bagian 1
 date: 2017-12-08
 short_description: Kami percaya bahwa orang berbakat mampu berbakat dalam banyak hal, sehingga setiap profil
-image: images/tp_one.png
+image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /id/2017-12-13-pre-ito-is-ongoing
 prev_article: /id/2017-12-06-mdl-my-daily-life
 lan: id

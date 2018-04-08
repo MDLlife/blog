@@ -2,7 +2,7 @@
 title: MDL - My Daily Life
 date: 2017-12-06
 short_description: For the last several decades the world's economy has been experiencing a massive shift from agriculture and production
-image: images/tp_one.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /en/2017-12-08-user-instruments-part1
 prev_article: /en/2017-12-05-how-mdl-secures-reputation
 lan: en

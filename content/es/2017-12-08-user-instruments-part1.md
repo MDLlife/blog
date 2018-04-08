@@ -2,7 +2,7 @@
 title: Instrumentos de usuario - Parte 1
 date: 2017-12-08
 short_description: Creemos que una persona talentosa puede ser talentosa de muchas maneras
-image: images/top-blog-img.png
+image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /es/2017-12-13-pre-ito-is-ongoing
 prev_article: /es/2017-12-06-mdl-my-daily-life
 lan: es
