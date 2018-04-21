@@ -1,37 +1,75 @@
 <div class="demo-layout mdl-layout mdl-js-layout">
-      <main class="demo-main mdl-layout__content mdl-blog-single">
+    <main class="demo-main mdl-layout__content mdl-blog-single">
         <div class="demo-container mdl-grid">
-          <div class="mdl-cell mdl-cell--12-col">
-              <div class="mdl-picture__posts-wrapper">
-                <div class="mdl-picture__posts top-posts">
-                  {{ partial "top-post-single.html" . }}
-                </div>
-              </div>
-
-              <div class="mdl-single-posts__wrapper">
-                <div class="mdl-single-posts">
-                  {{ .Content }}
-                  <div class="clearfix">
-                    <div class="next_wrapper">
-                      <a href="{{.Params.next_article}}" class="mdl-random_post">Next article</a>
+            <div class="mdl-cell mdl-cell--12-col">
+                <div class="mdl-picture__posts-wrapper">
+                    <div class="mdl-picture__posts top-posts">
+                        {{ partial "top-post-single.html" . }}
                     </div>
-                  </div>
-
-                  <div class="mdl-picture__posts top-post ">
-                    
-                    {{range first 3 (where .Site.Pages "Type" "=" .Params.lan)}} 
-                      {{ partial "bot-post-single.html" . }}
-                    {{end}}
-                  </div>
-
-                  <div class="prv_wrapper">
-                    <a href="{{.Params.prev_article}}" class="view-all-posts">Previous article</a>
-                  </div>
                 </div>
-              </div>
+
+                <div class="mdl-single-posts__wrapper">
+                    <div class="mdl-single-posts">
+                        {{ .Content }}
+
+                        <div class="clearfix">
+                            <div class="next_wrapper">
+                                <a href="{{.Params.next_article}}" class="mdl-random_post">Next article</a>
+                            </div>
+                        </div>
+
+                        <div class="mdl-picture__posts top-post ">
+
+                            {{range first 3 (where .Site.Pages "Type" "=" .Params.lan)}}
+                            {{ partial "bot-post-single.html" . }}
+                            {{end}}
+                        </div>
+
+                        <div class="prv_wrapper">
+                            <a href="{{.Params.prev_article}}" class="view-all-posts">Previous article</a>
+                        </div>
+                    </div>
+                </div>
 
 
-          </div>
+            </div>
+
         </div>
-      </main>
-    </div>
+    </main>
+</div>
+<div class="mdl-layout" >
+    <div id="comentarismo-plugin" class="mdl-layout-coment "></div>
+</div>
+<script src="https://api.comentarismo.com/static/js/build/comentarismo-client.js"></script><script type="text/javascript">
+    (function (d) {
+        if(window.parent.document.getElementById('iFrameResizer0')){parent.location.href=parent.location.href+"#comentarismo-plugin"}
+        var v = '{' +
+        'icons:{' +
+        'commenticon: "<i class=\'material-icons dp48\'>comment</i>",' +
+        'thumbsup: "//api.comentarismo.com/static/img/thumbs-up.jpg",' +
+        'thumbsdown: "//api.comentarismo.com/static/img/thumbs-down.jpg",' +
+        'replybtn: "//api.comentarismo.com/static/img/comentarismo_reply.jpg",' +
+        'replybtn_style: "width: 10px;height: 10px;"' +
+        '},' +
+        'host: "api.comentarismo.com",' +
+        'css: "//api.comentarismo.com/static/css/custom.css",' +
+        'debug: "true",' +
+        'table: "commentaries",' +
+        'forum: "comentarismo",'+
+        'operator: "https://mdl.wtf",'+
+        'key: "80skGmBtNMISKRgJiipPoB2WXBq29eCmXjoeTx6xTLvFEZL8heFhFgGGz2jS8Jkr_VGb5UAfJo1frYxM8xXO5ATMqjWax8dVX1r5ePuMM60LSMjwwlFwWZ_F"'+
+        '}';
+        var init5 = '<head><script src="//api.comentarismo.com/static/js/build/comentarismo-client.js"></\script>' +
+            '</head>' +
+            '<body><div class="container comentarismo-container" id="comentarismo-container"></div></body>' +
+            '<script>(function(d){var comentarismo=new Comentarismo(' + v + ');comentarismo.connect(); })(document);</\script>';
+        var plugin = document.getElementById("comentarismo-plugin");
+        var iframe = plugin.appendChild(d.createElement('iframe')),
+            doc = iframe.contentWindow.document;
+        iframe.style.cssText = "margin-top:4rem;border:0;position:inherit;width:100%;height:100vh;left:0px";
+        doc.open();
+        doc.write(init5);
+        doc.close();
+        iFrameResize.iframeResizer({log:false, checkOrigin:false}, iframe)
+    })(document);
+</script>
