@@ -26,7 +26,7 @@ Due to some changes in the codebase, we will have to get through most of them ma
 
 We have separated the first small bunch of 100 MDL’s from the first 10,000,000 MDL to perform internal testing. We will continue with the tests until the beginning of the ITO. This means that unless in the unlikely event any critical bugs are found, this blockchain will become the mainnet and the fun will begin!
 
-The current minimum division of the token is 0.001 MDL, once MDL allows more users, it will be possible to divide one token to 0.000001 MDL (6 decimals), but we decided not to divide in more than that since it won't be necessary. Sky-based cryptos have maximum of 6 decimals division, which is much less human-error-prone. But currently we don’t want the network to flood with micro-transactions. Token hours and their behavior are also being worked on and we will provide an update on that soon.
+The current minimum division of the token is 0.001 MDL, once MDL allows more users, it will be possible to divide one token to 0.000001 MDL (6 decimals), but we decided not to divide in more than that since it won't be necessary. Sky-based cryptos have maximum of 6 decimals division, which is much less human-error-prone, comparing to Bitcoin and others. But currently we don’t want the network to flood with micro-transactions. Token hours and their behavior are also being worked on and we will provide an update on that soon.
 
 ***ITO tools, the Teller***
 
