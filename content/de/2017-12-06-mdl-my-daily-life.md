@@ -2,7 +2,7 @@
 title: MDL - Mein tägliches Leben 
 date: 2017-12-06
 short_description: Seit einigen Jahrzehnten erlebt die Weltwirtschaft einen massiven Wandel von Landwirtschaft und Produktion
-image: images/tp_one.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /de/2017-12-08-user-instruments-part1
 prev_article: /de/2017-12-05-how-mdl-secures-reputation
 lan: de

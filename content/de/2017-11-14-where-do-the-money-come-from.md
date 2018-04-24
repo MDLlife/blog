@@ -2,7 +2,7 @@
 title: Woher kommt das Geld?
 date: 2017-11-14
 short_description: Um unsere finanziellen Ströme positiv zu halten, prüfen wir die folgenden Methoden der Umsatzschaffung.
-image: images/tp_one.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /de/2017-11-25-webpage-is-launched-and-mdl-goes-to-korea-for-sf2017
 prev_article: /de/2017-10-30-what-we-gonna-do
 lan: de

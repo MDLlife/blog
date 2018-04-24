@@ -2,7 +2,7 @@
 title: 用戶指南 - 篇章 1
 date: 2017-12-08
 short_description: 我們相信有才華的藝人們不可能隻有一種才能，所以每份個人資料頁面中都將會包含多個技能資料頁面 – 演戲，跳舞，折紙，馬戲或者任意有趣的技能。
-image: images/tp_one.png
+image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /zh-hant/2017-12-13-pre-ito-is-ongoing
 prev_article: /zh-hant/2017-12-06-mdl-my-daily-life
 lan: zh-hant

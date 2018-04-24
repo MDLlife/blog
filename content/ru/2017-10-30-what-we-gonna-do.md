@@ -2,7 +2,7 @@
 title: Что мы будем делать?
 date: 2017-10-30
 short_description: Этот метод едва ли подходит динамично развивающемуся рынку талантов, где требуются непрерывный мониторинг и аналитика
-image: images/tp_one.png
+image: images/80/2017-10-30-what-we-gonna-do.jpg
 next_article: /ru/2017-11-14-where-do-the-money-come-from
 prev_article: /ru/2017-10-13-mdl-team-slush-shanghai
 lan: ru

@@ -2,7 +2,7 @@
 title: MDL - Hidupku Sehari-hari
 date: 2017-12-06
 short_description: Selama beberapa dekade terakhir, ekonomi dunia telah mengalami pergeseran besar-besaran dari pertanian
-image: images/tp_one.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /id/2017-12-08-user-instruments-part1
 prev_article: /id/2017-12-05-how-mdl-secures-reputation
 lan: id

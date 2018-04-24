@@ -2,7 +2,7 @@
 title: What are we gonna do?
 date: 2017-10-30
 short_description: That especially applies to constantly evolving talent market that requires nonstop monitoring and analysis
-image: images/tp_one.png
+image: images/80/2017-10-30-what-we-gonna-do.jpg
 next_article: /en/2017-11-14-where-do-the-money-come-from
 prev_article: /en/2017-10-13-MDL-team-Slush-Shanghai
 lan: en

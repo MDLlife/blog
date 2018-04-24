@@ -2,7 +2,7 @@
 title: Anonymity and publicity in MDL Talent Hube
 date: 2018-01-09
 short_description: One of our missions is to bring transparency to the talent sourcing market 
-image: images/tp_one.png
+image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /en/2018-01-14-why-mdl-value-increase
 prev_article: /en/2017-12-31-approaches-technical-decisions
 lan: en

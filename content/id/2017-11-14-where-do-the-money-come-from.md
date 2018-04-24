@@ -2,7 +2,7 @@
 title: Dari Mana Uang Itu Berasal?
 date: 2017-11-14
 short_description: Agar arus keuangan kita tetap positif, kita mempertimbangkan metode penciptaan pendapatan berikut.
-image: images/tp_one.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /id/2017-11-25-webpage-is-launched-korea
 prev_article: /id/2017-10-30-what-we-gonna-do
 lan: id

@@ -2,7 +2,7 @@
 title: MDL在天空帐本会议
 date: 2017-12-14
 short_description: 因为MDL艺人社密切考虑采用CXO技术是天空账本生态系统的一部分，我们很荣幸被邀请到上海区块链爱好者与投资者会议来提出我们项目的理念
-image: images/tp_one.png
+image: images/80/2017-12-14-mdl-at-skyledger-conference.jpeg
 next_article: /zh/2017-12-21-mdl-mine-distributed-ledger
 prev_article: /zh/2017-12-13-pre-ito-is-ongoing
 lan: zh

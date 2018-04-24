@@ -2,7 +2,7 @@
 title: MDL – Distribusi Pertambangan Unggul
 date: 2017-12-21
 short_description: MDL Talent Hub akan menggunakan teknologi PIDS (IPFS, CXO, dll.)
-image: images/tp_one.png
+image: images/80/2017-12-21-mdl-mine-distributed-ledger.jpg
 next_article: /id/2017-12-31-approaches-technical-decisions
 prev_article: /id/2017-12-14-mdl-at-skyledger-conference
 lan: id

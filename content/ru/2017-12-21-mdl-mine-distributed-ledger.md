@@ -2,7 +2,7 @@
 title: MDL - Mine Distributed Ledger - Майни распределенный реестр
 date: 2017-12-21
 short_description: MDL Talent Hub начинает использовать технологии PIDS (IPFS, CXO и т. д.), позволяющие хранить информацию особым способом
-image: images/tp_one.png
+image: images/80/2017-12-21-mdl-mine-distributed-ledger.jpg
 next_article: /ru/2017-12-23-what-do-we-do-and-why
 prev_article: /ru/2017-12-13-pre-ito-is-ongoing
 lan: ru

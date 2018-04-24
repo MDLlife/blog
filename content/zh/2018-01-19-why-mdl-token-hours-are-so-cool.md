@@ -2,7 +2,7 @@
 title: 为什么艺人社的代币小时数那么酷
 date: 2018-01-19
 short_description: MDL 艺人社平台将会被 MDL 代币小时数（MDL TH）助力。
-image: images/tp_one.png
+image: images/80/2018-01-19-why-mdl-token-hours-are-so-cool.jpg
 next_article: /zh/2018-01-25-the-last-week-of-pre-ito
 prev_article: /zh/2018-01-14-why-mdl-value-increase
 lan: zh

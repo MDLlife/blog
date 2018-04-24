@@ -2,7 +2,7 @@
 title: MDL팀, 스카이레저(Skyledger) 컨퍼런스 참석
 date: 2017-12-14
 short_description: MDL 탤런트 허브(Talent Hub)는 CXO 기술의 채택을 면밀히 검토하고 있으며 스카이레저 생태계의 구성원이 될 계획이므로 중국 상해의 블록체인
-image: images/top-blog-img.png
+image: images/80/2017-12-14-mdl-at-skyledger-conference.jpeg
 next_article: /kr/2017-12-14-mdl-at-skyledger-conference
 prev_article: /kr/2017-12-13-pre-ito-is-ongoing
 lan: kr

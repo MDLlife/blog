@@ -2,7 +2,7 @@
 title: MDL inception (video)
 date: 2017-10-10
 short_description: It is said that some events have less probability to happen and some more.
-image: images/tp_one.png
+image: images/top-blog-img.png
 next_article: /en/2017-10-13-MDL-team-Slush-Shanghai
 prev_article: /en/2017-10-08-the-thing-is
 lan: en

@@ -2,7 +2,7 @@
 title: SF2017 참가 위해 한국 방문하는 MDL팀! 그리고 MDL 홈페이지 오픈!
 date: 2017-11-25
 short_description: 2017년 12월 초, 대한민국 서울에서 개최되는 '스타트업 페스티발 2017'(Startup Festival 2017)(이하 SF2017)에 참석하기 위해 MDL팀이 한국을 방문합니다.
-image: images/tp_one.png
+image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /kr/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /kr/2017-11-14-where-do-the-money-come-from
 lan: kr

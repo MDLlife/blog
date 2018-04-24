@@ -2,7 +2,7 @@
 title: MDL at Skyledger Conference
 date: 2017-12-14
 short_description: MDL Talent Hub will utilize PIDS technologies (IPFS, CXO, etc), which will allow information to be stored in a distributed manner
-image: images/tp_one.png
+image: images/80/2017-12-14-mdl-at-skyledger-conference.jpeg
 next_article: /en/2017-12-21-mdl-mine-distributed-ledger
 prev_article: /en/2017-12-13-pre-ito-is-ongoing
 lan: en

@@ -2,7 +2,7 @@
 title: 돈은 어디서 나오나요?
 date: 2017-11-14
 short_description: 2017년 12월 초, 대한민국 서울에서 개최되는 '스타트업 페스티발 2017'(Startup Festival 2017)(이하 SF2017)에 참석하기 위해 MDL팀이 한국을 방문합니다.
-image: images/tp_one.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /kr/2017-11-25-webpage-is-launched-korea
 prev_article: /kr/2017-10-30-what-we-gonna-do
 lan: kr

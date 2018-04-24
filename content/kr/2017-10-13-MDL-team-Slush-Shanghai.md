@@ -2,7 +2,7 @@
 title: Slush 에서의 MDL team
 date: 2017-10-13
 short_description: MDL의 첫 공개는 2017년 10월 12일 Slush Conference에서 있었습니다.
-image: images/tp_one.png
+image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /kr/2017-10-30-what-we-gonna-do
 prev_article: /kr/2017-10-10-mdl-inception
 lan: kr

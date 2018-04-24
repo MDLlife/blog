@@ -2,7 +2,7 @@
 title: Qué hacemos y por qué
 date: 2017-12-23
 short_description: En la obsesión actual por la cadena de bloques hay tantos proyectos que parecen ser todo menos auténticos  
-image: images/tp_one.png
+image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /es/2017-12-31-approaches-technical-decisions
 prev_article: /es/2017-12-21-mdl-mine-distributed-ledger
 lan: es

@@ -2,7 +2,7 @@
 title: Начало MDL (видео)
 date: 2017-10-10
 short_description: Говорят, что у некоторых событий вероятность произойти больше, а у некоторых – меньше.
-image: images/tp_one.png
+image: images/top-blog-img.png
 next_article: /ru/2017-10-13-mdl-team-slush-shanghai
 prev_article: /ru/2017-10-08-the-thing-is
 lan: ru

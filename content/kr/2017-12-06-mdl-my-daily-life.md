@@ -2,7 +2,7 @@
 title: MDL - 나의 일상 생활(My Daily Life)
 date: 2017-12-06
 short_description: 캐나다 마틴번영연구소(Martin Prosperity Institute)의 리처드 플로리다(Richard Florida) 소장도 주목한 바 있듯이
-image: images/tp_one.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /kr/2017-12-08-user-instruments-part1
 prev_article: /kr/2017-12-05-how-mdl-secures-reputation
 lan: kr

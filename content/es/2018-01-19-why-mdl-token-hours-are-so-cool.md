@@ -1,7 +1,7 @@
 ---
 title: ¿Por qué las horas de Token de MDL son tan geniales?
 date: 2018-01-19
-image: images/top-blog-img.png
+image: images/80/2018-01-19-why-mdl-token-hours-are-so-cool.jpg
 next_article: /es/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /es/2018-01-14-why-mdl-value-increase
 show_in_top: show

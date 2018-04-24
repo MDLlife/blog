@@ -2,7 +2,7 @@
 title: MDL团队在Slush
 date: 2017-10-13
 short_description: 如果我有一个小时来解决一个问题，我会花55分钟思考这个问题，5分钟考虑解决方案。-阿尔伯特·爱因斯坦
-image: images/tp_one.png
+image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /zh/2017-10-30-what-we-gonna-do
 prev_article: /zh/2017-10-10-mdl-inception
 lan: zh

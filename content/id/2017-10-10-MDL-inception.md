@@ -2,7 +2,7 @@
 title: Lahirnya MDL (video)
 date: 2017-10-10
 short_description: Dikatakan bahwa beberapa kejadian memiliki sedikit kemungkinan untuk terjadi dan beberapa lainnya.
-image: images/tp_one.png
+image: images/top-blog-img.png
 next_article: /id/2017-10-13-mdl-team-slush-shanghai
 prev_article: /id/2017-10-08-the-thing-is
 lan: id

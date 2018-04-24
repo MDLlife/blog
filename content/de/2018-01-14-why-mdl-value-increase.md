@@ -2,7 +2,7 @@
 title: Warum steigt der Wert von MDL Token im Laufe der Zeit?
 date: 2018-01-14
 short_description: Für unsere frühen Investoren ist es wichtig zu wissen, warum die MDL-Token im Laufe der Zeit an Wert gewinnen.
-image: images/tp_one.png
+image: images/80/2018-01-14-why-mdl-value-increase.jpg
 next_article: /de/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /de/2018-01-09-anonymity-publicity-in-mdl
 lan: de

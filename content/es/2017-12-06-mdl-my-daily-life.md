@@ -2,7 +2,7 @@
 title: MDL - My Daily Life
 date: 2017-12-06
 short_description: Durante las últimas décadas, la economía mundial ha experimentado un cambio masivo de la agricultura y la producción a los servicios 
-image: images/top-blog-img.png
+image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /es/2017-12-08-user-instruments-part1
 prev_article: /es/2017-11-25--webpage-is-launched-korea
 lan: es

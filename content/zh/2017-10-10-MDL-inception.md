@@ -2,7 +2,7 @@
 title: MDL 成立 (视频)
 date: 2017-10-10
 short_description: 据说有些事件发生的可能是性很小，就像10月8日发生的事件。
-image: images/tp_one.png
+image: images/top-blog-img.png
 next_article: /zh/2017-10-13-mdl-team-slush-shanghai
 prev_article: /zh/2017-10-08-the-thing-is
 lan: zh

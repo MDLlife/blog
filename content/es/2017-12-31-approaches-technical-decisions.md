@@ -2,7 +2,7 @@
 title: Enfoques y decisiones técnicas
 date: 2017-12-31
 short_description: Dado el estado actual del desarrollo global de la cadena de bloques 
-image: images/top-blog-img.png
+image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /es/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /es/2017-12-23-what-do-we-do-and-why
 lan: es

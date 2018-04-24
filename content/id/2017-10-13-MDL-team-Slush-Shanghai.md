@@ -2,7 +2,7 @@
 title: Tim MDL di Slush
 date: 2017-10-13
 short_description: Tampilan publik pertama MDL adalah pada tanggal 12 Oktober 2017 di Konferensi Slush.
-image: images/tp_one.png
+image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /id/2017-10-30-what-we-gonna-do
 prev_article: /id/2017-10-10-mdl-inception
 lan: id

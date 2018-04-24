@@ -2,7 +2,7 @@
 title: 錢從哪裡來?
 date: 2017-11-14
 short_description: 為了保証我們的資金流向正面，我們正在考慮以下創收方式。由於區塊鏈技術的被啟用，一種創新的經濟系統已經啟用。
-image: images/tp_one.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /zh-hant/2017-11-25-webpage-is-launched-korea
 prev_article: /zh-hant/2017-10-30-what-we-gonna-do
 lan: zh-hant

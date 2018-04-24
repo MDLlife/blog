@@ -2,7 +2,7 @@
 title: ¿De dónde saldrá el dinero?
 date: 2017-11-14
 short_description: Para mantener nuestros flujos financieros positivos, estamos considerando los siguientes métodos de creación de ingresos. 
-image: images/top-blog-img.png
+image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /es/2017-11-25--webpage-is-launched-korea
 prev_article: /es/2017-10-30-what-we-gonna-do
 lan: es

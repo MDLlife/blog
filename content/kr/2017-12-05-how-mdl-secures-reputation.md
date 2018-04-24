@@ -2,7 +2,7 @@
 title: MDL의 평판 확보 방법
 date: 2017-12-05
 short_description: 평판의 신뢰성을 확보하기 위해 MDL 탤런트 허브(Talent Hub)는 두 가지 최신 기술을 채택하는데, 블록체인과 PIDS가 바로 그것입니다.
-image: images/tp_one.png
+image: images/80/2017-12-05-how-mdl-secures-reputation.jpg
 next_article: /kr/2017-12-06-mdl-my-daily-life
 prev_article: /kr/2017-12-03-mdl-at-sf2017-seoul
 lan: kr

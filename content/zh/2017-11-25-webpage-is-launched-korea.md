@@ -2,7 +2,7 @@
 title: MDL带着漂亮的页面去韩国参加SF2017啦
 date: 2017-11-25
 short_description: 在12月初，MDL团队将在韩国首尔参加2017创业节。
-image: images/tp_one.png
+image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /zh/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /zh/2017-11-14-where-do-the-money-come-from
 lan: zh

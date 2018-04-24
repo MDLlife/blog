@@ -2,7 +2,7 @@
 title: Laman Web Diluncurkan dan MDL Pergi ke Korea Untuk SF2017.
 date: 2017-11-25
 short_description: Pada awal bulan Desember, Tim MDL akan mengikuti Festival Startup 2017 di Seoul, Korea Selatan.
-image: images/tp_one.png
+image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /id/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /id/2017-11-14-where-do-the-money-come-from
 lan: id

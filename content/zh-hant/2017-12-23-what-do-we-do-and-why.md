@@ -2,7 +2,7 @@
 title: 這些我們正在做的事兒，是什麼？為什麼？
 date: 2017-12-23
 short_description: 當下正在火爆風行的區塊鏈熱潮帶來了超級多的項目，但是似乎並不是每個項目都是真實的，或有些項目並沒有出於一種有用途的好初衷。
-image: images/top-blog-img.png
+image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /zh-hant/2017-12-23-what-do-we-do-and-why
 prev_article: /zh-hant/2017-12-21-mdl-mine-distributed-ledger
 lan: zh-hant
