@@ -88,7 +88,7 @@ The practical information on software combined with the a great and supportive t
 that will allow us to reduce software maintenance costs and keep it low in a sustainable way, at the same time as we deliver a great product for our customers.
 
 
-Keep an eye on the next posts, where we will explain MDL team will build this great architecture, together we are stronger.
+Keep an eye on the next posts, where we will explain how the MDL team will build this great architecture, together we are stronger.
 
 
 
