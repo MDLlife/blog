@@ -3,9 +3,8 @@ title: The 1st stage of MDL ITO nearly reached hardcap!
 date: 2018-04-24
 short_description: It was tough, but we did it.
 image: images/2018-04-24-stage_1_ITO_is_over.jpg
-next_article:
+next_article: /en/2018-05-04-mdl-development-strategy
 prev_article: /en/2018-04-16-investors-can-now-swap-their-waves-tokens
-show_in_top: show
 lan: en
 ---
 
