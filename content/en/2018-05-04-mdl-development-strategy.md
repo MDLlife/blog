@@ -3,9 +3,8 @@ title: MDL Development Strategy
 date: 2018-05-03
 short_description: MDL Development Strategy with Continuous integration and continuous deployment
 image: images/80/2018-05-04-development-update.jpg
-next_article:
+next_article: /en/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving
 prev_article: /en/2018-04-24-stage_1_ito_is_over
-show_in_top: show
 lan: en
 ---
 
