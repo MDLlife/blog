@@ -3,7 +3,7 @@ title: Early MDL investors can now swap their waves tokens!
 date: 2018-04-16
 short_description: Good news everyone! Investors who bought Waves pre-MDL Tokens.
 image: images/2018-04-16-investors-can-now-swap-their-waves-tokens.png
-next_article: /en/2018-04-16-investors-can-now-swap-their-waves-tokens
+next_article: /en/2018-04-17-and-on-the-239-th-day-MDL-created-the-demo
 prev_article: /en/2018-02-23-how-platform-is-protected-token-volatility
 lan: en
 ---
