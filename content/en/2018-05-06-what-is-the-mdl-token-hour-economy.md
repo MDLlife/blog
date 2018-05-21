@@ -3,7 +3,7 @@ title: What is the MDL Token Hour Economy?
 date: 2018-05-06
 short_description: Sky Fiber blockchain technology allows the accumulation of token hours for holders of MDL tokens.
 image: images/80/2018-05-06-what-is-the-mdl-token-hour-economy1.jpeg
-next_article: /en/2018-05-05-mdl-talent-hub-influencers-performers-take-note
+next_article: /en/2018-05-08-mdl-was-invited-to-speak-at-the-2018-global-graphene
 prev_article: /en/2018-05-04-mdl-development-strategy
 lan: en
 ---
