@@ -3,7 +3,7 @@ title: How is the platfrom protected from Token volatility
 date: 2018-02-23
 short_description: Crypto currencies are known for their high fluctuating rates – daily trading range of 30% is not an unusual.
 image: images/80/2018-02-23-how-platform-is-protected-token-volatility.jpg
-next_article: /en/2018-04-10-micro-influencers-macro-influencers
+next_article: /en/2018-04-03-10-ways-to-improve-the-talent-booking-industry
 prev_article: /en/2018-02-16-development-update-1
 lan: en
 ---
