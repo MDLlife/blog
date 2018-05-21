@@ -5,7 +5,7 @@ short_description: In order to prepare for ITO, we require ca. $500.000.
 image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /ar/2017-12-13-pre-ito-is-ongoing
 prev_article: /ar/2017-12-13-pre-ito-is-ongoing
-lan: en
+lan: ar
 show_in_top: show
 ---
 
