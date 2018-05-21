@@ -5,7 +5,7 @@ short_description: 時に物事が生まれる確率はとても低いと言わ�
 image: images/top-blog-img.png
 next_article: /ja/2017-10-10-mdl-inception
 prev_article: /ja/2017-10-08-the-thing-is
-lan: en
+lan: ja
 show_in_top: show
 ---
 
