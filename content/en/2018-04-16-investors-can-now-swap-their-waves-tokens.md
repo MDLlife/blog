@@ -4,7 +4,7 @@ date: 2018-04-16
 short_description: Good news everyone! Investors who bought Waves pre-MDL Tokens.
 image: images/2018-04-16-investors-can-now-swap-their-waves-tokens.png
 next_article: /en/2018-04-17-and-on-the-239-th-day-MDL-created-the-demo
-prev_article: /en/2018-04-11-event-recap-how-technology-is-changing-the-fashion-industry
+prev_article: /en/2018-04-12-how-tech-is-taking-over-the-fashion-industry
 lan: en
 ---
 

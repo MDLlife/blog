@@ -3,7 +3,7 @@ title: Event Recap How Technology Is Changing The Fashion Industry
 date: 2018-04-11
 short_description: Technology is everywhere, innovating fast and changing all aspects of our daily life. This is how technology is changing the fashion industry.
 image: images/80/2018-04-11-event-recap-how-technology-is-changing-the-fashion-industry1.jpeg
-next_article: /en/2018-04-16-investors-can-now-swap-their-waves-tokens
+next_article: /en/2018-04-12-how-tech-is-taking-over-the-fashion-industry
 prev_article: /en/2018-04-10-micro-influencers-macro-influencers
 lan: en
 ---
