@@ -4,7 +4,7 @@ date: 2018-04-10
 short_description: In this article we are taking a look at how micro-influencers are the rising stars of the entertainment industry
 image: images/80/2018-04-10-micro-influencers-macro-influencers1.jpeg
 next_article: /en/2018-04-11-event-recap-how-technology-is-changing-the-fashion-industry
-prev_article: /en/2018-02-23-how-platform-is-protected-token-volatility
+prev_article: /en/2018-04-03-10-ways-to-improve-the-talent-booking-industry
 lan: en
 ---
 
