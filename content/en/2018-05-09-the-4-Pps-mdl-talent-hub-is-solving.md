@@ -59,7 +59,7 @@ The third ecosystem, the insurance ecosystem, will address problems regarding th
 
 — — — — — — — — — — — — — — — — — — — — —
 
-*MDL Talent Hub* has partners and agencies from all over the world who are ready to jump to action when our platform will soft-launch at the end of 2018. Until that time we are focussing on increasing our community of early adopters and brand ambassadors all across the world. You can read more about joining our community and potentially become a brand ambassador by checking out our other article HERE
+*MDL Talent Hub* has partners and agencies from all over the world who are ready to jump to action when our platform will soft-launch at the end of 2018. Until that time we are focussing on increasing our community of early adopters and brand ambassadors all across the world. You can read more about joining our community and potentially become a brand ambassador by checking out our other article [ HERE ] (https://medium.com/@dd_96182/mdl-talent-hub-influencers-performers-take-note-978f03924621)
 
 ## Join the movement.
 
