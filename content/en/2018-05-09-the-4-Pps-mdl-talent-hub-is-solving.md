@@ -5,7 +5,6 @@ short_description: MDL Talent Hub is creating 3 ecosystems in 1 platform that wi
 image: images/80/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving1.jpg
 next_article:
 prev_article: /en/2018-05-04-mdl-development-strategy
-show_in_top: show
 lan: en
 ---
 
