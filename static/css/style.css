@@ -314,7 +314,6 @@
     line-height: normal;
     letter-spacing: normal;
     color: #e2dddd;
-    background-color: rgba(99, 93, 93, 1)
 }
 
 .mdl-picture__post-title {
@@ -335,8 +334,6 @@
     letter-spacing: normal;
     text-align: left;
     color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.3)
-
 }
 
 .mdl-picture__post:last-child {
