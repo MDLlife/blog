@@ -5,7 +5,8 @@ short_description: MDL 被2018全球石墨烯开发者会议（Global Graphene D
 image: images/80/2018-05-08-mdl-was-invited-to-speak-at-the1.jpeg
 next_article: /en/2018-05-05-mdl-talent-hub-influencers-performers-take-note
 prev_article: /en/2018-05-04-mdl-development-strategy
-lan: en
+show_in_top: show
+lan: zh
 ---
 
 ## MDL 2018被邀请到上海

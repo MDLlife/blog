@@ -5,7 +5,6 @@ short_description: MDL 持续集成和持续部署的发展战略
 image: images/80/2018-05-04-development-update.jpg
 next_article:
 prev_article: /zh/2018-04-24-stage_1_ito_is_over
-show_in_top: show
 lan: zh
 ---
 
