@@ -30,6 +30,6 @@ lan: zh
 我们的使命是制定一个平衡的生态系统经济，以便没有任何MDL代币的用户将也能够从MDL艺人社中受益，而不会限制我们的市场扩张。
 与此同时，我们也希望大家能够知晓，我们会通过吸引人的让方式让用户使用MDL代币小时数购买扩展功能，增强功能和和一些其他功能，那样能让MDL的投机持有者也能有机会受益。
 
-如果您对与MDL代币小时数有其他问题，请阅读我们的 [ 白皮书 ] (https://www.mdl.life/whitepaper/WhitePaper_eng_1.6.3.pdf) , 看看我们的 [ 网站 ] (https://www.mdl.life/) 或在这里问我们问题: team@mdl.life
+如果您对与MDL代币小时数有其他问题，请阅读我们的 [ 白皮书 ](https://www.mdl.life/whitepaper/WhitePaper_eng_1.6.3.pdf) , 看看我们的 [ 网站 ](https://www.mdl.life/) 或在这里问我们问题: team@mdl.life
 
 ![](/images/80/2018-05-06-what-is-the-mdl-token-hour-economy2.jpeg)
