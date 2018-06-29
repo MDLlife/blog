@@ -5,7 +5,7 @@ short_description: MDL艺人社正在打造三种生态环境，集合在一个�
 image: images/80/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving1.jpg
 next_article:
 prev_article: /en/2018-05-04-mdl-development-strategy
-lan: en
+lan: zh
 ---
 
 
@@ -67,6 +67,6 @@ MDL艺人社正在打造三种生态环境集合在一个平台上，为解决�
 
 ## 加入变革。
 
- [— MDL 艺人社 ] (https://mdl.life/)
+ [— MDL 艺人社 ](https://mdl.life/)
 
 ![](/images/80/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving3.png)
