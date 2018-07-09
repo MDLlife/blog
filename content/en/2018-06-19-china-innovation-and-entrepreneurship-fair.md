@@ -3,7 +3,7 @@ title: MDL Talent Hub @ China Innovation and Entrepreneurship Fair!
 date: 2018-06-19
 short_description: The 2018 China Innovation and Entrepreneurship Fair is finally here and MDL Talent Hub is joining!
 image: images/2018-06-19-china-innovation-and-entrepreneurship-fair-1.jpeg
-next_article:
+next_article: /en/2018-06-20-we-are-mdl
 prev_article: /en/2018-06-15-how-to-promote-your-fashion-brand-in-2018
 lan: en
 ---
