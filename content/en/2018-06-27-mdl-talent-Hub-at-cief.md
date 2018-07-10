@@ -1,5 +1,5 @@
 ---
-title: The MDL Talent Hub at TNW conference #TNW2018.
+title: The MDL Talent Hub at CIEF
 date: 2018-06-26
 short_description: Our Team Attended The “China Innovation and Entrepreneur Fair” in Guangzhou last weekend. This is a short recap!
 image: images/2018-06-27-mdl-talent-Hub-at-cief-1.jpeg
