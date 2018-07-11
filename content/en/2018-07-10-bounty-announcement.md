@@ -5,7 +5,7 @@ short_description: MDL Talent Hub is moving fast, and that means that we have a 
 image: images/2018-07-10-bounty-announcement.jpeg
 next_article:
 prev_article: /en/2018-06-26-you-should-join-the-we-are-mdl-competition
-show_in_top:
+show_in_top: show
 lan: en
 ---
 
