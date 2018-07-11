@@ -5,7 +5,6 @@ short_description: Our Team Attended The “China Innovation and Entrepreneur Fa
 image: images/2018-06-27-mdl-talent-Hub-at-cief-1.jpeg
 next_article:
 prev_article: /en/2018-06-26-you-should-join-the-we-are-mdl-competition
-show_in_top: show
 lan: en
 ---
 
