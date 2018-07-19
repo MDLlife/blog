@@ -3,9 +3,8 @@ title: Summer is in full glory and so is bounty season!
 date: 2018-07-10
 short_description: MDL Talent Hub is moving fast, and that means that we have a lot of materials that require some extra hands on deck. For this reason, we are announcing another bounty run!
 image: images/2018-07-10-bounty-announcement.jpeg
-next_article:
+next_article: /en/2018-07-18-thisisme.md
 prev_article: /en/2018-06-26-you-should-join-the-we-are-mdl-competition
-show_in_top: show
 lan: en
 ---
 
