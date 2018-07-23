@@ -4,7 +4,7 @@ date: 2018-07-05
 short_description: It is that time of the year again, no it's not in Silicon Valley, it is however, in China, Hong Kong!
 image: images/80/2018-07-05-mdl-attending-riseconf-2018-hk-1.jpeg
 next_article: /en/2018-07-10-bounty-announcement.md
-prev_article: /en/2018-06-26-you-should-join-the-we-are-mdl-competition
+prev_article: /en/2018-06-28-mdl-token-distribution-announcement.md
 lan: en
 ---
 
