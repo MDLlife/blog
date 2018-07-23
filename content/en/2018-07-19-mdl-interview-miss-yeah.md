@@ -13,7 +13,6 @@ lan: en
 ### A fun and interesting interview with internet celebrity ["Miss Yeah"](https://www.youtube.com/channel/UCRB4xZ_2ew7fzmrcv8aj4Lw)!
 
 
-
 > What do you do if you have the opportunity to meet Miss Yeah? Interview her of course! On our second day at the RISE conference in Hong Kong, we had the opportunity to interview Miss Yeah, here is how that went:
 
 ![](/images/2018-07-19-mdl-interview-miss-yeah-4.jpeg)
