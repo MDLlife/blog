@@ -3,9 +3,8 @@ title: MDL Interview - Miss Yeah
 date: 2018-07-19
 short_description: A fun and interesting interview with internet celebrity "Miss Yeah"!
 image: images/80/2018-07-19-mdl-interview-miss-yeah-1.jpeg
-next_article:
-prev_article: 2018-07-18-thisisme.md
-show_in_top: show
+next_article: /en/2018-07-25-about-our-yoyow-partnership.md
+prev_article: /en/2018-07-18-thisisme.md
 lan: en
 ---
 
