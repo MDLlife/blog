@@ -9,7 +9,7 @@ show_in_top: show
 lan: en
 ---
 
-## About our YOYOW partnership
+## About our **YOYOW** partnership
 
 In January 2018 MDL Talent Hub and YOYOW have concluded a strategic partnership agreement. The idea behind it is to integrate the MDL platform into YOYOWs ecosystem. What does this mean?
 
