@@ -6,6 +6,7 @@ image: images/2018-04-24-stage_1_ITO_is_over.jpg
 next_article: /en/2018-04-25-what-are-those-wallets-you-keep-hearing-about
 prev_article: /en/2018-04-16-investors-can-now-swap-their-waves-tokens
 lan: en
+categories: ["News"]
 ---
 
 ## MDL Has Nearly Reached Its Hardcap!

@@ -6,6 +6,7 @@ image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /es/2017-12-08-user-instruments-part1
 prev_article: /es/2017-11-25--webpage-is-launched-korea
 lan: es
+categories: ["News"]
 ---
 
 Durante las últimas décadas, la economía mundial ha experimentado un cambio masivo de la agricultura y la producción a los servicios y la creatividad, como lo señala Richard Florida, director del Martin Prosperity Institute de Canadá. Las tecnologías modernas revolucionan la economía de tal manera que cada vez más personas quedarán desempleadas. El cambio es tan trascendental que las ideas que anteriormente se consideraban una locura, como la del ingreso básico incondicional, ya se están implementando en los países avanzados. Muy pronto nuestra sociedad enfrentará el punto en el que el trabajo físico rutinario e incluso el trabajo mental de los hombres ya no sean necesarios para el avance. Aquí viene la pregunta: ¿qué diablos va a hacer la gente?

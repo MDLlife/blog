@@ -6,6 +6,7 @@ image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /kr/2017-12-14-mdl-at-skyledger-conference
 prev_article: /kr/2017-12-08-user-instruments-part1
 lan: kr
+categories: ["News"]
 ---
 
 MDL팀은 ITO 준비를 위해 약 50만 달러가 필요합니다. 이 금액으로 2018년 3월에 ITO 캠페인을 개시할 계획이며, 이 과정에서 플랫폼 개발, 아시아권 확대 및 사업 전개, R&D, BC 및 PIDS 기술 구현 등을 위해 약 2천만 달러를 추가 조성할 계획입니다.

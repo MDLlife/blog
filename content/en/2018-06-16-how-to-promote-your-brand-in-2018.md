@@ -6,6 +6,7 @@ image: images/2018-06-16-how-to-promote-your-brand-in-2018-1.jpeg
 next_article:
 prev_article: /en/2018-06-15-how-to-promote-your-fashion-brand-in-2018
 lan: en
+categories: ["News"]
 ---
 
 ##[Event Recap] How to promote your brand in 2018

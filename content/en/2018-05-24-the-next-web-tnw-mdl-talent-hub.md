@@ -6,6 +6,7 @@ image: images/80/2018-05-24-tnw-1.jpg
 next_article:
 prev_article: /en/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving
 lan: en
+categories: ["News"]
 ---
 
 

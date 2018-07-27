@@ -6,6 +6,7 @@ image: images/top-blog-img.png
 next_article: /en/2017-10-13-MDL-team-Slush-Shanghai
 prev_article: /en/2017-10-08-the-thing-is
 lan: en
+categories: ["News"]
 ---
 
 <video width="640" height="360" controls>

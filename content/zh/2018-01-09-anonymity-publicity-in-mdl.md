@@ -6,6 +6,7 @@ image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /zh/2018-01-14-why-mdl-value-increase
 prev_article: /zh/2017-12-31-approaches-technical-decisions
 lan: zh
+categories: ["News"]
 ---
 
 我们的任务之一是为娱乐业市场带来透明度，但是，我们也需要应对这一任务在此领域造成的影响，为艺人和预定者创造更容易被接受的流程和环境。我们使用 blockchain 和 PIDS (IPFS, CXO) 技术，因为他们拥有众所周知的让信息公开可信的能力，他们的强项是使数据具有公开信，可追踪性，和拥有不可更改的特性。但是与此同时，这些特性也提出了一个很好的问题 — 什么样的信息将会被开放给公众？

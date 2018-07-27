@@ -5,7 +5,8 @@ short_description: 上个星期，MDL艺人社的预售活动得到了一个愉�
 image: images/80/2018-01-25-The-last-week-of-pre-ITO.jpg
 next_article: /zh/2018-01-31-pre-ito-hard-cap
 prev_article: /zh/2018-01-19-why-mdl-token-hours-are-so-cool
-lan: zh
+lan: 
+categories: ["News"]
 ---
 
 上个星期，MDL艺人社的预售活动得到了一个愉快的消息 - 已经成功越过了最低门槛 $300 000！恭喜所有的投资者，参与者与伙伴们！

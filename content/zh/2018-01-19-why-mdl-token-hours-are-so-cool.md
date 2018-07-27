@@ -6,6 +6,7 @@ image: images/80/2018-01-19-why-mdl-token-hours-are-so-cool.jpg
 next_article: /zh/2018-01-25-the-last-week-of-pre-ito
 prev_article: /zh/2018-01-14-why-mdl-value-increase
 lan: zh
+categories: ["News"]
 ---
 
 MDL 艺人社平台将会被 MDL 代币小时数（MDL TH）助力。MDL TH将会被用于支持 MDL 代币的价值增长，也会被用于保护平台，解决可能会发生的过高的 MDL 代币挥发性问题。以下八个概念可以解释 MDL TH。

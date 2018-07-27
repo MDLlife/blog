@@ -6,6 +6,7 @@ image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /id/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /id/2017-11-14-where-do-the-money-come-from
 lan: id
+categories: ["News"]
 ---
 
 Pada awal bulan Desember, Tim MDL akan mengikuti Festival Startup 2017 di Seoul, Korea Selatan. SF2017 diselenggarakan untuk pertama kalinya oleh pemerintah Korea untuk memfasilitasi ekosistem inovasi di negara ini. Ada sekitar 60 startup terpilih dari Asia yang diundang secara pribadi untuk bertemu VC dan media dari seluruh dunia. MDL masuk dalam daftar!

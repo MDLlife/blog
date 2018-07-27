@@ -6,6 +6,7 @@ image: images/80/2017-12-21-mdl-mine-distributed-ledger.jpg
 next_article: /id/2017-12-31-approaches-technical-decisions
 prev_article: /id/2017-12-14-mdl-at-skyledger-conference
 lan: id
+categories: ["News"]
 ---
 
 MDL Talent Hub akan menggunakan teknologi PIDS (IPFS, CXO, dll.), yang memungkinkan informasi disimpan secara terdistribusi pada perangkat pengguna dan penambang, meningkatkan akses, kecepatan, dan keamanan informasi jauh lebih tinggi.

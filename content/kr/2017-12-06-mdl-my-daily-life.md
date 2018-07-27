@@ -6,6 +6,7 @@ image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /kr/2017-12-08-user-instruments-part1
 prev_article: /kr/2017-12-05-how-mdl-secures-reputation
 lan: kr
+categories: ["News"]
 ---
 
 캐나다 마틴번영연구소(Martin Prosperity Institute)의 리처드 플로리다(Richard Florida) 소장도 주목한 바 있듯이, 지난 수십년간 세계 경제는 농업 및 생산 경제에서 서비스 경제, 나아가서는 창조 경제로 대대적인 이동을 경험하고 있습니다. 현대 기술은 점점 더 많은 사람들을 실업자로 전락시켜 경제가 어려워지고 있으며, 이전에는 미친 소리로 치부되었던 "조건없는 기본 소득"의 개념도 선진국에서는 이미 시행되고 있는 상황입니다. 머지 않아 우리 사회는 발전을 위해서 더 이상 사람의 일상적 정신 활동, 심지어는 육체 활동마저도 필요하지 않을 순간을 마주하게 될 것입니다. 이 대목에서 이렇게 묻지 않을 수 없습니다. 그럼 도대체 사람들은 무엇을 할 것인가?

@@ -6,6 +6,7 @@ image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /de/2017-12-08-user-instruments-part1
 prev_article: /de/2017-12-05-how-mdl-secures-reputation
 lan: de
+categories: ["News"]
 ---
 
 Seit einigen Jahrzehnten erlebt die Weltwirtschaft einen massiven Wandel von Landwirtschaft und Produktion zu Dienstleistungen und weiter zu einem kreativen Wirtschaftssektor, wie Richard Florida, Leiter des Martin Wohlstandsinstitutes in Kanada, festgestellt hat. Moderne Technologien stören die Wirtschaft derart, dass immer mehr Menschen arbeitslos bleiben und die früher als verrückt angesehene Idee des bedingungslosen Grundeinkommens in fortgeschrittenen Ländern bereits umgesetzt wird. Sehr bald wird unsere Gesellschaft mit der Dynamik konfrontiert sein, dass routinemäßige physische und sogar mentale menschliche Arbeit für den Fortschritt nicht mehr benötigt wird. Hier kommt die Frage - was zur Hölle werden die Menschen tun?

@@ -6,6 +6,7 @@ image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /id/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /id/2017-12-21-mdl-mine-distributed-ledger
 lan: id
+categories: ["News"]
 ---
 
 Dalam perkembangan blockchain global terkini, nampaknya kebanyakan orang benar-benar lupa bahwa di balik setiap proyek ada orang-orang yang bekerja secara nyata [atau tidak]. Jadi, situs web bergaya dengan video menarik yang menjanjikan, yang menampilkan alamat Bitcoin atau Ethereum, membuat orang lebih tertarik untuk berinvestasi, daripada komunitas pekerja keras, dengan pemimpin terhormat. Orang hanya mengirim uang secara membabi buta ke kontrak pintar, tanpa meneliti siapa yang mengerjakan konsep, kode, pemasaran, dll. KYC yang benar atau uji kelayakan harus dilakukan di kedua pihak, jika tidak, pemberontakan dan keberuntungan terjadi. MDL mengambil pendekatan yang sedikit berbeda, setidaknya pada saat PRE-ITO. Alih-alih melakukan KYC formal, kami ingin mengetahui investor kami sendiri dan kami pikir penting untuk membiarkan mereka lebih memahami kami juga. Selama PRE-ITO pada bulan Januari, kami siap menjawab pertanyaan dan bersikap responsif semaksimal mungkin secara fisik.

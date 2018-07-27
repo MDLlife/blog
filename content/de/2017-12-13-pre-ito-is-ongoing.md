@@ -6,6 +6,7 @@ image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /de/2017-12-14-mdl-at-skyledger-conference
 prev_article: /de/2017-12-08-user-instruments-part1
 lan: de
+categories: ["News"]
 ---
 
 Um das ITO vorzubereiten, benötigen wir ca. $ 500.000. Dieser Betrag wird es ermöglichen, die ITO-Kampagne im März 2018 zu starten, die 20 Mio USD für die Entwicklung der Plattform, die grenzüberschreitende Skalierung und Geschäftsentwicklung, sowie für die Forschung und Entwicklung und die weitere Implementierung von BC & PIDS-Technologien einbringen soll.

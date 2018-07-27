@@ -6,6 +6,7 @@ image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /zh/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /zh/2017-12-23-what-do-we-do-and-why
 lan: zh
+categories: ["News"]
 ---
 
 在当下全球区块链发展的状况中，大多数人似乎完全忘记了每个项目背后都有一些真正的在为此努力工作的人（或许有可能没有）。 因此，一个拥有极客团队背景和易于理解的介绍视屏的超级有型的时尚网站，当然比比特币或以太坊的复杂项目更吸引投资人的目光。人们只是盲目地把钱汇给一个智能合同，而没有真正研究是否有努力工作的团队在做概念，打代码，有没有一个值得信任的领导带领进行营销等方面或等等种种的工作。

@@ -6,6 +6,7 @@ image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /en/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /en/2017-12-23-what-do-we-do-and-why
 lan: en
+categories: ["News"]
 ---
  
 Given the current state of global blockchain development, it seems that most people have totally forgotten that behind every project there are actual people working [or not]. So a stylish website with a promising, geeky video, featuring Bitcoin or Ethereum addresses, gets people more attracted to invest than a hardworking community with respect-worthy leaders. People just send money blindly to a smart contract, without researching who's working on the concept, code, marketing, etc.

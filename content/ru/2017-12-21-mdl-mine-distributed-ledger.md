@@ -6,6 +6,7 @@ image: images/80/2017-12-21-mdl-mine-distributed-ledger.jpg
 next_article: /ru/2017-12-23-what-do-we-do-and-why
 prev_article: /ru/2017-12-13-pre-ito-is-ongoing
 lan: ru
+categories: ["News"]
 ---
 
 MDL Talent Hub начинает использовать технологии PIDS (IPFS, CXO и т. д.), позволяющие хранить информацию особым способом, распределенную по устройствам пользователей и майнеров. Это повышает скорость доступа и обеспечивает надежное хранение данных.

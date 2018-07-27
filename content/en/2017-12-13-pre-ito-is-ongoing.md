@@ -6,6 +6,7 @@ image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /en/2017-12-14-mdl-at-skyledger-conference
 prev_article: /en/2017-12-08-user-instruments-part1
 lan: en
+categories: ["News"]
 ---
 
 In order to prepare for ITO, we require capital in the amount of $500.000. This amount will allow us to launch our ITO campaign

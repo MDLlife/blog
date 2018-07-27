@@ -6,6 +6,7 @@ image: images/80/2018-01-19-why-mdl-token-hours-are-so-cool.jpg
 next_article: /ru/2018-01-25-the-last-week-of-pre-ito
 prev_article: /ru/2018-01-14-why-mdl-value-increase
 lan: ru
+categories: ["News"]
 ---
 
 Платформа MDL Talent Hub будет использовать для работы особые токены - MDL Token Hours (MDL TH). MDL TH нужен для поддержки роста стоимости токена MDL, а также для защиты платформы от высокой волатильности токенов MDL. 

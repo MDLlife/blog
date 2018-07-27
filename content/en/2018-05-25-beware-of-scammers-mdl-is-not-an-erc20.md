@@ -6,6 +6,7 @@ image: images/2018-05-25-beware-of-scammers-mdl-is-not-an-erc201.png
 next_article: /en/2018-06-15-how-to-promote-your-fashion-brand-in-2018
 prev_article: /en/2018-05-24-the-next-web-tnw-mdl-talent-hub.md
 lan: en
+categories: ["News"]
 ---
 
 

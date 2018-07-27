@@ -6,6 +6,7 @@ image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /es/2017-12-31-approaches-technical-decisions
 prev_article: /es/2017-12-21-mdl-mine-distributed-ledger
 lan: es
+categories: ["News"]
 ---
 
 ***¿Qué estamos haciendo y por qué?***

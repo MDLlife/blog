@@ -6,6 +6,7 @@ image: images/2018-04-12-how-tech-is-taking-over-the-fashion-industry2.jpeg
 next_article: /en/2018-04-16-investors-can-now-swap-their-waves-tokens
 prev_article: /en/2018-04-11-event-recap-how-technology-is-changing-the-fashion-industry
 lan: en
+categories: ["News"]
 ---
 
 # How Tech Is Taking Over The Fashion Industry

@@ -6,6 +6,7 @@ image: images/80/2018-07-19-mdl-interview-miss-yeah-1.jpeg
 next_article: /en/2018-07-25-about-our-yoyow-partnership.md
 prev_article: /en/2018-07-18-thisisme.md
 lan: en
+categories: ["News"]
 ---
 
 

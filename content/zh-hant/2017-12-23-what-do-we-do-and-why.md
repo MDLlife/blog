@@ -7,6 +7,7 @@ next_article: /zh-hant/2017-12-23-what-do-we-do-and-why
 prev_article: /zh-hant/2017-12-21-mdl-mine-distributed-ledger
 lan: zh-hant
 show_in_top: show
+categories: ["News"]
 ---
 
 ***我們正在做什麼呢？我們為什麼要做這些呢？***

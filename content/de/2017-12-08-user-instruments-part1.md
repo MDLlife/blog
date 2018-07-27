@@ -6,6 +6,7 @@ image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /de/2017-12-14-mdl-at-skyledger-conference
 prev_article: /de/2017-12-06-mdl-my-daily-life
 lan: de
+categories: ["News"]
 ---
 
 **Profil** Wir glauben, dass eine talentierte Person in vielerlei Hinsicht talentiert sein kann, so dass jedes Profil mehrere Portfolios hat - Schauspieler, Tänzer, Origami-Meister oder anderes. Jedes der Portfolios wird über ausreichend Präsentationsmaterial wie Compcard, Vorstellungsvideos oder anderes verfügen. So kann ein Bucher leicht ein bestimmtes Portfolio eines Talents auswählen, das für das bestimmte Ereignis benötigt wird.

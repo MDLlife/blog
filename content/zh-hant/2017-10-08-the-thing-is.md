@@ -6,6 +6,7 @@ image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /zh-hant/2017-10-10-mdl-inception
 prev_article: /zh-hant/2017-10-08-the-thing-is
 lan: zh-hant
+categories: ["News"]
 ---
 
 中國、印度尼西亞，大多數的亞洲國家在幾年前就已經熱情轉型，將其經濟從出口驅動轉向消費驅動。廣告業繼續呈現兩位數增長。想一想組成亞洲文化的集體主義模式，我們不難發現在所有營銷活動中，有模特參與的，總能有壓倒性的優勢。無論是在線，熒幕上或者是現場推廣，模特總是它的關鍵部分。

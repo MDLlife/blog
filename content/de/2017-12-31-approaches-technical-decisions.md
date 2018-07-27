@@ -6,6 +6,7 @@ image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /de/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /de/2017-12-23-what-do-we-do-and-why
 lan: de
+categories: ["News"]
 ---
 
 Im aktuellen Stadium der globalen Blockchain-Entwicklung scheint es, als ob die meisten Leute absolut vergessen haben, dass hinter jedem Projekt tatsächlich Leute arbeiten (oder nicht). Eine stilvolle Website mit einem vielversprechenden Video mit Bitcoin- oder Ethereum-Adressen bringt die Menschen mehr dazu zu investieren, als eine hart arbeitende Gemeinschaft mit respektvollen Anführern. Menschen senden einfach Geld blind zu einem intelligenten Vertrag, ohne zu erforschen, wer an dem Konzept, dem Code, dem Marketing, etc. arbeitet. Wahres KYC oder gebührende Sorgfalt sollte auf beiden Seiten walten, andernfalls kommt der Wilde Westen und viel Glück. MDL geht zumindest bei PRE-ITO etwas anders vor. Anstatt einen formellen KYC zu machen, wollen wir unsere Anleger selbst kennen und denken, dass es wichtig ist, dass sie uns auch besser verstehen. Während des PRE-ITO im Januar sind wir bereit, die Fragen zu beantworten und so gut wie möglich zur Verfügung zu stehen.

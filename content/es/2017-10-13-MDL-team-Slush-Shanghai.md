@@ -6,6 +6,7 @@ image: images/80/2017-10-13-mdl-team-slush-shanghai.jpeg
 next_article: /es/2017-10-30-what-we-gonna-do
 prev_article: /es/2017-10-10-MDL-inception
 lan: es
+categories: ["News"]
 ---
 
 ![Slush Shanghai](https://ipfs.io/ipfs/QmcN4PPiFfizycvjp5xteL2RPjresxXCau51USXifKLcdP)

@@ -6,6 +6,7 @@ image: images/2018-06-27-mdl-talent-Hub-at-cief-1.jpeg
 next_article: /en/2018-06-28-mdl-token-distribution-announcement.md
 prev_article: /en/2018-06-26-you-should-join-the-we-are-mdl-competition
 lan: en
+categories: ["News"]
 ---
 
 ## MDL Talent Hub at CIEF

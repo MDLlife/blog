@@ -6,6 +6,7 @@ image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /es/2017-12-14-mdl-at-skyledger-conference
 prev_article: /es/2017-12-08-user-instruments-part1
 lan: es
+categories: ["News"]
 ---
 
 Para prepararnos para la ITO, necesitamos un capital de 500.000 $. Esta cantidad nos permitirá lanzar nuestra campaña de ITO en marzo de 2018, en la que esperamos recaudar 20 millones de dólares para el desarrollo de la plataforma, expansión transfronteriza y desarrollo comercial, así como para I + D y la implementación adicional de las tecnologías de la cadena de bloques y PIDS.

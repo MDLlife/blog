@@ -6,6 +6,7 @@ image: images/80/2017-12-08-user-instruments-part1.jpg
 next_article: /en/2017-12-13-pre-ito-is-ongoing
 prev_article: /en/2017-12-06-mdl-my-daily-life
 lan: en
+categories: ["News"]
 ---
 
 ***Profile***

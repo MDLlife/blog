@@ -6,6 +6,7 @@ image: images/top-blog-img.png
 next_article: /de/2017-10-13-mdl-team-slush-shanghai
 prev_article: /de/2017-10-08-the-thing-is
 lan: de
+categories: ["News"]
 ---
 
 ![MDL Video](https://ipfs.io/ipfs/QmeqKazV19qNmysr6yfuxmVujN2wq6fzJqZUZhqSSCRo46")

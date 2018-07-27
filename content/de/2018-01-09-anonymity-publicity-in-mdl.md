@@ -6,6 +6,7 @@ image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /de/2018-01-14-why-mdl-value-increase
 prev_article: /de/2017-12-31-approaches-technical-decisions
 lan: de
+categories: ["News"]
 ---
 
 Eine unserer Missionen ist es, Transparenz auf dem Markt für Talentquellen zu schaffen. Wir müssen uns jedoch auch mit den allgemein akzeptierten Prozessen und Einstellungen in diesem Bereich beschäftigen. Der Einsatz von Blockchain und Persistent Immutable Data Storage (PIDS) - [IPFS](https://ipfs.io) , [CXO](https://www.skycoin.net) - Technologien, die dafür bekannt sind, Daten offen, nachvollziehbar und unveränderbar zu machen, werfen eine große Frage auf - welche Art von Informationen werden einem Publikum zugänglich sein?

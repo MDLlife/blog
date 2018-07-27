@@ -6,6 +6,7 @@ image: images/80/2018-05-06-what-is-the-mdl-token-hour-economy1.jpeg
 next_article: /en/2018-05-08-mdl-was-invited-to-speak-at-the-2018-global-graphene
 prev_article: /en/2018-05-04-mdl-development-strategy
 lan: en
+categories: ["News"]
 ---
 
 **Sky Fiber blockchain technology** allows the accumulation of token hours for holders of MDL tokens. The mechanism is simple — if one has 1 MDL token, after 1 hour he or she gets 1 MDL token hour, if one has 10 MDL tokens, after 1 hour he or she gets 10 MDL token hours. The more MDL tokens you have and the longer you keep them, the more MDL tokens hours can be accumulated.

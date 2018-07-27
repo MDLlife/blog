@@ -6,6 +6,7 @@ image: images/80/2018-05-08-mdl-was-invited-to-speak-at-the1.jpeg
 next_article: /en/2018-05-05-mdl-talent-hub-influencers-performers-take-note
 prev_article: /en/2018-05-04-mdl-development-strategy
 lan: en
+categories: ["News"]
 ---
 
 ## MDL was invited to speak at the 2018 

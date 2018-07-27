@@ -6,6 +6,7 @@ image: images/80/2018-07-16-mdl-sigma-partnership-announcement.jpeg
 next_article: /en/2018-07-18-thisisme.md
 prev_article: /en/2018-07-10-bounty-announcement.md
 lan: en
+categories: ["News"]
 ---
 
 # MDL+Sigma Partnership 

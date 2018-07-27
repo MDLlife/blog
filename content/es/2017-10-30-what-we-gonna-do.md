@@ -6,6 +6,7 @@ image: images/80/2017-10-30-what-we-gonna-do.jpg
 next_article: /es/2017-11-14-where-do-the-money-come-from
 prev_article: /es/2017-10-13-MDL-team-Slush-Shanghai
 lan: es
+categories: ["News"]
 ---
 
 

@@ -6,6 +6,7 @@ image: images/80/2018-04-11-event-recap-how-technology-is-changing-the-fashion-i
 next_article: /en/2018-04-12-how-tech-is-taking-over-the-fashion-industry
 prev_article: /en/2018-04-10-micro-influencers-macro-influencers
 lan: en
+categories: ["News"]
 ---
 
 ## [Event Recap] How Technology Is Changing The Fashion Industry

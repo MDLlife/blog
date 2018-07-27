@@ -6,6 +6,7 @@ image: images/2018-06-26-you-should-join-the-we-are-mdl-competition.jpeg
 next_article:
 prev_article: /en/2018-06-20-we-are-mdl
 lan: en
+categories: ["News"]
 ---
 
 ### You should join the We Are MDL Competition!

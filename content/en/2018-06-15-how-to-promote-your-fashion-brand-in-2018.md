@@ -6,6 +6,7 @@ image: images/2018-06-15-how-to-promote-your-fashion-brand-in-2018-1.jgp
 next_article:
 prev_article: /en/2018-05-25-beware-of-scammers-mdl-is-not-an-erc20
 lan: en
+categories: ["News"]
 ---
 
 

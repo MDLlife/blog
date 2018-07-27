@@ -6,6 +6,7 @@ image: images/80/2017-12-05-how-mdl-secures-reputation.jpg
 next_article: /ru/2017-12-06-mdl-my-daily-life
 prev_article: /ru/2017-11-25-webpage-is-launched-korea
 lan: ru
+categories: ["News"]
 ---
 
 Чтобы способствовать объективной репутации участников на рынке талантов, MDL Talent Hub применит современные технологии - блокчейн и PIDS. Давайте объясним простыми словами, как это будет работать.

@@ -6,6 +6,7 @@ image: images/80/2018-05-05-mdl-talent-hub-influencers-performers-1.png
 next_article: /zh/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving
 prev_article: /zh/2018-05-04-mdl-development-strategy
 lan: zh
+categories: ["News"]
 ---
 
 ## 为什么你要加入 [ MDL 艺人社 ] (https://mdl.life/docs/MDL_Talent_Engagement_Campaign.pdf)

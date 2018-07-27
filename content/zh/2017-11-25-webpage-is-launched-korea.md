@@ -6,6 +6,7 @@ image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /zh/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /zh/2017-11-14-where-do-the-money-come-from
 lan: zh
+categories: ["News"]
 ---
 
 在12月初，MDL团队将在韩国首尔参加2017创业节。SF2017是韩国政府为促进国家创新生态系统而首次组织的。来自亚洲的约60家创业公司将亲自受邀与来自世界各地的风投和媒体见面。MDL就在其列表中！

@@ -6,6 +6,7 @@ image: images/80/2017-12-21-mdl-mine-distributed-ledger.jpg
 next_article: /zh/2017-12-23-what-do-we-do-and-why
 prev_article: /zh/2017-12-14-mdl-at-skyledger-conference
 lan: zh
+categories: ["News"]
 ---
 
 MDL艺人社采用PIDS技术（IPFS，CXO等），这将使信息采用分布式的方式储存在用户和挖矿者的设备中，以提高访问速度和保障更高的信息安全。

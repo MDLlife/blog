@@ -6,6 +6,7 @@ image: images/2018-06-28-mdl-token-distribution-announcement.jpeg
 next_article: /en/2018-07-05-mdl-attending-riseconf-2018-hk.md
 prev_article: /en/2018-06-26-you-should-join-the-we-are-mdl-competition
 lan: en
+categories: ["News"]
 ---
 
 # MDL Token Distribution Announcement

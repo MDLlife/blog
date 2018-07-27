@@ -6,6 +6,7 @@ image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /zh/2017-12-14-mdl-at-skyledger-conference
 prev_article: /zh/2017-12-08-user-instruments-part1
 lan: zh
+categories: ["News"]
 ---
 
 我们需要大约500,000美元来为我们的ITO进行准备。这一数额将允许ITO活动在2018年3月进行开展。届时，我们预计将为平台的开发筹集约2000万美元，为业务发展和使MDL实现跨进规模化，以及加强研究开发还有加快进一步实施 BC & PID 技术。

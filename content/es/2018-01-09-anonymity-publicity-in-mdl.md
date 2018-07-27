@@ -6,6 +6,7 @@ image: images/80/2018-01-09-anonymity-publicity-in-mdl.jpg
 next_article: /es/2018-01-14-why-mdl-value-increase
 prev_article: /es/2017-12-31-approaches-technical-decisions
 lan: es
+categories: ["News"]
 ---
 
 

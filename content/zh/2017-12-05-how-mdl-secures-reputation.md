@@ -6,6 +6,7 @@ image: images/80/2017-12-05-how-mdl-secures-reputation.jpg
 next_article: /zh/2017-12-06-mdl-my-daily-life
 prev_article: /zh/2017-12-03-mdl-at-sf2017-seoul
 lan: zh
+categories: ["News"]
 ---
 
 为了确保信誉的可信度，MDL人才枢纽系统将采用两种现代技术–区块链和PIDS。让我们简单地解释一下它将如何进行运作。

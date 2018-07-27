@@ -6,6 +6,7 @@ image: images/80/2017-10-30-what-we-gonna-do.jpg
 next_article: /en/2017-11-14-where-do-the-money-come-from
 prev_article: /en/2017-10-13-MDL-team-Slush-Shanghai
 lan: en
+categories: ["News"]
 ---
 
 ![MDL Explained](https://gateway.ipfs.io/ipfs/QmVqUgtsLLuUmLfEJSpejr36LFmSpnGsBLVKVj28tCkege/MDL%20Explained.jpg)

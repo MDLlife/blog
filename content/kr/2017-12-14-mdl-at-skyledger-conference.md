@@ -7,6 +7,7 @@ next_article: /kr/2017-12-14-mdl-at-skyledger-conference
 prev_article: /kr/2017-12-13-pre-ito-is-ongoing
 lan: kr
 show_in_top: show
+categories: ["News"]
 ---
 
 ![name cards](https://gateway.ipfs.io/ipfs/QmYNLsraSd5BZp9BmnEQ1woHPWdCNSvpHSFYm5m4QE4hf1/name%20cards.jpeg)

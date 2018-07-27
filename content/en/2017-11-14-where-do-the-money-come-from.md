@@ -6,6 +6,7 @@ image: images/80/2017-11-14-where-do-the-money-come-from.jpg
 next_article: /en/2017-11-25-webpage-is-launched-korea
 prev_article: /en/2017-10-30-what-we-gonna-do
 lan: en
+categories: ["News"]
 ---
 
 ![MDL coin](https://gateway.ipfs.io/ipfs/QmVHZDTzBb96QgMsCqSEzxuwzyYX4BfNa5M7kxTYWvQC8u/coin.png)

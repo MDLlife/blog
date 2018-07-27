@@ -6,6 +6,7 @@ image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /zh/2017-12-08-user-instruments-part1
 prev_article: /zh/2017-12-05-how-mdl-secures-reputation
 lan: zh
+categories: ["News"]
 ---
 
 几十年来，我们世界的经济经历了从农业生产到服务业再到创新经济的巨大转变，正如加拿大马丁繁荣研究所的主管Richard Florida所指出的那样。现代技术正在扰乱经济，让越来越多的人失业，而早期被视为疯狂的无条件基本收入的想法已经在部分发达国家实施。很快，我们的社会将面临冲击，也许日常体力劳动甚至脑力劳动都有可能不会再被需要了。问题来了——人们会怎么做呢？

@@ -6,6 +6,7 @@ image: images/80/2018-05-17-thriving-in-an-internationally-based-company1.jpeg
 next_article: /en/2018-05-24-the-next-web-tnw-mdl-talent-hub
 prev_article: /en/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving
 lan: en
+categories: ["News"]
 ---
 
 ## Thriving in an internationally based company — MDL Talent Hub leads the way

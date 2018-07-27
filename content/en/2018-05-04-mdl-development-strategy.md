@@ -8,6 +8,7 @@ next_article: /en/2018-05-06-what-is-the-mdl-token-hour-economy
 
 prev_article: /en/2018-04-24-stage_1_ito_is_over
 lan: en
+categories: ["News"]
 ---
 
 ## MDL Development Strategy

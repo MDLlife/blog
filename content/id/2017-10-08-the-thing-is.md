@@ -6,6 +6,7 @@ image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /id/2017-10-10-mdl-inception
 prev_article: /id/2017-10-08-the-thing-is
 lan: id
+categories: ["News"]
 ---
 
 Karena mayoritas negara Asia, termasuk China dan Indonesia, sudah beberapa tahun dengan antusias mentransformasikan ekonomi mereka dari industri berbasis konsumsi ekspor, industri periklanan terus menunjukkan pertumbuhan dua digit. Dengan mempertimbangkan pola kolektif dalam budaya Asia, kita dapat mengamati keterlibatan talenta yang luar biasa dalam semua aktivitas pemasaran. Tidak peduli apakah itu online, layar, atau promosi di tempat, bakat selalu menjadi bagian penting dari itu.

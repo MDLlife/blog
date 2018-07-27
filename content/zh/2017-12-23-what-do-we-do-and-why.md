@@ -6,6 +6,7 @@ image: images/80/2017-12-23-what-do-we-do-and-why.jpg
 next_article: /zh/2017-12-31-approaches-technical-decisions
 prev_article: /zh/2017-12-21-mdl-mine-distributed-ledger
 lan: zh
+categories: ["News"]
 ---
 
 ***我们正在做什么呢？我们为什么要做这些呢？***

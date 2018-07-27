@@ -6,6 +6,7 @@ image: images/80/2018-05-04-mdl-dxd-partnership-confirmed1.png
 next_article: /en/2018-05-04-mdl-development-strategy
 prev_article: /en/2018-04-16-investors-can-now-swap-their-waves-tokens
 lan: en
+categories: ["News"]
 ---
 
 ## MDL + DXD Partnership Confirmed!

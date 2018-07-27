@@ -6,6 +6,7 @@ image: images/80/2018-01-14-why-mdl-value-increase.jpg
 next_article: /zh/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /zh/2018-01-09-anonymity-publicity-in-mdl
 lan: zh
+categories: ["News"]
 ---
 
 了解为什么MDL代币会随着时间的推移而增值对于我们的早期投资者来说，是很关键的。我们刚刚才意识到，这样对我们来说显而易见的升值趋势，对于社会来说却并不明朗。所以在这里我们想要简单介绍一下我们的代币使用计划，以及我们将如何保证我们的加密币投资者的资金增长。

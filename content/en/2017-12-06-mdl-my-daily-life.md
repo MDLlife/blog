@@ -6,6 +6,7 @@ image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /en/2017-12-08-user-instruments-part1
 prev_article: /en/2017-12-05-how-mdl-secures-reputation
 lan: en
+categories: ["News"]
 ---
 
 

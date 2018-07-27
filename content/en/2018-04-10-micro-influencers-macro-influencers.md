@@ -6,6 +6,7 @@ image: images/80/2018-04-10-micro-influencers-macro-influencers1.jpeg
 next_article: /en/2018-04-11-event-recap-how-technology-is-changing-the-fashion-industry
 prev_article: /en/2018-04-03-10-ways-to-improve-the-talent-booking-industry
 lan: en
+categories: ["News"]
 ---
 
 

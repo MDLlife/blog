@@ -6,6 +6,7 @@ image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /de/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /de/2017-11-14-where-do-the-money-come-from
 lan: de
+categories: ["News"]
 ---
 
 Anfang Dezember wird das MDL Team am Startup Festival 2017 in Seoul, Südkorea teilnehmen. Die SF2017 wird zum ersten Mal von der koreanischen Regierung organisiert, um das Innovations-Ökosystem im Land zu unterstützen. Es werden rund 60 ausgewählte Startups aus Asien persönlich eingeladen, VCs und Medien aus aller Welt zu treffen. MDL ist auf der Liste!

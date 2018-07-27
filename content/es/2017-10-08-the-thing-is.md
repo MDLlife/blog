@@ -6,6 +6,7 @@ image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /es/2017-10-10-MDL-inception
 prev_article: /es/2017-10-08-the-thing-is
 lan: es
+categories: ["News"]
 ---
 
 

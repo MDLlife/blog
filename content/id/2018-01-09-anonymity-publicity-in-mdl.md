@@ -7,6 +7,7 @@ next_article: /id/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /id/2017-12-31-approaches-technical-decisions
 lan: id
 show_in_top: show
+categories: ["News"]
 ---
 
 Salah satu misi kami adalah membawa transparansi ke pasar penemuan bakat, namun kami juga perlu mengatasi proses dan pengaturan yang umum diterima di bidang ini. Penggunaan blockchain dan teknologi Persistent Immutable Data Storage (PIDS) - [IPFS](https://ipfs.io/), [CXO](https://www.skycoin.net/) yang dikenal karena kemampuan mereka untuk membuat data terbuka, dapat dilacak, dan tidak berubah menimbulkan pertanyaan bagus - jenis informasi apa yang akan terbuka untuk umum?

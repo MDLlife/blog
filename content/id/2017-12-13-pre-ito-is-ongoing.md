@@ -6,6 +6,7 @@ image: images/80/2017-12-13-pre-ito-is-ongoing.jpg
 next_article: /id/2017-12-14-mdl-at-skyledger-conference
 prev_article: /id/2017-12-08-user-instruments-part1
 lan: id
+categories: ["News"]
 ---
 
 Untuk mempersiapkan ITO, kami membutuhkan dana $500.000. Jumlah ini akan memungkinkan untuk meluncurkan kampanye ITO 

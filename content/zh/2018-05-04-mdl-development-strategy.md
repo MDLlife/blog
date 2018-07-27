@@ -6,6 +6,7 @@ image: images/80/2018-05-04-development-update.jpg
 next_article:
 prev_article: /zh/2018-04-24-stage_1_ito_is_over
 lan: zh
+categories: ["News"]
 ---
 
 ## MDL 发展战略

@@ -6,6 +6,7 @@ image: images/80/2018-07-05-mdl-attending-riseconf-2018-hk-1.jpeg
 next_article: /en/2018-07-10-bounty-announcement.md
 prev_article: /en/2018-06-28-mdl-token-distribution-announcement.md
 lan: en
+categories: ["News"]
 ---
 
 > It is that time of the year again, no it's not in Silicon Valley, it is however, in China, Hong Kong! RISE Conference for those who don't know, is on it's 4th installment and is the biggest gathering of start-ups, entrepreneurs, investors, established tech brands, and tech thought-leaders in Asia.

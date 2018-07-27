@@ -7,6 +7,7 @@ next_article: /ja/2017-10-10-mdl-inception
 prev_article: /ja/2017-10-08-the-thing-is
 lan: ja
 show_in_top: show
+categories: ["News"]
 ---
 
 <video width="640" height="360" controls>

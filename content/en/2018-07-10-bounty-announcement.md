@@ -6,6 +6,7 @@ image: images/2018-07-10-bounty-announcement.jpeg
 next_article: /en/2018-07-16-mdl-sigma-partnership-announcement.md
 prev_article: /en/2018-06-26-you-should-join-the-we-are-mdl-competition
 lan: en
+categories: ["News"]
 ---
 
 ## Summer is in full glory and so is bounty season!

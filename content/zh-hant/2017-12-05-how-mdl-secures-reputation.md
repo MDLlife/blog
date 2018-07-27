@@ -6,6 +6,7 @@ image: images/80/2017-12-05-how-mdl-secures-reputation.jpg
 next_article: /zh-hant/2017-12-06-mdl-my-daily-life
 prev_article: /zh-hant/2017-12-03-mdl-at-sf2017-seoul
 lan: zh-hant
+categories: ["News"]
 ---
 
 為了確保信譽的可信度，MDL人才樞紐系統將採用兩種現代技術–區塊鏈和PIDS。讓我們簡單地解釋一下它將如何進行運作。

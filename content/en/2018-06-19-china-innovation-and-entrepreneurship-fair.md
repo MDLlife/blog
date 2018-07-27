@@ -6,6 +6,7 @@ image: images/2018-06-19-china-innovation-and-entrepreneurship-fair-1.jpeg
 next_article: /en/2018-06-20-we-are-mdl
 prev_article: /en/2018-06-15-how-to-promote-your-fashion-brand-in-2018
 lan: en
+categories: ["News"]
 ---
 
 ## MDL Talent Hub @ China Innovation and Entrepreneurship Fair!

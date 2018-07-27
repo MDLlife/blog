@@ -6,6 +6,7 @@ image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /en/32017-10-10-MDL-inception
 prev_article: /en/2017-10-08-the-thing-is
 lan: en
+categories: ["News"]
 ---
 
 The majority of Asian countries, including China and Indonesia, have already for the past several years been enthusiastically transforming their economies from export-driven to consumption-driven. Accordingly, the advertisement industry is expected to continue to show double digit growth. Taking into consideration collectivistic patterns of Asian cultures we can observe overwhelming involvement of talents in all marketing activities. No matter whether it is online, onscreen, or onsite promotion, talents are always a key element of advertising and promotional activities.

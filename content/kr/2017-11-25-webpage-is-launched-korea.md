@@ -6,6 +6,7 @@ image: images/80/2017-11-25-webpage-is-launched-korea.jpg
 next_article: /kr/2017-12-03-mdl-at-sf2017-seoul
 prev_article: /kr/2017-11-14-where-do-the-money-come-from
 lan: kr
+categories: ["News"]
 ---
 
 2017년 12월 초, 대한민국 서울에서 개최되는 '스타트업 페스티발 2017'(Startup Festival 2017)(이하 SF2017)에 참석하기 위해 MDL팀이 한국을 방문합니다. 한국 정부는 한국내 혁신 생태계 활성화를 위해 처음으로 SF2017를 개최합니다. 이번 행사에는 아시아에서 엄선된 약 60개 스타트업이 참가하며, 각각 개별 초청되어 창투사 및 전세계 언론 매체를 만날 기회를 가지게 됩니다. MDL이 당당히 그 초청목록에 포함되었습니다!

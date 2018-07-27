@@ -7,6 +7,7 @@ next_article:
 prev_article: /en/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving
 show_in_top: show
 lan: zh
+categories: ["News"]
 ---
 
 

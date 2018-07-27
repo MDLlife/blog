@@ -6,6 +6,7 @@ image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /zh/2017-10-10-mdl-inception
 prev_article: /zh/2017-10-08-the-thing-is
 lan: zh
+categories: ["News"]
 ---
 
 中国、印度尼西亚，大多数的亚洲国家在几年前就已经热情转型，将其经济从出口驱动转向消费驱动。广告业继续呈现两位数增长。想一想组成亚洲文化的集体主义模式，我们不难发现在所有营销活动中，有模特参与的，总能有压倒性的优势。无论是在线，荧幕上或者是现场推广，模特总是它的关键部分。

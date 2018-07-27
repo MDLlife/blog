@@ -7,6 +7,7 @@ next_article: /en/2018-07-19-mdl-interview-miss-yeah.md
 prev_article: /en/2018-07-18-thisisme.md
 show_in_top: show
 lan: en
+categories: ["News"]
 ---
 
 ## About our **YOYOW** partnership

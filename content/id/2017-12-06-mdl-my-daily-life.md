@@ -6,6 +6,7 @@ image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /id/2017-12-08-user-instruments-part1
 prev_article: /id/2017-12-05-how-mdl-secures-reputation
 lan: id
+categories: ["News"]
 ---
 
 Selama beberapa dekade terakhir, ekonomi dunia telah mengalami pergeseran besar-besaran dari pertanian dan produksi ke layanan dan berlanjut ke sektor ekonomi kreatif seperti yang dicatat oleh Richard Florida, kepala Martin Prosperity Institute, Kanada. Teknologi modern mengganggu ekonomi sedemikian rupa sehingga semakin banyak orang yang menganggur dan yang sebelumnya dianggap gila adalah gagasan tentang pendapatan dasar tanpa syarat sudah diterapkan di negara-negara maju. Segera masyarakat kita akan menghadapi momentum saat tenaga kerja fisik dan mental rutin tidak diperlukan lagi untuk kemajuan. Inilah pertanyaannya - apa yang akan dilakukan orang?

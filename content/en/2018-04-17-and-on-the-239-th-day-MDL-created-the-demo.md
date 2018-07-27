@@ -6,6 +6,7 @@ image: images/2018-04-17-and-on-the-239-th-day-MDL-created-the-demo.jpeg
 next_article: 2018-04-24-stage_1_ITO_is_over
 prev_article: 2018-04-16-investors-can-now-swap-their-waves-tokens
 lan: en
+categories: ["News"]
 ---
 
 

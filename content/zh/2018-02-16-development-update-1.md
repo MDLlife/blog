@@ -6,6 +6,7 @@ image: images/80/2018-02-16-development-update-1.jpg
 next_article: /zh/2018-02-16-development-update-1
 prev_article: /zh/2018-01-31-pre-ito-hard-cap
 lan: zh
+categories: ["News"]
 ---
 
 

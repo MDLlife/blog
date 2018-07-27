@@ -5,7 +5,8 @@ short_description: Für unsere frühen Investoren ist es wichtig zu wissen, waru
 image: images/80/2018-01-14-why-mdl-value-increase.jpg
 next_article: /de/2018-01-19-why-mdl-token-hours-are-so-cool
 prev_article: /de/2018-01-09-anonymity-publicity-in-mdl
-lan: de
+lan: 
+categories: ["News"]
 ---
 
 Für unsere frühen Investoren ist es wichtig zu wissen, warum die MDL-Token im Laufe der Zeit an Wert gewinnen. Wir haben gerade erst realisiert, dass das, was für uns offensichtlich war, für die Gemeinschaft nicht klar ist. Hier erklären wir kurz unsere Pläne zur Nutzung der Token und wie wir das Wachstum für unsere Krypto Investoren garantieren.

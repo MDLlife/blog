@@ -6,6 +6,7 @@ image: images/80/2017-12-06-mdl-my-daily-life.jpg
 next_article: /zh-hant/2017-12-08-user-instruments-part1
 prev_article: /zh-hant/2017-12-05-how-mdl-secures-reputation
 lan: zh-hant
+categories: ["News"]
 ---
 
 幾十年來，我們世界的經濟經歷了從農業生產到服務業再到創新經濟的巨大轉變，正如加拿大馬丁繁榮研究所的主管Richard Florida所指出的那樣。現代技術正在擾亂經濟，讓越來越多的人失業，而早期被視為瘋狂的無條件基本收入的想法已經在部分發達國家實施。很快，我們的社會將面臨沖擊，也許日常體力勞動甚至腦力勞動都有可能不會再被需要了。問題來了——人們會怎麼做呢？

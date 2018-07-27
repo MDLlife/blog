@@ -6,6 +6,7 @@ image: images/80/2017-10-08-the-thing-is.jpg
 next_article: /de/2017-10-10-mdl-inception
 prev_article: /de/2017-10-08-the-thing-is
 lan: de
+categories: ["News"]
 ---
 
 Da die Mehrheit der asiatischen Länder, darunter China und Indonesien, bereits seit mehreren Jahren ihre Volkswirtschaften mit Begeisterung von der Export- zur Konsumorientierung transformieren, wächst die Werbeindustrie jährlich weiterhin zweistellig. Unter Berücksichtigung kollektivistischer Muster asiatischer Kulturen können wir eine überwältigende Beteiligung von Talenten bei allen Marketingaktivitäten beobachten. Egal ob online, auf dem Bildschirm oder vor Ort, Talent ist immer der Schlüssel dazu. 

@@ -6,6 +6,7 @@ image: images/80/2018-05-06-what-is-the-mdl-token-hour-economy1.jpeg
 next_article: /en/2018-05-08-mdl-was-invited-to-speak-at-the-2018-global-graphene
 prev_article: /en/2018-05-04-mdl-development-strategy
 lan: zh
+categories: ["News"]
 ---
 
 **Sky Fiber 区块链技术** 可以为代币持有者积累代币小时数。 这机制是很简单的 — 如果有人拥有一个MDL代币，则在1小时后，他或她获得1个MDL代币小时数，如果有10个MDL代币，则在1小时后他或她获得10个MDL代币小时数。拥有越多的MDL代币，持有时间越长，将会累积越多的代币小时数。

@@ -6,6 +6,7 @@ image: images/80/2017-12-31-approaches-technical-decisions.jpg
 next_article: /es/2018-01-09-anonymity-publicity-in-mdl
 prev_article: /es/2017-12-23-what-do-we-do-and-why
 lan: es
+categories: ["News"]
 ---
 
 Dado el estado actual del desarrollo global de la cadena de bloques, parece que la mayoría de la gente ha olvidado por completo que detrás de cada proyecto hay personas trabajando [o no]. Por lo tanto, un sitio web elegante con un video prometedor y geek, con direcciones de Bitcoin o Ethereum, atrae más a la gente para invertir que una comunidad trabajadora con líderes respetuosos. La gente simplemente envía dinero a ciegas a un contrato inteligente, sin investigar quién está trabajando en el concepto, el código, el marketing, etc. El verdadero KYC o la diligencia debida se debe realizar en ambos lados, de lo contrario, ¡solo estás tirando los dados!

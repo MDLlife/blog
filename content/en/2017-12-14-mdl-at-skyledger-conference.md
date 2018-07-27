@@ -6,6 +6,7 @@ image: images/80/2017-12-14-mdl-at-skyledger-conference.jpeg
 next_article: /en/2017-12-21-mdl-mine-distributed-ledger
 prev_article: /en/2017-12-13-pre-ito-is-ongoing
 lan: en
+categories: ["News"]
 ---
 
 ![name cards](https://gateway.ipfs.io/ipfs/QmYNLsraSd5BZp9BmnEQ1woHPWdCNSvpHSFYm5m4QE4hf1/name%20cards.jpeg)

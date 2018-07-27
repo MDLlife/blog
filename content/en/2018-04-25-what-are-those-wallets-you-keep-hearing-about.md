@@ -6,6 +6,7 @@ image: images/80/2018-04-25-what-are-those-wallets-you-keep-hearing-about.jpeg
 next_article: /en/2018-05-03-mdl-dxd-partnership-confirmed
 prev_article: /en/2018-04-24-stage_1_ITO_is_over
 lan: en
+categories: ["News"]
 ---
 
 ## What are those wallets you keep hearing about?

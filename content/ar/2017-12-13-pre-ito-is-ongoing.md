@@ -7,6 +7,7 @@ next_article: /ar/2017-12-13-pre-ito-is-ongoing
 prev_article: /ar/2017-12-13-pre-ito-is-ongoing
 lan: ar
 show_in_top: show
+categories: ["News"]
 ---
 
 In order to prepare for ITO, we require ca. $500.000. This amount will allow to launch ITO campaign

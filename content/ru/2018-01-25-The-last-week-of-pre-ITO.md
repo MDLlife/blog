@@ -6,6 +6,7 @@ image: images/80/2018-01-25-The-last-week-of-pre-ITO.jpg
 next_article: /ru/2018-01-25-The-last-week-of-pre-ITO
 prev_article: /ru/2018-01-19-why-mdl-token-hours-are-so-cool
 lan: ru
+categories: ["News"]
 ---
 
 Последняя неделя пре-ITO проекта MDL Talant Hub началась с приятной новости - успешно преодолена планка минимального порога в $300 000! Поздравляем всех наших инвесторов, участников и партнеров!
