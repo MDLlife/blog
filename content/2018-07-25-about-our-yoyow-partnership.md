@@ -3,9 +3,8 @@ title: About our YOYOW partnership
 date: 2018-07-25
 short_description: In January 2018 MDL Talent Hub and YOYOW have concluded a strategic partnership agreement.
 image: images/80/2018-07-25-about-our-yoyow-partnership-1.jpeg
-next_article: /en/2018-07-19-mdl-interview-miss-yeah.md
-prev_article: /en/2018-07-18-thisisme.md
-show_in_top: show
+next_article: /en/2018-07-27-talkinanelevatorday.md
+prev_article: /en/2018-07-19-mdl-interview-miss-yeah.md
 lan: en
 categories: ["News"]
 ---
