@@ -1,9 +1,30 @@
-<!-- HEADER -->
 {{ partial "header.html" . }}
 
-<main id="main-content" class="main">
-  {{ partial "main/main-index.html" . }}
-</main>
+<div class="demo-layout mdl-layout mdl-js-layout">
+  <main class="demo-main mdl-layout__content mdl-blog-main">
+    <div class="demo-container mdl-grid">
+      <div class="mdl-cell mdl-cell--12-col">
 
-<!-- FOOTER -->
-{{ partial "main/footer/footer.html" . }}
+        <div class="mdl-picture__posts-wrapper">
+          <div class="mdl-picture__posts">
+            {{range where .Pages "Type" "=" "en"}} 
+                {{ partial "top-post.html" . }}
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="mdl-text__posts-wrapper">
+          <div class="mdl-text__posts">
+            {{range where .Pages "Type" "=" "en"}} 
+              {{ partial "bot-post.html" . }}
+            {{ end }}
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </main>
+</div>
+
+
+{{ partial "footer.html" . }}
