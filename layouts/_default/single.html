@@ -1,5 +1,13 @@
-{{ partial "header-single.html" . }}
-	
-	{{ partial "post-single-content.html" . }}
+<!-- HEADER -->
+{{ partial "header.html" . }}
 
-{{ partial "footer.html" .  }}
+<main id="main-content" class="main">
+    <div class="main__inner_single">
+        <!-- HEADER -->
+        {{ partial "single/single-header.html" . }}
+        {{ partial "single/single-content.html" . }}
+        {{ partial "single/related.html" . }}
+        {{ partial "single/footer.html" . }}
+    </div>
+</main>
+{{ partial "main/footer/footer.html" . }}
