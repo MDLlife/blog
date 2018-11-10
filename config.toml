@@ -4,16 +4,16 @@ title = "MDL - Talent Hub Blog"
 pygmentsstyle = "github"
 pygmentsuseclasses = true
 Paginate= 12
+defaultContentLanguageInSubdir= "true"
+defaultContentLanguage="en"
+relativeURLs= "false"
 
+[permalinks]
+  post = "/:year/:month/:title/"
 
 [Taxonomies]
-#  tag: "tags"
   category = "categories"
-  series= "series"
-  country= "countries"
-  language= "languages"
-  operator= "operator"
-  genre= "genre"
+  languages = "languages"
 
 [Params]
   keywords = "MDL,blockchain,talents,models,technology,app,IPFS"

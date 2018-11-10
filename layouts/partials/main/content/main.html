@@ -1,0 +1,20 @@
+{{ range .Params.categories }}
+<article class="article" data-cat="{{ lower . }}">
+{{ end }}
+<a class="article__link-inner" href="{{ .Permalink }}">
+    <div class="article__header">
+        <h3 class="article__title">{{.Title}}</h3>
+        <p class="article__date">{{ .Date.Format "2 January"}}</p>
+    </div>
+    {{if .Params.image}}
+    <div class="article__image"><img
+            src=" {{ .Params.image | absURL }} " alt="{{.Title}}"
+            class="article__image-inner"></div>
+    {{ end }}
+    <div class="article__content">
+        <p class="article__text">{{slicestr .Summary 0 100}}...</p>
+        <div class="article__divider"></div>
+        {{ range .Params.categories }}<p class="article__tag">{{ . }}</p>{{ end }}
+    </div>
+</a>
+</article>
