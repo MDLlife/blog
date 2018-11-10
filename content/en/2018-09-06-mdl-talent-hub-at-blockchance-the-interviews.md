@@ -1,10 +1,10 @@
 ---
 title: MDL @Blockchance - Interviews.
-date: 2018-08-25
+date: 2018-09-06
 short_description: Our Team Attended The Blockchance Conference in Hamburg. This is a short recap!
-image: http://blockchance.eu/wp-content/uploads/2018/07/Doublevision_DrohneHafencityElbe_170910.jpg
+image: images/80/2018-09-06-Doublevision_DrohneHafencityElbe_170910.jpg
 next_article:
-prev_article: /en/2018-06-27-mdl-talent-Hub-at-cief
+prev_article: /en/2018-08-25-mdl-talent-hub-at-blockchance
 show_in_top: show
 lan: en
 categories: ["News"]

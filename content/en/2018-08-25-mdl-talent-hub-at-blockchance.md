@@ -2,8 +2,8 @@
 title: The MDL Talent Hub at Blockchance.
 date: 2018-08-25
 short_description: Our Team Attended The Blockchance Conference in Hamburg. This is a short recap!
-image: http://blockchance.eu/wp-content/uploads/2018/08/blockchain_hh_2018-7776.jpg
-next_article:
+image: images/80/2018-08-25-blockchain_hh_2018-7776.jpg
+next_article: /en/2018-09-06-mdl-talent-hub-at-blockchance-the-interviews
 prev_article: /en/2018-06-27-mdl-talent-Hub-at-cief
 lan: en
 categories: ["News"]
@@ -18,7 +18,7 @@ I attended a blockchain event for the first time and knew some projects from the
 A monopoly destroys the market in my opinion. Anyway, I liked the idea of ​​a mesh network worldwide. The premise of My Daily Life to counteract the entertainment industry and eliminate the "greedy" managers, agents and middlemen from the payments between artists and Bookern and then the artists come to their deserved reward and not just the leftovers.
 
 
-![](http://blockchance.eu/wp-content/uploads/2018/08/blockchain_hh_2018-7493-2.jpg)
+![](/images/80/2018-08-25-blockchain_hh_2018-7493-2.jpg)
 
 
 ### Why MDL.Life?
@@ -27,7 +27,7 @@ The project MDL.Life offers about the crypto currency MDL still a lot of other f
 MDL.Life has built a very good system that everyone can benefit from.
 The website looks great, the so-called wallets of MDL tokens works incredibly fast and is also very "burglar-proof"
 
-![](http://blockchance.eu/wp-content/uploads/2018/08/blockchain_hh_2018-4918.jpg)
+![](/images/80/2018-08-25-blockchain_hh_2018-4918.jpg)
 
 ### The actual presentation at the event.
 
@@ -59,7 +59,7 @@ In any case, I have created an account and bought myself some of the MDL tokens.
 
 The team is very active in Europe, Asia and is currently expanding its ties with Africa.
 
-![](http://blockchance.eu/wp-content/uploads/2018/08/blockchain_hh_2018-7504-2.jpg)
+![](/images/80/2018-08-25-blockchain_hh_2018-7504-2.jpg)
 
 
 
