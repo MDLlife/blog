@@ -5,7 +5,6 @@ short_description: MDL Talent Hub is an application ecosystem that connects tale
 image: images/80/2018-07-27-talkinanelevatorday.jpeg
 next_article: 
 prev_article: /en/2018-07-25-about-our-yoyow-partnership.md
-show_in_top: show
 lan: en
 categories: ["News"]
 ---
