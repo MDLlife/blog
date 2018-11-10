@@ -11,4 +11,7 @@ start:
 start-watch:
 	hugo server --watch=true
 
+build:
+	rm -rf public && hugo
+
 .PHONY: start start-watch watch
