@@ -7,6 +7,7 @@ next_article: /ru/2017-12-13-pre-ito-is-ongoing
 prev_article: /ru/2017-12-06-mdl-my-daily-life
 lan: ru
 categories: ["Development"]
+
 ---
 
 ***Профиль***

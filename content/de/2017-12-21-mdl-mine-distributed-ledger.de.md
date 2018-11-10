@@ -7,6 +7,7 @@ next_article: /de/2017-12-23-what-do-we-do-and-why
 prev_article: /de/2017-12-14-mdl-at-skyledger-conference
 lan: de
 categories: ["Development"]
+
 ---
 
 MDL Talent Hub wird PIDS-Technologien (IPFS, CXO usw.) verwenden, die es ermöglichen, Informationen auf Geräten der Nutzer und bei Minern verteilt zu speichern, wodurch der Zugriff, die Geschwindigkeit und die Sicherheit von Informationen wesentlich erhöht werden.

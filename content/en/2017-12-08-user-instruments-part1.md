@@ -7,6 +7,7 @@ next_article: /en/2017-12-13-pre-ito-is-ongoing
 prev_article: /en/2017-12-06-mdl-my-daily-life
 lan: en
 categories: ["Development"]
+
 ---
 
 ***Profile***

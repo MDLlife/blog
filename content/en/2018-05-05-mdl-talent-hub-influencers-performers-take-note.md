@@ -7,6 +7,7 @@ next_article: /en/2018-05-09-the-4-Pps-mdl-talent-hub-is-solving
 prev_article: /en/2018-05-04-mdl-development-strategy
 lan: en
 categories: ["News"]
+
 ---
 
 ## Why you should join [ MDL Talent Hub ] (https://mdl.life/docs/MDL_Talent_Engagement_Campaign.pdf)

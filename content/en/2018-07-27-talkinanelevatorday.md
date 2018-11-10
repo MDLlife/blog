@@ -1,10 +1,11 @@
 ---
 title: TalkInAnElevatorDay
 date: 2018-07-27
-short_description: MDL Talent Hub is an application ecosystem that connects talents to gigs and brands to their audiences.
+short_description: Did you know that today marks “National Talk in an Elevator Day”?
 image: images/80/2018-07-27-talkinanelevatorday.jpeg
 next_article: 
 prev_article: /en/2018-07-25-about-our-yoyow-partnership.md
+show_in_top: show
 lan: en
 categories: ["News"]
 ---
@@ -25,7 +26,7 @@ The first elevator had its first ride back to 236BC and was powered by hands or 
 
 According to statistics, elevators are the safest means of transportation and 20 times safer than escalators.
 
-f you are afraid of elevators, you can breathe in peace now because every elevator is supported by multiple cables with each being able to safely carry the entire elevator along with its passengers.
+If you are afraid of elevators, you can breathe in peace now because every elevator is supported by multiple cables with each being able to safely carry the entire elevator along with its passengers.
 
 In fact, the close-door button doesn’t make the door close faster as it has been obsolete since the passage of the Americans With Disabilities Act in 1990.
 
@@ -50,4 +51,3 @@ P.s. Hope you won’t get stuck in the elevator today with someone who has claus
 ## Join the movement.
 
  [— MDL Talent Hub ] (https://mdl.life/)
-

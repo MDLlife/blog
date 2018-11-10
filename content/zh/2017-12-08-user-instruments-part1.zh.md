@@ -7,6 +7,7 @@ next_article: /zh/2017-12-13-pre-ito-is-ongoing
 prev_article: /zh/2017-12-06-mdl-my-daily-life
 lan: zh
 categories: ["Development"]
+
 ---
 
  ***个人资料***

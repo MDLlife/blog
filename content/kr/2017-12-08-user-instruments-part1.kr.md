@@ -7,6 +7,7 @@ next_article: /kr/2017-12-13-pre-ito-is-ongoing
 prev_article: /kr/2017-12-06-mdl-my-daily-life
 lan: kr
 categories: ["Development"]
+
 ---
 
 ***프로필 Profile***

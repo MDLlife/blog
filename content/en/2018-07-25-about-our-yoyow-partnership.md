@@ -7,6 +7,7 @@ next_article: /en/2018-07-27-talkinanelevatorday.md
 prev_article: /en/2018-07-19-mdl-interview-miss-yeah.md
 lan: en
 categories: ["News"]
+categories: ["News"]
 ---
 
 ## About our **YOYOW** partnership

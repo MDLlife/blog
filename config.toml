@@ -1,12 +1,21 @@
-##baseURL = "http://localhost"
-baseURL = "http://test-show.zzz.com.ua"
+baseURL = "https://mdl.wtf/"
+languageCode = "en-us"
 title = "MDL - Talent Hub Blog"
-DefaultContentLanguage = "en"
-preserveTaxonomyNames = true
+pygmentsstyle = "github"
+pygmentsuseclasses = true
+Paginate= 12
 
-[taxonomies]
-    category = "categories"
-[params]
+
+[Taxonomies]
+#  tag: "tags"
+  category = "categories"
+  series= "series"
+  country= "countries"
+  language= "languages"
+  operator= "operator"
+  genre= "genre"
+
+[Params]
   keywords = "MDL,blockchain,talents,models,technology,app,IPFS"
   description = "Blog of MDL Talent Hub. We create blockchain powered platform for talent sourcing industry."
   telegram = "https://t.me/MDL_Talent_Hub"
@@ -35,7 +44,7 @@ link = "https://www.facebook.com/mdl.wtf"
 
 [languages]
   [languages.en]
-    languageName = "Eng"
+    languageName = "EN"
     weight = 1
     sidebar_sub_title = "Learn about the"
     sidebar_sub_title_pink = "latest news"
@@ -45,7 +54,7 @@ link = "https://www.facebook.com/mdl.wtf"
     subscribeButton = "Subscribe"
   [languages.ru]
     languageName = "Рус"
-    weight = 2
+    weight = 3
     sidebar_sub_title = "Узнайте"
     sidebar_sub_title_pink = "последние новости"
     subscribe_title = "Подпишись на рассылку новостей MDL"
@@ -54,7 +63,7 @@ link = "https://www.facebook.com/mdl.wtf"
     subscribeButton = "Подписаться"
   [languages.zh]
       languageName = "简体"
-      weight = 2
+      weight = 4
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"
@@ -63,7 +72,7 @@ link = "https://www.facebook.com/mdl.wtf"
       subscribeButton = "Subscribe"
   [languages.zh-hant]
       languageName = "繁體"
-      weight = 2
+      weight = 5
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"
@@ -72,7 +81,7 @@ link = "https://www.facebook.com/mdl.wtf"
       subscribeButton = "Subscribe"
   [languages.kr]
       languageName = "한글"
-      weight = 2
+      weight = 6
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"
@@ -81,7 +90,7 @@ link = "https://www.facebook.com/mdl.wtf"
       subscribeButton = "Subscribe"
   [languages.ja]
       languageName = "日本語"
-      weight = 2
+      weight = 7
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"
@@ -90,7 +99,7 @@ link = "https://www.facebook.com/mdl.wtf"
       subscribeButton = "Subscribe"
   [languages.es]
       languageName = "ES"
-      weight = 2
+      weight = 8
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"
@@ -99,7 +108,7 @@ link = "https://www.facebook.com/mdl.wtf"
       subscribeButton = "Subscribe"
   [languages.id]
       languageName = "ID"
-      weight = 2
+      weight = 9
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"
@@ -108,7 +117,7 @@ link = "https://www.facebook.com/mdl.wtf"
       subscribeButton = "Subscribe"
   [languages.de]
       languageName = "DE"
-      weight = 2
+      weight = 10
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"
@@ -117,7 +126,7 @@ link = "https://www.facebook.com/mdl.wtf"
       subscribeButton = "Subscribe"
   [languages.ar]
       languageName = "عربي"
-      weight = 2
+      weight = 11
       sidebar_sub_title = "Learn about the"
       sidebar_sub_title_pink = "latest news"
       subscribe_title = "Subscribe to the MDL Newsletter"

@@ -7,8 +7,10 @@
                 <div class="hamburger__line"></div>
             </div>
             <div class="logo">
-                <img src="{{"/img/sidebar/logo_mdl_header.png" | absURL}}" alt="MDL Logo"
-                     class="logo__image">
+                <a href="/">
+                    <img src="{{"/img/sidebar/logo_mdl_header.png" | absURL}}" alt="MDL Logo"
+                    class="logo__image">
+                </a>
             </div>
             <div class="logo-mob-box">
                 <img src="{{"/img/sidebar/logo-mob.svg" | absURL}}" alt="MDL Logo" class="logo-mob">
@@ -89,7 +91,7 @@
             <ul class="sidebar-social__list">
                 {{ range .Site.Params.social }}
                 <li class="sidebar-social__icon"><a href="{{ .url }}" class="sidebar-social__link"><img
-                        src= "{{ .urlImage | absURL }}"
+                        src="{{ .urlImage | absURL }}"
                         alt="{{ .url }}"
                         class="sidebar-social__image"></a>
                 </li>

@@ -7,6 +7,7 @@ next_article: /zh-hant/2017-12-23-what-do-we-do-and-why
 prev_article: /zh-hant/2017-12-14-mdl-at-skyledger-conference
 lan: zh-hant
 categories: ["Development"]
+
 ---
 
 MDL藝人社採用PIDS技術（IPFS，CXO等），這將使信息採用分布式的方式儲存在用戶和挖礦者的設備中，以提高訪問速度和保障更高的信息安全。
