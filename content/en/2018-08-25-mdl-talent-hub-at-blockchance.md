@@ -34,7 +34,15 @@ The website looks great, the so-called wallets of MDL tokens works incredibly fa
 A certain Thomas Modeneis, one of the main developers and CEO of the MDL.Life project, talked.
 A young man who said a lot from the bottom of his heart, his view of the ailing entertainment industry was honest and refreshing. In no moment did I feel that MDL just wanted "my money", much more was the desire for more justice.
 It explained the wallet, the website, the Android Wallets and the principle of the project.
-A talent can create his own artist page and show his best side. Interested parties can see prices and book the talents accordingly. You pay with MDL tokens that can either be saved at the end, or exchanged in Fiat. The tokens generate so-called Coinhours, meaning every hour you hold the coins, you get Coinhours which can then be used for various services in the MDL network. Transactions are e.g. paid for it. To what extent the Coinhours are used on the website I did not understand 100%.
+A talent can create his own artist page and show his best side. Interested parties can see prices and book the talents accordingly.
+You pay with MDL tokens that can either be saved at the end, or exchanged in Fiat.
+The tokens generate so-called Coinhours, meaning every hour you hold the coins,
+you get Coinhours which can then be used for various services in the MDL network. Transactions are e.g. paid for it.
+MDL token and token hours will be used as only accepted currency for purchasing Advertisements and buying/selling things in MDL market place.
+So in order for a talent to promote himself or a booker to promote his gigs they will be required to have MDL and spend their token hours.
+On the market place, artists will be able to sell their things, for example a guitar player can sell his guitar or exchange for another one by using his MDL/token hours.
+
+So from what I could understand, this is how Coinhours are going to be used on the website.
 
 The opportunities for emerging new faces in the entertainment industry are very good on MDL.Life. Apple, Amazon, Spotify, Napster etc. by the own fees hardly something with the artist leaves. The site can be thought of as a symbiosis of Itunes, Linkedid, YouTube and Facebook for artists.
 
@@ -44,7 +52,7 @@ Watch the talk:
 
 ### After the event:
 
-I took the time to talk to Thomas (CEO) and Roman (CTO) as well as David (Android developer) and Ivens (Blockchain Developer) to see if it's all about money.
+I took the time to talk to Thomas (CEO) and Roman (CTO) as well as David (Android developer), Ivens (Blockchain Developer) and Katarina (FrontEnd Developer) to see if it's all about money.
 My questions were answered very nicely and explained various aspects of why a blockchain makes sense for their project.
 
 In any case, I have created an account and bought myself some of the MDL tokens.
