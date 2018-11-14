@@ -1,5 +1,5 @@
 ---
-title: The MDL Talent Hub is releasing the Android Wallet on Google App Store.
+title: The MDL Talent Hub is releasing the Android Wallet on Google Play Store.
 date: 2018-11-14
 short_description: Our Team is releasing the testing program for an unreleased version of the MDL Wallet app
 image: /images/2018-11-14/gopher-celebrating-wallet-appstore.jpg
@@ -10,9 +10,9 @@ categories: ["Development"]
 show_in_top: show
 ---
 
-## MDL Talent Hub is releasing the Android Wallet on Google App Store.
+## MDL Talent Hub is releasing the Android Wallet on Google Play Store.
 
-Today marks a huge milestone on our path, the release of the Android Wallet on Google App Store.
+Today marks a huge milestone on our path, the release of the Android Wallet on Google Play Store.
 We would like to invite you to join the testing program for an unreleased version of the MDL Wallet app.
 
 ![Permission to use camera](/images/2018-11-14/mdl-wallet-store.jpg)
@@ -51,9 +51,6 @@ Hit send to send some funds, or use the QR code reader to pay someone with your 
 We kindly invite you to join the testing program of the MDL Wallet app.
 As a tester, you'll receive an update that includes a testing version of the MDL Wallet app,
 which may also include unreleased versions of its instant app.
-
-Send your feedback to MDL CTO - Roman Tronenko using the contact information: rt@mdl.life
-
 
 https://play.google.com/apps/testing/live.mdl.wallet
 
