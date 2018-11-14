@@ -3,7 +3,7 @@ title: The MDL Talent Hub is Celebrating Golang 9 Years.
 date: 2018-11-10
 short_description: Our Team is celebrating ninth anniversary of the language we use on our Blockchain, Golang!
 image: /images/80/2018-11-10-gopher-mdl-birthday-300px.jpg
-next_article:
+next_article: /en/2018-14-10-mdl-talent-hub-android-wallet-store
 prev_article: /en/2018-09-06-mdl-talent-hub-at-blockchance-the-interviews
 lan: en
 categories: ["Development"]

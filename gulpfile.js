@@ -18,7 +18,7 @@ gulp.task('watch-sass', function(){ // Создаем таск Sass
 		.pipe(gulp.dest('static/css')) // Выгружаем результата в папку app/css
 });
 
-gulp.task('css-build', ['watch-sass'], function() {
+gulp.task('css', ['watch-sass'], function() {
     return gulp.src([
         'static/css/main.css',
         'static/css/libs.css'
