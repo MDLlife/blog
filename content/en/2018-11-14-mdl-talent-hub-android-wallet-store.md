@@ -3,11 +3,11 @@ title: The MDL Talent Hub is releasing the Android Wallet on Google Play Store.
 date: 2018-11-14
 short_description: Our Team is releasing the testing program for an unreleased version of the MDL Wallet app
 image: /images/2018-11-14/gopher-celebrating-wallet-appstore.jpg
-next_article:
+next_article: /en/2018-14-10-mdl-talent-hub-android-wallet-store
 prev_article: /en/2018-11-10-mdl-talent-hub-celebrating-golang-9years
 lan: en
 categories: ["Development"]
-show_in_top: show
+show_in_top:
 ---
 
 ## MDL Talent Hub is releasing the Android Wallet on Google Play Store.

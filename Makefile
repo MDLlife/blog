@@ -9,7 +9,7 @@ start:
 	hugo server --watch=true
 
 start-watch:
-	hugo server --watch=false
+	hugo server --watch=true
 
 build:
 	rm -rf public && hugo

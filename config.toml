@@ -4,9 +4,9 @@ title = "MDL - Talent Hub Blog"
 pygmentsstyle = "github"
 pygmentsuseclasses = true
 Paginate= 12
-defaultContentLanguageInSubdir= "true"
+defaultContentLanguageInSubdir= "false"
 defaultContentLanguage="en"
-relativeURLs= "false"
+relativeURLs= "true"
 
 [permalinks]
   post = "/:year/:month/:title/"

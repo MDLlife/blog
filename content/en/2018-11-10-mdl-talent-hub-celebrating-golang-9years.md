@@ -7,7 +7,7 @@ next_article: /en/2018-14-10-mdl-talent-hub-android-wallet-store
 prev_article: /en/2018-09-06-mdl-talent-hub-at-blockchance-the-interviews
 lan: en
 categories: ["Development"]
-show_in_top: show
+show_in_top:
 ---
 
 ## MDL Talent Hub is Celebrating Golang 9 years old.
