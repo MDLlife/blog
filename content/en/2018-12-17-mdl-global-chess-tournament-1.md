@@ -10,6 +10,9 @@ categories: ["News"]
 show_in_top: show
 ---
 
+## MDL Talent Hub Global New Year 2019 Chess Tournament #1
+
+
 Upset about crypto prices or global instabilities? MDL Talent Hub invites you to forget your worries by competing in our chess tournament next month! 
 
 This year the MDL Global Chess Tournament is celebrating all of the world’s New Year’s starting in early January and ending just after the lunar Year of the Pig arrives. We’ll be sending the official dates and instructions for setting up games as soon as enough players join, so sign up among the first 20 to make sure you get into the tournament.
