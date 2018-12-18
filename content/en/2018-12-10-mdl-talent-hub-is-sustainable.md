@@ -3,7 +3,7 @@ title: MDL Talent Hub is Sustainable.
 date: 2018-12-10
 short_description: Our Team is Sustainable, we are not going anywhere.
 image: images/2018-12-10/world-wide-models-MDL.jpg
-next_article:
+next_article: /en/2018-12-17-mdl-global-chess-tournament-1
 prev_article: /en/2018-11-10-mdl-talent-hub-celebrating-golang-9years
 lan: es
 categories: ["Development"]
