@@ -3,7 +3,7 @@ title: MDL Talent Hub Global New Year 2019 Chess Tournament #1
 date: 2018-12-18
 short_description: MDL Talent Hub invites you to forget your worries by competing in our online chess tournament next month!
 image: gif/mdl-2019-newyear-chess-tournament-1.gif
-next_article:
+next_article: /en/2019-01-01-mdl-android-wallet-open-beta-release
 prev_article: /en/2018-12-10-mdl-talent-hub-is-sustainable
 lan: en
 categories: ["News"]
