@@ -17,14 +17,6 @@
 -->
 <html lang="en">
   <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108901953-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-108901953-1');
-    </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Token MDL blog">
@@ -50,9 +42,9 @@
          <div class="mdl-top__wrapper">
          	 <a class="mdl-top__teleg" href="{{ .Site.Params.telegram }}"><img class="mdl-top__teleg-item" src="{{ "images/mdl_telegram.svg" | absURL}}" alt=""></a>
          	 <a class="mdl_logo-link" href="/"><img class="mdl_logo" src="{{ "images/mdl_logo.svg" | absURL}}" alt="MDL logo"></a>
-         	 
+
             {{ partial "langs-list.html" . }}
 
          </div>
-          
+
     </div>
