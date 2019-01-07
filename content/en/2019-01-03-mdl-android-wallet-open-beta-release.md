@@ -3,7 +3,7 @@ title: MDL Android Wallet Beta Release
 date: 2019-01-03
 short_description: Bitcoin 10 years old
 image: gif/mdl_android_beta_release.gif
-next_article:
+next_article: /en/2019-01-07-mdl-new-year-2019-chess-tournament-soon
 prev_article: /en/2018-12-18-mdl-global-chess-tournament-1
 lan: en
 categories: ["News"]
