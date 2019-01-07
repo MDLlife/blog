@@ -20,6 +20,9 @@ This year the MDL Global Chess Tournament is celebrating all of the world’s Ne
 Prizes for the champions will of course be MDL tokens! We've allocated a total of 155,000 MDL in prizes for the top 10 players and will be adding an extra 1550 MDL into the pool for everyone who joins. That means if the maximum 100 people join, we’ll be giving about $6200* USD worth of MDL to the top player, and plenty more to others. Here is how that situation would look:
 
 
+<center>
+
+
 | place |       %       |   prize     |         |
 |-------|---------------|-------------|---------|
 |  1st  | 40% of reward | 124,000 MDL | 6,200$* |
@@ -31,6 +34,8 @@ Prizes for the champions will of course be MDL tokens! We've allocated a total o
 |  7th  |  1% of reward | 3,100   MDL | 155$*   |
 |  ...  |  1% of reward | 3,100   MDL | 155$*   |
 |  10th |  1% of reward | 3,100   MDL | 155$*   |
+
+</center>
 
 
 There is also a prize of 8% each for the two players who win Most Interesting Match, decided with input from the community. We hope you'll take some inspiration from AlphaZero and its new mind-boggling style of play to try out an unusual opening or take more chances.

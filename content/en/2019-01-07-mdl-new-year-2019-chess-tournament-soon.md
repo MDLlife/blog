@@ -24,7 +24,7 @@ Here’s how it works:
 
  * Set up a (free) account on [lichess.org](https://lichess.org) if you haven’t, then input your profile name and information on [the public sign up sheet](https://docs.google.com/forms/d/e/1FAIpQLSf4dooMruWkNZjJ8heKMxA3m9myVQ1ce4RafH5AyFD8JA-UJA/viewform).
 
- * Compete online with opponents from the tournament around the world (15 minutes / + 15 seconds per game), and send in the results of your games and the public link as you progress.
+ * Compete online with opponents from the tournament around the world (15 minutes / + 15 seconds per move), and send in the results of your games and the public link as you progress.
 
  * Get up to 40% of the total prize tokens for winning first place, and at least 1% for all who take part (finishing 7th place or lower).
 
