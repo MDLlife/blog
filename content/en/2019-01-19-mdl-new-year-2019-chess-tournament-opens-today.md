@@ -4,7 +4,7 @@ date: 2019-01-19
 short_description: Chess tournament is starting now
 image: gif/mdl-2019-newyear-chess-tournament-1.gif
 next_article:
-prev_article: /en/2018-12-18-mdl-global-chess-tournament-1
+prev_article: /en/2019-01-19-mdl-new-year-2019-chess-tournament-opens-today
 lan: en
 categories: ["News"]
 show_in_top: show
