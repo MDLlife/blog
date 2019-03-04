@@ -24,7 +24,7 @@ Among the multiple updates are:
  - _***Wallet encryption***_ using chacha20+poly1305 for encryption and authentication and scrypt for key derivation.
 <center>
   ![](/images/dev-update-2019-1/encrypted-wallet.png)
-  Add passwords, not to store your seed in plain text
+  You can now add a password, and your wallet seed will be encrypted
 </center>
 
  - _***Advanced Send***_, allowing users to control which outputs to use for transaction, a detailed control of Token Hour allocation and feature to send to a multiple receivers (Multi-Send)
@@ -38,7 +38,7 @@ Among the multiple updates are:
  Choose multiple destination addresses (Multi-Send)
 
  ![](/images/dev-update-2019-1/tokenhour-alloc.png)
- Specify Token Hours allocation to be sent along
+ Specify [Token Hours](https://mdl.wtf/en/2018-05-06-what-is-the-mdl-token-hour-economy/) allocation to be sent along
 
  ![](/images/dev-update-2019-1/preview.png)
  Preview the transaction and see results.
