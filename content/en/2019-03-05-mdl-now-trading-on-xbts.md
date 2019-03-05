@@ -13,6 +13,7 @@ show_in_top: show
 It never was a secret, that MDL Talent Hub prefers DEX's for listing, and as we were already trading on Waves DEX starting from the beginning of the project, now we are very happy to announce that MDL Token is also trading on yet another decentralized exchange, DEX, [XBTS.io](https://xbts.io).
 
 Welcome to XBTS Decentralized Exchange https://xbts.io/
+
 XBTS Decentralized Exchange for everyone who wants to simply and secure buy and sell Bitcoins or Altcoins. Instant buy/sell of cryptocurrency at fair price is blockchain guaranteed. Nothing extra. 100.000 transactions per second. Confirmation time of just 3 seconds. 180+supported countries.
 XBTS DEX is a BitShares-based decentralized exchange and an entry point into the decentralized market.
 
@@ -24,10 +25,15 @@ Decentralization gives XBTS robustness against failure. Transactions depend upon
 Low Cost trading fees for takers and all market makers. XBTS DEX is decentralized across the globe. No single point of failure. Network growth through adoption rewards.
 
 https://xbts.io/
+
 https://twitter.com/XBTS_EXCHANGE
+
 https://bitcointalk.org/index.php?topic=4810122
+
 https://community.smartholdem.io/category/86/xbts-dex-exchange-xbts-io
+
 https://github.com/XBTS
+
 https://t.me/xbtsio
 
 XBTS is a cryptocurrency decentralized exchange based on BitShares 2.0 protocol that allows you to trade, buy, sell, and store cryptocurrencies against Bitcoin, Ethereum, Bitshares, US Dollars, Euro, Russian Rubles, and soon, even gold, and other cryptocurrencies. It is fast, user friendly and allows the exchange of 50+ cryptocurrencies.
