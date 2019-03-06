@@ -10,7 +10,7 @@ categories: ["News"]
 show_in_top: show
 ---
 
-Please feel invited and join us this Friday, if you happened to be in Hamburg, Germany.
+Please feel invited and join us this Friday, if you happen to be in Hamburg, Germany.
 
 Meetup.com Event:
 
@@ -20,7 +20,7 @@ https://www.meetup.com/Friends-of-WeWork-Labs-Hamburg/events/259502829
 
 Apply your talent in a new way!
 
-MDL Talent Hub is a completely new way to skilfully promote your talent and organise it for gigs via a secure Blockchain based system. Data is protected against third parties by the platform. The payment runs through the MDL tokens which guarantee transparency between booker and talent. A combination of Myspace, Facebook, LinkedIn, YouTube and more. Meet one of the main developers and learn more about MDL Talent Hub. We will also take some time to talk about Skycoin, as a blockchain provider, and explain its advantages over Bitcoin, Ethereum and others.
+MDL Talent Hub is a completely new way to skilfully promote your talent and organise it for gigs via a secure Blockchain based system. Data is protected against third parties by the platform. The payment runs through the MDL tokens which guarantee transparency between booker and talent. A combination of Myspace, Facebook, LinkedIn, YouTube and more. Meet one of the main developers and learn more about MDL Talent Hub. We will also take some time to talk about Skycoin, as a blockchain provider, and explain its advantages over Bitcoin, Ethereum, and others.
 
 Admission free!
 
