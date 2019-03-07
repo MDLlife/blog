@@ -1,6 +1,6 @@
 ---
 title: MDL Token XBTS.io DEX Increased price 2321.31% in 24h.
-date: 2019-03-05
+date: 2019-03-07
 short_description: MDL Token Now Trading on XBTS.io
 image: images/trading-on-xbts.png
 next_article:
