@@ -10,7 +10,7 @@ categories: ["News"]
 show_in_top: show
 ---
 
-It’s tough to get people around the world together for a competition, but that’s what we managed to do for the MDL New Year Chess tournament. The final games have now been played and our winners are in! Check out the final rankings and prizes below!
+It’s tough to get people from around the world together for one competition, but that’s what we did for the MDL New Year Chess tournament. The final games have now been played and our winners are in! Check out the final rankings and prizes below!
 
 <center>
 [![MDL Chess Places 1-8](/images/chess/mdl-chess-2019-table.png)
@@ -22,8 +22,8 @@ Many thanks to all who made time in their schedules to connect with each other a
 MDL prizes are distributed today.
 </center>
 
-That's not exactly over for this competition, though. We're preparing the list of interesting games,
-where the community will vote for the Most Exciting Game in our official Telegram group. The opponents who win by voting will receive 14,756 MDL each.
-Join our group on Telegram to vote and be the first to know: https://t.me/MDL_Talent_Hub
+It's not exactly over for this competition, though. We're preparing a list of interesting games, which the community will vote on for Most Exciting Game in our official Telegram group. Those who win the vote will receive 14,756 MDL each.
 
-Look forward to more competitions to come when you’ll be able to show your talent and get involved with the MDL community.
+Join our group on Telegram to vote and be the first to know: [t.me/MDL_Talent_Hub](https://t.me/MDL_Talent_Hub)
+
+Look forward to more competitions to come, when you’ll be able to show your talent and get involved with the MDL community.
