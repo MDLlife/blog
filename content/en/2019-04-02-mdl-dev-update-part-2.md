@@ -16,6 +16,9 @@ In [part one](https://mdl.wtf/en/2019-03-04-mdl-dev-update-part-1/) of our exten
 
 In terms of [Desktop Wallet](https://github.com/MDLlife/MDL/releases) UI improvements, you’ll now be able to filter transactions in your History tab based on the wallets used for the transaction and also when you made the transaction. The URI specification has been extended to support plain addresses without an mdl: prefix, and the libmdl source code has been removed thanks based on migration to https://github.com/skycoin/libskycoin. On the technical front, the desktop wallet now has the CLI addressTransactions command, as well as /api/v2/wallet/seed/verify to verify if a seed is a valid bip39 mnemonic seed, and much much more.
 
+
+ ![](/images/dev-update-2019-2/desktop-wallet-history-filter.png)
+
 There is really a lot to read about technical updates. For the full detailed list you can check [CHANGELOG](https://github.com/MDLlife/MDL/blob/master/CHANGELOG.md)
 
 
