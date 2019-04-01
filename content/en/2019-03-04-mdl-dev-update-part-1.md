@@ -3,7 +3,7 @@ title: MDL Talent Hub - Development update 2019 (part I)
 date: 2019-03-04
 short_description: Chess tournament is starting now
 image: images/80/2018-02-16-development-update-1.jpg
-next_article:
+next_article: /en/2018-04-02-mdl-dev-update-part-2
 prev_article: /en/2018-12-18-mdl-global-chess-tournament-1
 lan: en
 categories: ["Development"]
