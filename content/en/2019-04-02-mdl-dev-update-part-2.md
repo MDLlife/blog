@@ -1,6 +1,6 @@
 ---
 title: MDL Talent Hub - Development update 2019 (part II)
-date: 2019-04-01
+date: 2019-04-02
 short_description: Chess tournament is starting now
 image: images/80/2018-02-16-development-update-1.jpg
 next_article:
@@ -26,6 +26,12 @@ There is really a lot to read about technical updates. For the full detailed lis
 
 [Mobile Wallet](https://MDL.app) is improving quickly -- the Google Play Wallet Beta has been released with localization updates for Traditional and Simplified Chinese, Dutch (NL), Spanish (Castellano and US), Russian, German, and soon-to-be-released Japanese.
 
+
+  Pin protection              |   Dashboard         | Explorer                         |
+  :-------------------------:|:------------------------:|:-------------------------:
+  ![](/images/dev-update-2019-2/android-wallet-pin.jpg)  |  ![](/images/dev-update-2019-2/android-wallet-dashboard.jpg) |  ![](/images/dev-update-2019-2/android-wallet-explorer.jpg)
+  ![](/images/dev-update-2019-2/android-wallet-create.jpg)  |  ![](/images/dev-update-2019-2/android-wallet-import.jpg) |  ![](/images/dev-update-2019-2/android-wallet-success.jpg)
+
 Mobile Wallet now supports Skycoin wallet’s QR-code scanner, and lets you set an amount in MDL to receive to your own wallet via QR code.
 
 Explorer integration has been added for TXID and Addresses, and the UI now shows the MDL Theme for all Dialogues.  
@@ -43,7 +49,14 @@ The Mobile MDL Talent Hub platform app is now being translated into Flutter, whi
 Lastly, the [web portal](https://MDL.live) is getting more features ready. check out the full list of app portals and functions that are making the user experience smoother and more solid all around:
 
 - Gig feedback
-Explain how it works, get screen shots
+
+![](/images/dev-update-2019-2/web-feedback-1.png)
+
+
+  Talent              |   Booker
+  :-------------------------:|:-------------------------:
+  ![](/images/dev-update-2019-2/web-feedback-2.png)  |  ![](/images/dev-update-2019-2/web-feedback-3.png)
+
 - Translations
  - Chinese traditional,
  - Spanish,
@@ -56,28 +69,19 @@ Explain how it works, get screen shots
  - Korean,
  - Croatian
 - Payment management for bookers
-Explain how it works, get screen shots
+
+  ![](/images/dev-update-2019-2/web-payment-talent.png)  
+
 - Payment management for talents
-Explain how it works, get screen shots
+
+  ![](/images/dev-update-2019-2/web-payment-talent-2.png)
+
 - Calendar
-Explain how it works, get screen shots
-- Feedback for bookers
-Explain how it works, get screen shots
-- Feedback for talents
-Explain how it works, get screen shots
-- Booker gigs
-Explain how it works, get screen shots
-- Talent gigs
-Explain how it works, get screen shots
+
+  ![](/images/dev-update-2019-2/web-calendar.png)
+
 - Onboarding (Complete for Models and Bookers)
-Explain how it works, get screen shots
 - SMS login / signup implementation
-Explain how it works, get screen shots
 - Messenger
-Explain how it works, get screen shots
 - Progressive WebApp and Service Workers
-Explain why is important
 - Gig creation for Bookers
-Explain how it works, get screen shots
-- Gig creation for Talents
-Explain how it works, get screen shots
