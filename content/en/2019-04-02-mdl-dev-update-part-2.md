@@ -68,20 +68,45 @@ Lastly, the [web portal](https://MDL.live) is getting more features ready. check
  - Japanese,
  - Korean,
  - Croatian
+ 
 - Payment management for bookers
 
-  ![](/images/dev-update-2019-2/web-payment-talent.png)  
+  ![](/images/dev-update-2019-2/web-payment-booker-1.png)  
 
-- Payment management for talents
+- Payment management for talents - request for payment
+
+  ![](/images/dev-update-2019-2/web-payment-talent-1.png)
+  
+- Payment management for talents - filling your hours
 
   ![](/images/dev-update-2019-2/web-payment-talent-2.png)
 
-- Calendar
+- Payment management for talents - manage all payment requests
+
+  ![](/images/dev-update-2019-2/web-payment-talent-3.png)  
+
+- Calendar - all your events on the same screen, super easy to find your next gig!
 
   ![](/images/dev-update-2019-2/web-calendar.png)
 
 - Onboarding (Complete for Models and Bookers)
-- SMS login / signup implementation
+
+![](/images/dev-update-2019-2/web-onboarding.png)
+
 - Messenger
-- Progressive WebApp and Service Workers
+![](/images/dev-update-2019-2/web-messager.png)
+
 - Gig creation for Bookers
+![](/images/dev-update-2019-2/web-gig-creation.png)
+
+
+
+More dev updates are coming soon, Progressive WebApp and Service Workers, SMS login / signup implementation, and much much more!
+
+
+
+---
+MDL Talent Hub Management Team.  
+
+<3 SKY
+
