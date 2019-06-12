@@ -10,7 +10,7 @@ categories: ["News"]
 show_in_top: show
 ---
 
-One of our active supporters in Ghana wants to show MDL Talent Hub again at this festival in August 2019, but management currently doesn’t have the budget to support his activity. We’d like to help crowd fund him instead!
+One of our active supporters in Ghana wants to show MDL Talent Hub again at this festival in August 2019, our team is super excited with the idea of having the budget to support this awesome activity with the help of our community! We’d like to help crowd fund him!
 
 Here’s what he told us:
 
