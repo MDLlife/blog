@@ -3,7 +3,7 @@ title: Help MDL Make It to Ghana for Chale Wote 2019
 date: 2019-06-12
 short_description: Our active supporter in Ghana wants to show MDL Talent Hub again at Chale Wote in August 2019, but management currently doesn’t have the budget to support his activity. We’d like to help crowd fund him instead!
 image: images/ghana-chale-wote-2018/thumbnail.jpg
-next_article:
+next_article: /en/2019-07-24-mdl-development-update-july
 prev_article: /en/2018-05-04-mdl-dev-update-part-3
 lan: en
 categories: ["News"]
