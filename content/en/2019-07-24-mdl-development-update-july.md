@@ -10,7 +10,7 @@ categories: ["Development"]
 show_in_top: show
 ---
 
-## MDL Android Wallet version 3.0.5 Released 
+## MDL Android Wallet version 0.3.5 Released 
 
 New version (0.3.5) of MDL Android Wallet just hit Google Play and available for everybody.
 
