@@ -23,14 +23,14 @@ We are going to walk you around, please feel free to grab a seat and enjoy the s
 Because we have already pre-created this wallet for testing proposes, we will start showing the "enter your PIN" view:
 
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-enter-pin.jpg)
+![MDL IOs Wallet enter pin](/images/2019-08/mdl-ios-wallet-enter-pin.jpg)
 </center>
 
 
 
 After that, the next screen you will see is the wallet overview, please note that we have two addresses there, the "1" and "Bounty :)" :
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-overview.jpg)
+![MDL IOs Wallet Overview](/images/2019-08/mdl-ios-wallet-overview.jpg)
 </center>
 
 
@@ -38,31 +38,31 @@ To show you that is possible to create a new wallet address on a existing wallet
 We will then create a new wallet named: "I believe I can fly"
 
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-new-wallet.jpg)
+![MDL IOs Wallet new wallet](/images/2019-08/mdl-ios-wallet-new-wallet.jpg)
 </center>
 
 
 After creating our new wallet address, the next screen you will see the new wallet "I believe I can fly" in the the wallet overview:
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-overview-2.jpg)
+![MDL IOs Wallet new wallet step 2](/images/2019-08/mdl-ios-wallet-overview-2.jpg)
 </center>
 
 
 We will now check our transaction history, we just got a small bounty payment. YEY! ;)
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-transaction-history.jpg)
+![MDL IOs Wallet transaction history](/images/2019-08/mdl-ios-transaction-history.jpg)
 </center>
 
 
 Next step is to transfer some coins right ? We would like to be able to pay up for all the efforts our amazing developers are putting into this new IOs app ;)
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-send-coins-view.jpg)
+![MDL IOs Wallet send coins](/images/2019-08/mdl-ios-wallet-send-coins-view.jpg)
 </center>
 
 
 Now, lets select a address for the payment:
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-select-address-view.jpg)
+![MDL IOs Wallet select address](/images/2019-08/mdl-ios-wallet-select-address-view.jpg)
 </center>
 
 
@@ -70,38 +70,38 @@ Now we have to select the UTXOs we would like to spend. Please note: After compl
 be sent to your selected change address.
 
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-select-utxos-view.jpg)
+![MDL IOs Wallet select UTXOs](/images/2019-08/mdl-ios-wallet-select-utxos-view.jpg)
 </center>
 
 We will now scan the address we would like to send coins to and insert the Amount:
 
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-send-coins-view-2.jpg)
+![MDL IOs Wallet send coins step 2](/images/2019-08/mdl-ios-wallet-send-coins-view-2.jpg)
 </center>
 
 
 Lets hit that gorgeous purple Send button and submit our transaction to the blockchain:
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-send-coins-view-3.jpg)
+![MDL IOs Wallet view step 3](/images/2019-08/mdl-ios-wallet-send-coins-view-3.jpg)
 </center>
 
 
 And after one second, you should be able to see the confirmation screen:
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-send-coins-view-success.jpg)
+![MDL IOs Wallet view success](/images/2019-08/mdl-ios-wallet-send-coins-view-success.jpg)
 </center>
 
 
 
 We will now check our transaction history again, this time we can also see our transaction that was just sent.
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-transaction-history-2.jpg)
+![MDL IOs Wallet transaction history](/images/2019-08/mdl-ios-wallet-transaction-history-2.jpg)
 </center>
 
 
 We can also show our address to other in order to ask for them to send us MDL:
 <center>
-![View how much it worth what you are sending](/images/2019-08/mdl-ios-wallet-receive-to-wallet.jpg)
+![MDL IOs Wallet receive wallet](/images/2019-08/mdl-ios-wallet-receive-to-wallet.jpg)
 </center>
 
 
