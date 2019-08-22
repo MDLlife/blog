@@ -3,7 +3,7 @@ title: MDL Development update - July
 date: 2019-07-24
 short_description: Development update - Wallet release & Crypto-potential
 image: gif/mdl_android_beta_release.gif
-next_article: 
+next_article: /en/2019-08-22-mdl-development-update-aug
 prev_article: /en/2019-06-12-mdl-chale-wote-2019-crowdfund
 lan: en
 categories: ["Development"]
@@ -77,3 +77,11 @@ Our project have been added with ALL 4 badges.
 
 https://crypto-potential.com/project/mdl-talent-hub
 
+
+In the meantime, we’re all headed back to work. Thank you for your support and trust!
+
+
+---
+MDL Talent Hub Management Team.
+
+<3 SKY
