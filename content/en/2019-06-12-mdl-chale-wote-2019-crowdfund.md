@@ -56,4 +56,6 @@ If you want to see MDL Talent Hub joining CHALE WOTE this year, please donate Bi
   - MDL: [24Ah3q511iuMG3UAzvkZhgE9EysYsaPkgBy](https://explorer.mdl.wtf/app/address/24Ah3q511iuMG3UAzvkZhgE9EysYsaPkgBy/1)
   - SKY: [DxSzXrJYqeHaw3gJEj1ZkEK6XCYp5SsWmp ](https://explorer.skycoin.net/app/address/DxSzXrJYqeHaw3gJEj1ZkEK6XCYp5SsWmp/1)
 
-  Help MDL Make It to Ghana for Chale Wote 2019
+  Help MDL Talent Hub Make It to Ghana for Chale Wote 2019
+
+  Huge thanks to Osaberima, Africa 🌍 MDL Ambassador, for everything
