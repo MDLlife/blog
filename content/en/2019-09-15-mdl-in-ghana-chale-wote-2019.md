@@ -1,6 +1,6 @@
 ---
 title: MDL in Ghana @ Chale Wote Festival 2019
-date: 2019-09-14
+date: 2019-09-15
 short_description: MDL in Ghana
 image: /images/ghana-chale-wote-2019/photo_2019-09-04_09-59-14.jpg
 next_article:
@@ -47,8 +47,7 @@ The annual CHALE WOTE Street Art Festival is an alternative platform that brings
 
   ![MDL @ Ghana](/images/ghana-chale-wote-2019/photo_2019-09-04_10-00-40.jpg)
 
-Thanks to the support of our active community and hard word of Osaberima, our Africa Ambassador, MDL Talent Hub participated
-this year and that was a lot of fun. Enjoy the photos and video. We do hope very much to attend in 2020, where more of us can join.
+Thanks to the support of our active community and hard word of Osaberima(kumi Sakyi Charles), our Africa Ambassador, MDL Talent Hub participated this year and that was a lot of fun. Enjoy the photos and video. We do hope very much to attend in 2020, when more of us can join.
 
 
 _              |   _ |   _
