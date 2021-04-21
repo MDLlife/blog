@@ -1,6 +1,6 @@
 ---
-title: MDL Ghana Photoshoot 2021
-date: 2021-04-14    
+title: MDL Ghana Photoshoot 2021 (Part 1)
+date: 2021-04-21
 short_description: Our Africa Ambassador in Ghana has organised MDL Talent Hub photo shoot; it's amazing!
 image: images/2021/osa-01.jpg
 next_article: /en/2019-07-24-mdl-development-update-july
@@ -41,11 +41,11 @@ Along with the photo shoot there was a brief interview of each of the talents an
 <center>
 !["MDL @ Ada 2021"](/images/2021/3.jpg)
 !["MDL @ Ada 2021"](/images/2021/4.jpg)
+!["MDL @ Ada 2021"](/images/2021/10.jpg)
+!["MDL @ Ada 2021"](/images/2021/9.jpg)
 !["MDL @ Ada 2021"](/images/2021/5.jpg)
 !["MDL @ Ada 2021"](/images/2021/7.jpg)
 !["MDL @ Ada 2021"](/images/2021/8.jpg)
-!["MDL @ Ada 2021"](/images/2021/9.jpg)
-!["MDL @ Ada 2021"](/images/2021/10.jpg)
 !["MDL @ Ada 2021"](/images/2021/11.jpg)
 !["MDL @ Ada 2021"](/images/2021/12.jpg)
 
